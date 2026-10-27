@@ -1,0 +1,508 @@
+{
+  "id": "day-2026-10-27",
+  "name": "Dia 4 · 27/10",
+  "date": "2026-10-27",
+  "words": [
+    {
+      "nl": "invloed",
+      "en": [
+        "influence"
+      ],
+      "pt": [
+        "influência"
+      ]
+    },
+    {
+      "nl": "hart",
+      "en": [
+        "heart"
+      ],
+      "pt": [
+        "coração"
+      ]
+    },
+    {
+      "nl": "zoon",
+      "en": [
+        "son"
+      ],
+      "pt": [
+        "filho"
+      ]
+    },
+    {
+      "nl": "bezig",
+      "en": [
+        "busy"
+      ],
+      "pt": [
+        "ocupado",
+        "ocupada"
+      ]
+    },
+    {
+      "nl": "arm",
+      "en": [
+        "arm"
+      ],
+      "pt": [
+        "braço"
+      ]
+    },
+    {
+      "nl": "tien",
+      "en": [
+        "ten",
+        "10"
+      ],
+      "pt": [
+        "dez",
+        "10"
+      ]
+    },
+    {
+      "nl": "los",
+      "en": [
+        "loose"
+      ],
+      "pt": [
+        "solto",
+        "solta"
+      ]
+    },
+    {
+      "nl": "vijf",
+      "en": [
+        "five",
+        "5"
+      ],
+      "pt": [
+        "cinco",
+        "5"
+      ]
+    },
+    {
+      "nl": "minuut",
+      "en": [
+        "minute"
+      ],
+      "pt": [
+        "minuto"
+      ]
+    },
+    {
+      "nl": "liefde",
+      "en": [
+        "love"
+      ],
+      "pt": [
+        "amor"
+      ]
+    },
+    {
+      "nl": "sommige",
+      "en": [
+        "some"
+      ],
+      "pt": [
+        "alguns",
+        "algumas"
+      ]
+    },
+    {
+      "nl": "direct",
+      "en": [
+        "directly",
+        "direct"
+      ],
+      "pt": [
+        "diretamente",
+        "direto",
+        "direta"
+      ]
+    },
+    {
+      "nl": "relatie",
+      "en": [
+        "relationship",
+        "relation"
+      ],
+      "pt": [
+        "relacionamento",
+        "relação"
+      ]
+    },
+    {
+      "nl": "systeem",
+      "en": [
+        "system"
+      ],
+      "pt": [
+        "sistema"
+      ]
+    },
+    {
+      "nl": "proces",
+      "en": [
+        "process"
+      ],
+      "pt": [
+        "processo"
+      ]
+    },
+    {
+      "nl": "menen",
+      "en": [
+        "mean",
+        "to mean",
+        "intend",
+        "to intend"
+      ],
+      "pt": [
+        "querer dizer",
+        "ter a intenção",
+        "pretender"
+      ]
+    },
+    {
+      "nl": "derde",
+      "en": [
+        "third"
+      ],
+      "pt": [
+        "terceiro",
+        "terceira"
+      ]
+    },
+    {
+      "nl": "drinken",
+      "en": [
+        "drink",
+        "to drink"
+      ],
+      "pt": [
+        "beber"
+      ]
+    },
+    {
+      "nl": "contact",
+      "en": [
+        "contact"
+      ],
+      "pt": [
+        "contato"
+      ]
+    },
+    {
+      "nl": "functie",
+      "en": [
+        "function"
+      ],
+      "pt": [
+        "função"
+      ]
+    },
+    {
+      "nl": "warm",
+      "en": [
+        "warm"
+      ],
+      "pt": [
+        "morno",
+        "morna",
+        "quente"
+      ]
+    },
+    {
+      "nl": "vinger",
+      "en": [
+        "finger"
+      ],
+      "pt": [
+        "dedo"
+      ]
+    },
+    {
+      "nl": "kleur",
+      "en": [
+        "color",
+        "colour"
+      ],
+      "pt": [
+        "cor"
+      ]
+    },
+    {
+      "nl": "pijn",
+      "en": [
+        "pain"
+      ],
+      "pt": [
+        "dor"
+      ]
+    },
+    {
+      "nl": "glas",
+      "en": [
+        "glass"
+      ],
+      "pt": [
+        "copo",
+        "vidro"
+      ]
+    },
+    {
+      "nl": "artikel",
+      "en": [
+        "article"
+      ],
+      "pt": [
+        "artigo"
+      ]
+    },
+    {
+      "nl": "eind",
+      "en": [
+        "end"
+      ],
+      "pt": [
+        "fim",
+        "final"
+      ]
+    },
+    {
+      "nl": "persoonlijk",
+      "en": [
+        "personally",
+        "personal"
+      ],
+      "pt": [
+        "pessoalmente",
+        "pessoal"
+      ]
+    },
+    {
+      "nl": "rood",
+      "en": [
+        "red"
+      ],
+      "pt": [
+        "vermelho",
+        "vermelha"
+      ]
+    },
+    {
+      "nl": "dokter",
+      "en": [
+        "doctor"
+      ],
+      "pt": [
+        "médico",
+        "médica",
+        "doutor",
+        "doutora"
+      ]
+    },
+    {
+      "nl": "zee",
+      "en": [
+        "sea"
+      ],
+      "pt": [
+        "mar"
+      ]
+    },
+    {
+      "nl": "groeien",
+      "en": [
+        "grow",
+        "to grow"
+      ],
+      "pt": [
+        "crescer"
+      ]
+    },
+    {
+      "nl": "koud",
+      "en": [
+        "cold"
+      ],
+      "pt": [
+        "frio",
+        "fria"
+      ]
+    },
+    {
+      "nl": "leiden",
+      "en": [
+        "lead",
+        "to lead"
+      ],
+      "pt": [
+        "liderar",
+        "conduzir",
+        "guiar"
+      ]
+    },
+    {
+      "nl": "staan",
+      "en": [
+        "stand",
+        "to stand"
+      ],
+      "pt": [
+        "estar de pé",
+        "ficar de pé",
+        "estar em pé"
+      ]
+    },
+    {
+      "nl": "familie",
+      "en": [
+        "family"
+      ],
+      "pt": [
+        "família"
+      ]
+    },
+    {
+      "nl": "periode",
+      "en": [
+        "period"
+      ],
+      "pt": [
+        "período"
+      ]
+    },
+    {
+      "nl": "sinds",
+      "en": [
+        "since"
+      ],
+      "pt": [
+        "desde"
+      ]
+    },
+    {
+      "nl": "resultaat",
+      "en": [
+        "result"
+      ],
+      "pt": [
+        "resultado"
+      ]
+    },
+    {
+      "nl": "normaal",
+      "en": [
+        "normal"
+      ],
+      "pt": [
+        "normal"
+      ]
+    },
+    {
+      "nl": "rond",
+      "en": [
+        "round",
+        "around"
+      ],
+      "pt": [
+        "redondo",
+        "redonda",
+        "ao redor de",
+        "em torno de"
+      ]
+    },
+    {
+      "nl": "organisatie",
+      "en": [
+        "organization",
+        "organisation"
+      ],
+      "pt": [
+        "organização"
+      ]
+    },
+    {
+      "nl": "speciaal",
+      "en": [
+        "special"
+      ],
+      "pt": [
+        "especial"
+      ]
+    },
+    {
+      "nl": "patiënt",
+      "en": [
+        "patient"
+      ],
+      "pt": [
+        "paciente"
+      ]
+    },
+    {
+      "nl": "broer",
+      "en": [
+        "brother"
+      ],
+      "pt": [
+        "irmão"
+      ]
+    },
+    {
+      "nl": "leveren",
+      "en": [
+        "deliver",
+        "to deliver",
+        "supply",
+        "to supply"
+      ],
+      "pt": [
+        "entregar",
+        "fornecer"
+      ]
+    },
+    {
+      "nl": "hopen",
+      "en": [
+        "hope",
+        "to hope"
+      ],
+      "pt": [
+        "esperar",
+        "ter esperança"
+      ]
+    },
+    {
+      "nl": "totaal",
+      "en": [
+        "total"
+      ],
+      "pt": [
+        "total"
+      ]
+    },
+    {
+      "nl": "zes",
+      "en": [
+        "six",
+        "6"
+      ],
+      "pt": [
+        "seis",
+        "6"
+      ]
+    },
+    {
+      "nl": "blauw",
+      "en": [
+        "blue"
+      ],
+      "pt": [
+        "azul"
+      ]
+    }
+  ]
+}
