@@ -7,6 +7,9 @@
       "nl": "feit",
       "en": [
         "fact"
+      ],
+      "pt": [
+        "fato"
       ]
     },
     {
@@ -14,6 +17,10 @@
       "en": [
         "wait",
         "to wait"
+      ],
+      "pt": [
+        "esperar",
+        "aguardar"
       ]
     },
     {
@@ -21,42 +28,67 @@
       "en": [
         "learn",
         "to learn"
+      ],
+      "pt": [
+        "aprender",
+        "estudar"
       ]
     },
     {
       "nl": "open",
       "en": [
         "open"
+      ],
+      "pt": [
+        "aberto",
+        "aberta"
       ]
     },
     {
       "nl": "probleem",
       "en": [
         "problem"
+      ],
+      "pt": [
+        "problema"
       ]
     },
     {
       "nl": "groep",
       "en": [
         "group"
+      ],
+      "pt": [
+        "grupo"
       ]
     },
     {
       "nl": "jong",
       "en": [
         "young"
+      ],
+      "pt": [
+        "jovem"
       ]
     },
     {
       "nl": "wit",
       "en": [
         "white"
+      ],
+      "pt": [
+        "branco",
+        "branca"
       ]
     },
     {
       "nl": "zodat",
       "en": [
         "so that"
+      ],
+      "pt": [
+        "para que",
+        "de modo que"
       ]
     },
     {
@@ -64,12 +96,18 @@
       "en": [
         "laugh",
         "to laugh"
+      ],
+      "pt": [
+        "rir"
       ]
     },
     {
       "nl": "bed",
       "en": [
         "bed"
+      ],
+      "pt": [
+        "cama"
       ]
     },
     {
@@ -77,12 +115,20 @@
       "en": [
         "further",
         "farther"
+      ],
+      "pt": [
+        "mais adiante",
+        "mais longe",
+        "adiante"
       ]
     },
     {
       "nl": "moment",
       "en": [
         "moment"
+      ],
+      "pt": [
+        "momento"
       ]
     },
     {
@@ -90,24 +136,39 @@
       "en": [
         "state",
         "stands"
+      ],
+      "pt": [
+        "estado",
+        "está de pé"
       ]
     },
     {
       "nl": "vriend",
       "en": [
         "friend"
+      ],
+      "pt": [
+        "amigo"
       ]
     },
     {
       "nl": "week",
       "en": [
         "week"
+      ],
+      "pt": [
+        "semana"
       ]
     },
     {
       "nl": "laatste",
       "en": [
         "last",
+        "final"
+      ],
+      "pt": [
+        "último",
+        "última",
         "final"
       ]
     },
@@ -116,24 +177,39 @@
       "en": [
         "help",
         "to help"
+      ],
+      "pt": [
+        "ajudar"
       ]
     },
     {
       "nl": "licht",
       "en": [
         "light"
+      ],
+      "pt": [
+        "luz",
+        "leve",
+        "claro"
       ]
     },
     {
       "nl": "diep",
       "en": [
         "deep"
+      ],
+      "pt": [
+        "profundo",
+        "fundo"
       ]
     },
     {
       "nl": "nacht",
       "en": [
         "night"
+      ],
+      "pt": [
+        "noite"
       ]
     },
     {
@@ -142,12 +218,23 @@
         "along",
         "past",
         "alongside"
+      ],
+      "pt": [
+        "ao longo de",
+        "por",
+        "ao lado de"
       ]
     },
     {
       "nl": "beiden",
       "en": [
         "both"
+      ],
+      "pt": [
+        "ambos",
+        "ambas",
+        "os dois",
+        "as duas"
       ]
     },
     {
@@ -156,42 +243,68 @@
         "you",
         "you all",
         "you plural"
+      ],
+      "pt": [
+        "vocês"
       ]
     },
     {
       "nl": "vrij",
       "en": [
         "free"
+      ],
+      "pt": [
+        "livre",
+        "grátis"
       ]
     },
     {
       "nl": "gevoel",
       "en": [
         "feeling"
+      ],
+      "pt": [
+        "sentimento",
+        "sensação"
       ]
     },
     {
       "nl": "half",
       "en": [
         "half"
+      ],
+      "pt": [
+        "metade",
+        "meio",
+        "meia"
       ]
     },
     {
       "nl": "tafel",
       "en": [
         "table"
+      ],
+      "pt": [
+        "mesa"
       ]
     },
     {
       "nl": "school",
       "en": [
         "school"
+      ],
+      "pt": [
+        "escola"
       ]
     },
     {
       "nl": "vier",
       "en": [
         "four",
+        "4"
+      ],
+      "pt": [
+        "quatro",
         "4"
       ]
     },
@@ -200,11 +313,19 @@
       "en": [
         "death",
         "dead"
+      ],
+      "pt": [
+        "morte",
+        "morto",
+        "morta"
       ]
     },
     {
       "nl": "sociaal",
       "en": [
+        "social"
+      ],
+      "pt": [
         "social"
       ]
     },
@@ -212,66 +333,107 @@
       "nl": "hard",
       "en": [
         "hard"
+      ],
+      "pt": [
+        "duro",
+        "forte"
       ]
     },
     {
       "nl": "wijn",
       "en": [
         "wine"
+      ],
+      "pt": [
+        "vinho"
       ]
     },
     {
       "nl": "maand",
       "en": [
         "month"
+      ],
+      "pt": [
+        "mês"
       ]
     },
     {
       "nl": "mond",
       "en": [
         "mouth"
+      ],
+      "pt": [
+        "boca"
       ]
     },
     {
       "nl": "reden",
       "en": [
         "reason"
+      ],
+      "pt": [
+        "motivo",
+        "razão"
       ]
     },
     {
       "nl": "voet",
       "en": [
         "foot"
+      ],
+      "pt": [
+        "pé"
       ]
     },
     {
       "nl": "idee",
       "en": [
         "idea"
+      ],
+      "pt": [
+        "ideia"
       ]
     },
     {
       "nl": "oud",
       "en": [
         "old"
+      ],
+      "pt": [
+        "velho",
+        "velha",
+        "antigo",
+        "antiga"
       ]
     },
     {
       "nl": "rol",
       "en": [
         "role"
+      ],
+      "pt": [
+        "papel",
+        "função"
       ]
     },
     {
       "nl": "jou",
       "en": [
         "you"
+      ],
+      "pt": [
+        "você",
+        "te",
+        "a você"
       ]
     },
     {
       "nl": "antwoord",
       "en": [
         "answer"
+      ],
+      "pt": [
+        "resposta"
       ]
     },
     {
@@ -279,12 +441,18 @@
       "en": [
         "sleep",
         "to sleep"
+      ],
+      "pt": [
+        "dormir"
       ]
     },
     {
       "nl": "plan",
       "en": [
         "plan"
+      ],
+      "pt": [
+        "plano"
       ]
     },
     {
@@ -292,24 +460,37 @@
       "en": [
         "mostly",
         "usually"
+      ],
+      "pt": [
+        "geralmente",
+        "na maioria das vezes"
       ]
     },
     {
       "nl": "straat",
       "en": [
         "street"
+      ],
+      "pt": [
+        "rua"
       ]
     },
     {
       "nl": "persoon",
       "en": [
         "person"
+      ],
+      "pt": [
+        "pessoa"
       ]
     },
     {
       "nl": "schouder",
       "en": [
         "shoulder"
+      ],
+      "pt": [
+        "ombro"
       ]
     },
     {
@@ -317,6 +498,10 @@
       "en": [
         "listen",
         "to listen"
+      ],
+      "pt": [
+        "escutar",
+        "ouvir"
       ]
     }
   ]

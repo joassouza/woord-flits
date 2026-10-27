@@ -1,0 +1,514 @@
+{
+  "id": "day-2026-10-22",
+  "name": "Dia 2 · 22/10",
+  "date": "2026-10-22",
+  "words": [
+    {
+      "nl": "jaar",
+      "en": [
+        "year"
+      ],
+      "pt": [
+        "ano"
+      ]
+    },
+    {
+      "nl": "hier",
+      "en": [
+        "here"
+      ],
+      "pt": [
+        "aqui"
+      ]
+    },
+    {
+      "nl": "wij",
+      "en": [
+        "we"
+      ],
+      "pt": [
+        "nós",
+        "a gente"
+      ]
+    },
+    {
+      "nl": "houden",
+      "en": [
+        "keep",
+        "to keep",
+        "hold",
+        "to hold"
+      ],
+      "pt": [
+        "manter",
+        "segurar"
+      ]
+    },
+    {
+      "nl": "zitten",
+      "en": [
+        "sit",
+        "to sit"
+      ],
+      "pt": [
+        "sentar",
+        "estar sentado"
+      ]
+    },
+    {
+      "nl": "hand",
+      "en": [
+        "hand"
+      ],
+      "pt": [
+        "mão"
+      ]
+    },
+    {
+      "nl": "lang",
+      "en": [
+        "long",
+        "tall"
+      ],
+      "pt": [
+        "longo",
+        "comprido",
+        "alto"
+      ]
+    },
+    {
+      "nl": "twee",
+      "en": [
+        "two",
+        "2"
+      ],
+      "pt": [
+        "dois",
+        "duas",
+        "2"
+      ]
+    },
+    {
+      "nl": "dag",
+      "en": [
+        "day"
+      ],
+      "pt": [
+        "dia"
+      ]
+    },
+    {
+      "nl": "eerst",
+      "en": [
+        "first",
+        "at first",
+        "initially"
+      ],
+      "pt": [
+        "primeiro",
+        "primeiramente",
+        "a princípio"
+      ]
+    },
+    {
+      "nl": "alleen",
+      "en": [
+        "only",
+        "alone"
+      ],
+      "pt": [
+        "somente",
+        "só",
+        "apenas",
+        "sozinho",
+        "sozinha"
+      ]
+    },
+    {
+      "nl": "brengen",
+      "en": [
+        "bring",
+        "to bring"
+      ],
+      "pt": [
+        "trazer",
+        "levar"
+      ]
+    },
+    {
+      "nl": "beginnen",
+      "en": [
+        "begin",
+        "to begin",
+        "start",
+        "to start"
+      ],
+      "pt": [
+        "começar",
+        "iniciar"
+      ]
+    },
+    {
+      "nl": "zelf",
+      "en": [
+        "self",
+        "oneself"
+      ],
+      "pt": [
+        "próprio",
+        "si mesmo",
+        "mesmo"
+      ]
+    },
+    {
+      "nl": "horen",
+      "en": [
+        "hear",
+        "to hear"
+      ],
+      "pt": [
+        "ouvir"
+      ]
+    },
+    {
+      "nl": "nieuw",
+      "en": [
+        "new"
+      ],
+      "pt": [
+        "novo",
+        "nova"
+      ]
+    },
+    {
+      "nl": "laat",
+      "en": [
+        "late"
+      ],
+      "pt": [
+        "tarde",
+        "atrasado"
+      ]
+    },
+    {
+      "nl": "voelen",
+      "en": [
+        "feel",
+        "to feel"
+      ],
+      "pt": [
+        "sentir"
+      ]
+    },
+    {
+      "nl": "plaats",
+      "en": [
+        "place"
+      ],
+      "pt": [
+        "lugar",
+        "local"
+      ]
+    },
+    {
+      "nl": "leven",
+      "en": [
+        "life",
+        "live",
+        "to live"
+      ],
+      "pt": [
+        "vida",
+        "viver"
+      ]
+    },
+    {
+      "nl": "huis",
+      "en": [
+        "house",
+        "home"
+      ],
+      "pt": [
+        "casa",
+        "lar"
+      ]
+    },
+    {
+      "nl": "vallen",
+      "en": [
+        "fall",
+        "to fall"
+      ],
+      "pt": [
+        "cair"
+      ]
+    },
+    {
+      "nl": "moeder",
+      "en": [
+        "mother",
+        "mom",
+        "mum"
+      ],
+      "pt": [
+        "mãe",
+        "mamãe"
+      ]
+    },
+    {
+      "nl": "spreken",
+      "en": [
+        "speak",
+        "to speak"
+      ],
+      "pt": [
+        "falar"
+      ]
+    },
+    {
+      "nl": "woord",
+      "en": [
+        "word"
+      ],
+      "pt": [
+        "palavra"
+      ]
+    },
+    {
+      "nl": "ja",
+      "en": [
+        "yes"
+      ],
+      "pt": [
+        "sim"
+      ]
+    },
+    {
+      "nl": "wanneer",
+      "en": [
+        "when"
+      ],
+      "pt": [
+        "quando"
+      ]
+    },
+    {
+      "nl": "vader",
+      "en": [
+        "father",
+        "dad"
+      ],
+      "pt": [
+        "pai",
+        "papai"
+      ]
+    },
+    {
+      "nl": "werk",
+      "en": [
+        "work"
+      ],
+      "pt": [
+        "trabalho"
+      ]
+    },
+    {
+      "nl": "elk",
+      "en": [
+        "each",
+        "every"
+      ],
+      "pt": [
+        "cada",
+        "todo"
+      ]
+    },
+    {
+      "nl": "ver",
+      "en": [
+        "far"
+      ],
+      "pt": [
+        "longe",
+        "distante"
+      ]
+    },
+    {
+      "nl": "later",
+      "en": [
+        "later"
+      ],
+      "pt": [
+        "depois",
+        "mais tarde"
+      ]
+    },
+    {
+      "nl": "vertellen",
+      "en": [
+        "tell",
+        "to tell"
+      ],
+      "pt": [
+        "contar",
+        "dizer"
+      ]
+    },
+    {
+      "nl": "jij",
+      "en": [
+        "you"
+      ],
+      "pt": [
+        "você",
+        "tu"
+      ]
+    },
+    {
+      "nl": "drie",
+      "en": [
+        "three",
+        "3"
+      ],
+      "pt": [
+        "três",
+        "3"
+      ]
+    },
+    {
+      "nl": "oud",
+      "en": [
+        "old"
+      ],
+      "pt": [
+        "velho",
+        "velha",
+        "antigo",
+        "antiga"
+      ]
+    },
+    {
+      "nl": "soms",
+      "en": [
+        "sometimes"
+      ],
+      "pt": [
+        "às vezes"
+      ]
+    },
+    {
+      "nl": "wereld",
+      "en": [
+        "world"
+      ],
+      "pt": [
+        "mundo"
+      ]
+    },
+    {
+      "nl": "uur",
+      "en": [
+        "hour"
+      ],
+      "pt": [
+        "hora"
+      ]
+    },
+    {
+      "nl": "naam",
+      "en": [
+        "name"
+      ],
+      "pt": [
+        "nome"
+      ]
+    },
+    {
+      "nl": "soort",
+      "en": [
+        "kind",
+        "type",
+        "sort"
+      ],
+      "pt": [
+        "tipo",
+        "espécie"
+      ]
+    },
+    {
+      "nl": "werken",
+      "en": [
+        "work",
+        "to work"
+      ],
+      "pt": [
+        "trabalhar"
+      ]
+    },
+    {
+      "nl": "vol",
+      "en": [
+        "full"
+      ],
+      "pt": [
+        "cheio",
+        "cheia"
+      ]
+    },
+    {
+      "nl": "welk",
+      "en": [
+        "which"
+      ],
+      "pt": [
+        "qual",
+        "que"
+      ]
+    },
+    {
+      "nl": "boek",
+      "en": [
+        "book"
+      ],
+      "pt": [
+        "livro"
+      ]
+    },
+    {
+      "nl": "deur",
+      "en": [
+        "door"
+      ],
+      "pt": [
+        "porta"
+      ]
+    },
+    {
+      "nl": "ding",
+      "en": [
+        "thing"
+      ],
+      "pt": [
+        "coisa"
+      ]
+    },
+    {
+      "nl": "nee",
+      "en": [
+        "no"
+      ],
+      "pt": [
+        "não"
+      ]
+    },
+    {
+      "nl": "water",
+      "en": [
+        "water"
+      ],
+      "pt": [
+        "água"
+      ]
+    }
+  ]
+}

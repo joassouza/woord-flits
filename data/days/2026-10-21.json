@@ -1,0 +1,547 @@
+{
+  "id": "day-1",
+  "name": "Dia 1",
+  "date": "2026-10-21",
+  "words": [
+    {
+      "nl": "en",
+      "en": [
+        "and"
+      ],
+      "pt": [
+        "e"
+      ]
+    },
+    {
+      "nl": "een",
+      "en": [
+        "a",
+        "an",
+        "one"
+      ],
+      "pt": [
+        "um",
+        "uma"
+      ]
+    },
+    {
+      "nl": "het",
+      "en": [
+        "it",
+        "the"
+      ],
+      "pt": [
+        "isso",
+        "ele",
+        "o",
+        "a"
+      ]
+    },
+    {
+      "nl": "in",
+      "en": [
+        "in",
+        "inside"
+      ],
+      "pt": [
+        "em",
+        "dentro",
+        "dentro de"
+      ]
+    },
+    {
+      "nl": "te",
+      "en": [
+        "to"
+      ],
+      "pt": [
+        "para",
+        "a"
+      ]
+    },
+    {
+      "nl": "hebben",
+      "en": [
+        "to have",
+        "have"
+      ],
+      "pt": [
+        "ter"
+      ]
+    },
+    {
+      "nl": "hij",
+      "en": [
+        "he"
+      ],
+      "pt": [
+        "ele"
+      ]
+    },
+    {
+      "nl": "niet",
+      "en": [
+        "not"
+      ],
+      "pt": [
+        "não"
+      ]
+    },
+    {
+      "nl": "op",
+      "en": [
+        "on",
+        "upon",
+        "at"
+      ],
+      "pt": [
+        "sobre",
+        "em cima de",
+        "em"
+      ]
+    },
+    {
+      "nl": "dat",
+      "en": [
+        "that"
+      ],
+      "pt": [
+        "aquilo",
+        "isso",
+        "que"
+      ]
+    },
+    {
+      "nl": "voor",
+      "en": [
+        "for",
+        "before",
+        "in front of"
+      ],
+      "pt": [
+        "para",
+        "antes",
+        "antes de",
+        "na frente de"
+      ]
+    },
+    {
+      "nl": "er",
+      "en": [
+        "there"
+      ],
+      "pt": [
+        "lá",
+        "ali"
+      ]
+    },
+    {
+      "nl": "je",
+      "en": [
+        "you",
+        "your"
+      ],
+      "pt": [
+        "você",
+        "tu",
+        "te",
+        "seu",
+        "sua"
+      ]
+    },
+    {
+      "nl": "zullen",
+      "en": [
+        "shall",
+        "will"
+      ],
+      "pt": [
+        "auxiliar de futuro",
+        "futuro",
+        "irão"
+      ]
+    },
+    {
+      "nl": "staan",
+      "en": [
+        "to stand",
+        "stand"
+      ],
+      "pt": [
+        "estar de pé",
+        "ficar de pé",
+        "estar em pé"
+      ]
+    },
+    {
+      "nl": "goed",
+      "en": [
+        "good",
+        "well"
+      ],
+      "pt": [
+        "bom",
+        "boa",
+        "bem"
+      ]
+    },
+    {
+      "nl": "me",
+      "en": [
+        "me"
+      ],
+      "pt": [
+        "me",
+        "mim"
+      ]
+    },
+    {
+      "nl": "u",
+      "en": [
+        "you"
+      ],
+      "pt": [
+        "você",
+        "o senhor",
+        "a senhora"
+      ]
+    },
+    {
+      "nl": "laten",
+      "en": [
+        "to let",
+        "let",
+        "to allow",
+        "allow"
+      ],
+      "pt": [
+        "deixar",
+        "permitir"
+      ]
+    },
+    {
+      "nl": "daar",
+      "en": [
+        "there"
+      ],
+      "pt": [
+        "lá",
+        "ali"
+      ]
+    },
+    {
+      "nl": "toen",
+      "en": [
+        "then",
+        "when",
+        "back then"
+      ],
+      "pt": [
+        "então",
+        "naquela época",
+        "quando"
+      ]
+    },
+    {
+      "nl": "hoe",
+      "en": [
+        "how"
+      ],
+      "pt": [
+        "como"
+      ]
+    },
+    {
+      "nl": "vinden",
+      "en": [
+        "to find",
+        "find"
+      ],
+      "pt": [
+        "encontrar",
+        "achar"
+      ]
+    },
+    {
+      "nl": "kunnen",
+      "en": [
+        "can",
+        "to be able to",
+        "be able to"
+      ],
+      "pt": [
+        "poder",
+        "conseguir"
+      ]
+    },
+    {
+      "nl": "alle",
+      "en": [
+        "all",
+        "every"
+      ],
+      "pt": [
+        "todos",
+        "todas"
+      ]
+    },
+    {
+      "nl": "haar",
+      "en": [
+        "her",
+        "hair"
+      ],
+      "pt": [
+        "dela",
+        "cabelo",
+        "sua"
+      ]
+    },
+    {
+      "nl": "of",
+      "en": [
+        "or",
+        "whether"
+      ],
+      "pt": [
+        "ou",
+        "se"
+      ]
+    },
+    {
+      "nl": "wat",
+      "en": [
+        "what"
+      ],
+      "pt": [
+        "o que",
+        "que"
+      ]
+    },
+    {
+      "nl": "gaan",
+      "en": [
+        "to go",
+        "go"
+      ],
+      "pt": [
+        "ir"
+      ]
+    },
+    {
+      "nl": "hem",
+      "en": [
+        "him"
+      ],
+      "pt": [
+        "ele",
+        "o",
+        "a ele"
+      ]
+    },
+    {
+      "nl": "komen",
+      "en": [
+        "to come",
+        "come"
+      ],
+      "pt": [
+        "vir"
+      ]
+    },
+    {
+      "nl": "dan",
+      "en": [
+        "then",
+        "than"
+      ],
+      "pt": [
+        "então",
+        "depois",
+        "do que"
+      ]
+    },
+    {
+      "nl": "ze",
+      "en": [
+        "she",
+        "they"
+      ],
+      "pt": [
+        "ela",
+        "eles",
+        "elas"
+      ]
+    },
+    {
+      "nl": "moeten",
+      "en": [
+        "must",
+        "should",
+        "have to",
+        "to have to"
+      ],
+      "pt": [
+        "dever",
+        "ter que",
+        "ter de",
+        "precisar"
+      ]
+    },
+    {
+      "nl": "mijn",
+      "en": [
+        "my",
+        "mine"
+      ],
+      "pt": [
+        "meu",
+        "minha",
+        "meus",
+        "minhas"
+      ]
+    },
+    {
+      "nl": "zijn",
+      "en": [
+        "to be",
+        "be",
+        "his"
+      ],
+      "pt": [
+        "ser",
+        "estar",
+        "dele",
+        "seu",
+        "sua"
+      ]
+    },
+    {
+      "nl": "deze",
+      "en": [
+        "this",
+        "these"
+      ],
+      "pt": [
+        "este",
+        "esta",
+        "estes",
+        "estas",
+        "esse",
+        "essa"
+      ]
+    },
+    {
+      "nl": "we",
+      "en": [
+        "we"
+      ],
+      "pt": [
+        "nós",
+        "a gente"
+      ]
+    },
+    {
+      "nl": "meer",
+      "en": [
+        "more"
+      ],
+      "pt": [
+        "mais"
+      ]
+    },
+    {
+      "nl": "dit",
+      "en": [
+        "this"
+      ],
+      "pt": [
+        "isto",
+        "isso",
+        "este",
+        "esta"
+      ]
+    },
+    {
+      "nl": "maken",
+      "en": [
+        "to make",
+        "make"
+      ],
+      "pt": [
+        "fazer",
+        "criar"
+      ]
+    },
+    {
+      "nl": "ander",
+      "en": [
+        "other",
+        "another"
+      ],
+      "pt": [
+        "outro",
+        "outra"
+      ]
+    },
+    {
+      "nl": "doen",
+      "en": [
+        "to do",
+        "do"
+      ],
+      "pt": [
+        "fazer"
+      ]
+    },
+    {
+      "nl": "mij",
+      "en": [
+        "me"
+      ],
+      "pt": [
+        "me",
+        "mim",
+        "a mim"
+      ]
+    },
+    {
+      "nl": "al",
+      "en": [
+        "already"
+      ],
+      "pt": [
+        "já"
+      ]
+    },
+    {
+      "nl": "denken",
+      "en": [
+        "to think",
+        "think"
+      ],
+      "pt": [
+        "pensar"
+      ]
+    },
+    {
+      "nl": "geven",
+      "en": [
+        "to give",
+        "give"
+      ],
+      "pt": [
+        "dar"
+      ]
+    },
+    {
+      "nl": "nu",
+      "en": [
+        "now"
+      ],
+      "pt": [
+        "agora"
+      ]
+    }
+  ]
+}
