@@ -8,11 +8,11 @@ const historyBefore=storage['woord-flits-history-v1'],dailyBefore=storage['woord
 n['dc-open-library'].onclick();assert(n['dc-main'].hidden);assert.equal(n['dc-library'].hidden,false);assert.equal(n['dc-library-words'].children[0].children[1].children.length,50);
 const source=JSON.parse(storage['woord-flits-days-v1']).days;
 for(const day of source){n['dc-library-day'].value=day.id;n['dc-library-day'].events.change();const cards=n['dc-library-words'].children[0].children[1].children;assert.equal(cards.length,day.words.length);day.words.forEach((w,i)=>{assert.equal(cards[i].children[1].textContent,w.nl);assert.equal(cards[i].children[2].children[1].textContent,w.en.join(' / '));assert.equal(cards[i].children[2].children[3].textContent,w.pt.join(' / '));});}
-n['dc-errors-only'].checked=true;n['dc-errors-only'].events.change();n['dc-library-day'].value='all';n['dc-library-day'].events.change();assert.equal(n['dc-library-words'].children.length,4);assert.equal(n['dc-library-words'].children.reduce((sum,s)=>sum+s.children[1].children.length,0),197);
+n['dc-errors-only'].checked=true;n['dc-errors-only'].events.change();n['dc-library-day'].value='all';n['dc-library-day'].events.change();assert.equal(n['dc-library-words'].children.length,source.length);assert.equal(n['dc-library-words'].children.reduce((sum,s)=>sum+s.children[1].children.length,0),source.reduce((sum,d)=>sum+d.words.length,0));
 assert.equal(storage['woord-flits-history-v1'],historyBefore);assert.equal(storage['woord-flits-daily-v1'],dailyBefore);
 n['dc-close-library'].onclick();assert.equal(n['dc-main'].hidden,false);assert(n['dc-library'].hidden);
-n['dc-day-name'].value='Meu dia';n['dc-day-words'].value='<b>teste</b> = example';n['dc-day-form'].onsubmit({preventDefault(){}});assert.equal(n['dc-library-day'].children.length,6);n['dc-open-library'].onclick();const custom=n['dc-library-words'].children[0].children[1].children[0];assert.equal(custom.children[1].textContent,'<b>teste</b>');assert.equal(custom.children[2].children[3].textContent,'Tradução não cadastrada');
-console.log('OK: todos os 197 registros por dia com EN/PT, todos os dias juntos, consulta independente do filtro de erros, histórico intacto, dia personalizado e texto seguro.');
+n['dc-day-name'].value='Meu dia';n['dc-day-words'].value='<b>teste</b> = example';n['dc-day-form'].onsubmit({preventDefault(){}});assert.equal(n['dc-library-day'].children.length,source.length+2);n['dc-open-library'].onclick();const custom=n['dc-library-words'].children[0].children[1].children[0];assert.equal(custom.children[1].textContent,'<b>teste</b>');assert.equal(custom.children[2].children[3].textContent,'Tradução não cadastrada');
+console.log('OK: todos os registros por dia com EN/PT, todos os dias juntos, consulta independente do filtro de erros, histórico intacto, dia personalizado e texto seguro.');
 
 for(const key of Object.keys(storage))delete storage[key];
 const linked=launch('#palavras'),ln=linked.nodes;assert(ln['dc-main'].hidden);assert.equal(ln['dc-open-library'].attributes['aria-current'],'page');ln['dc-training-link'].onclick();assert.equal(linked.browserWindow.location.hash,'treino');assert.equal(ln['dc-main'].hidden,false);
@@ -20,3 +20,12 @@ ln['dc-start'].onclick();assert.equal(ln['dc-play'].hidden,false);ln['dc-open-li
 linked.browserWindow.location.hash='#treino';linked.browserWindow.events.hashchange();assert.equal(ln['dc-main'].hidden,false);assert.equal(ln['dc-training-link'].attributes['aria-current'],'page');ln['dc-resume'].onclick();assert.equal(ln['dc-play'].hidden,false);assert.equal(linked.state.answers.length,0);
 assert(html.includes('<nav class="page-nav" aria-label="Navegação principal">'));assert(html.includes('href="#palavras" id="dc-open-library"'));assert(!html.includes('class="btn library-open"'));
 console.log('OK: links no topo, abertura direta por hash, voltar/avançar e pausa de rodada com retomada sem respostas perdidas.');
+
+const dayDirectory=require('path').join(__dirname,'..','data','days');
+for(const file of fs.readdirSync(dayDirectory).filter(f=>f.endsWith('.json'))){const day=JSON.parse(fs.readFileSync(require('path').join(dayDirectory,file),'utf8'));assert.deepEqual(source.find(d=>d.id===day.id),day);}
+const newest=source.at(-1);assert.equal(newest.id,'day-2026-11-03');assert.equal(newest.words.length,50);assert.equal(new Set(newest.words.map(w=>w.nl)).size,50);
+for(const key of Object.keys(storage))delete storage[key];
+storage['woord-flits-days-v1']=JSON.stringify({days:source.slice(0,-1),selectedDays:[source[0].id]});
+storage['woord-flits-history-v1']=JSON.stringify({entries:{'en:huis':{word:{nl:'huis',en:['house']},wrong:4,correct:1}},importedLastRound:true});
+for(const mode of ['en','nl','pt','nl-pt']){const game=launch(),gn=game.nodes;assert.equal(JSON.parse(storage['woord-flits-history-v1']).entries['en:huis'].wrong,4);assert.deepEqual(JSON.parse(storage['woord-flits-days-v1']).selectedDays,[newest.id]);gn['dc-errors-only'].checked=false;gn['dc-direction'].value=mode;gn['dc-size'].value='50';gn['dc-start'].onclick();assert.equal(game.state.batch.length,50);for(let i=0;i<50;i++){const w=game.state.batch[i];gn['dc-answer'].value=mode==='en'?w.en[0]:mode==='pt'?w.pt[0]:w.nl;gn['dc-form'].onsubmit({preventDefault(){}});assert(game.state.answers.at(-1).ok,mode+':'+w.nl);game.next();}}
+console.log('OK: JSONs iguais ao vocabulário do app; novo dia de 50 palavras, migração preserva erros e 50 respostas corretas nos quatro sentidos.');

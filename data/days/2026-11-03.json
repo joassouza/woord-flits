@@ -1,0 +1,497 @@
+{
+  "id": "day-2026-11-03",
+  "name": "Dia 5 · 03/11",
+  "date": "2026-11-03",
+  "words": [
+    {
+      "nl": "stap",
+      "en": [
+        "step"
+      ],
+      "pt": [
+        "passo"
+      ]
+    },
+    {
+      "nl": "karakter",
+      "en": [
+        "character"
+      ],
+      "pt": [
+        "caráter",
+        "personalidade",
+        "personagem"
+      ]
+    },
+    {
+      "nl": "theorie",
+      "en": [
+        "theory"
+      ],
+      "pt": [
+        "teoria"
+      ]
+    },
+    {
+      "nl": "bloed",
+      "en": [
+        "blood"
+      ],
+      "pt": [
+        "sangue"
+      ]
+    },
+    {
+      "nl": "beter",
+      "en": [
+        "better"
+      ],
+      "pt": [
+        "melhor"
+      ]
+    },
+    {
+      "nl": "dochter",
+      "en": [
+        "daughter"
+      ],
+      "pt": [
+        "filha"
+      ]
+    },
+    {
+      "nl": "stappen",
+      "en": [
+        "step",
+        "to step"
+      ],
+      "pt": [
+        "dar passos",
+        "pisar"
+      ]
+    },
+    {
+      "nl": "droom",
+      "en": [
+        "dream"
+      ],
+      "pt": [
+        "sonho"
+      ]
+    },
+    {
+      "nl": "meter",
+      "en": [
+        "meter",
+        "metre"
+      ],
+      "pt": [
+        "metro"
+      ]
+    },
+    {
+      "nl": "steen",
+      "en": [
+        "stone",
+        "rock"
+      ],
+      "pt": [
+        "pedra"
+      ]
+    },
+    {
+      "nl": "hulp",
+      "en": [
+        "help",
+        "assistance"
+      ],
+      "pt": [
+        "ajuda",
+        "auxílio"
+      ]
+    },
+    {
+      "nl": "rest",
+      "en": [
+        "rest",
+        "remainder"
+      ],
+      "pt": [
+        "resto",
+        "restante"
+      ]
+    },
+    {
+      "nl": "muziek",
+      "en": [
+        "music"
+      ],
+      "pt": [
+        "música"
+      ]
+    },
+    {
+      "nl": "maaltijd",
+      "en": [
+        "meal"
+      ],
+      "pt": [
+        "refeição"
+      ]
+    },
+    {
+      "nl": "openen",
+      "en": [
+        "open",
+        "to open"
+      ],
+      "pt": [
+        "abrir"
+      ]
+    },
+    {
+      "nl": "bank",
+      "en": [
+        "bank"
+      ],
+      "pt": [
+        "banco"
+      ]
+    },
+    {
+      "nl": "papier",
+      "en": [
+        "paper"
+      ],
+      "pt": [
+        "papel"
+      ]
+    },
+    {
+      "nl": "hoop",
+      "en": [
+        "hope"
+      ],
+      "pt": [
+        "esperança"
+      ]
+    },
+    {
+      "nl": "minister",
+      "en": [
+        "minister"
+      ],
+      "pt": [
+        "ministro",
+        "ministra"
+      ]
+    },
+    {
+      "nl": "wind",
+      "en": [
+        "wind"
+      ],
+      "pt": [
+        "vento"
+      ]
+    },
+    {
+      "nl": "koffie",
+      "en": [
+        "coffee"
+      ],
+      "pt": [
+        "café"
+      ]
+    },
+    {
+      "nl": "stoppen",
+      "en": [
+        "stop",
+        "to stop"
+      ],
+      "pt": [
+        "parar"
+      ]
+    },
+    {
+      "nl": "oor",
+      "en": [
+        "ear"
+      ],
+      "pt": [
+        "orelha",
+        "ouvido"
+      ]
+    },
+    {
+      "nl": "informatie",
+      "en": [
+        "information"
+      ],
+      "pt": [
+        "informação",
+        "informações"
+      ]
+    },
+    {
+      "nl": "methode",
+      "en": [
+        "method"
+      ],
+      "pt": [
+        "método"
+      ]
+    },
+    {
+      "nl": "lip",
+      "en": [
+        "lip"
+      ],
+      "pt": [
+        "lábio"
+      ]
+    },
+    {
+      "nl": "positie",
+      "en": [
+        "position"
+      ],
+      "pt": [
+        "posição"
+      ]
+    },
+    {
+      "nl": "alle",
+      "en": [
+        "all"
+      ],
+      "pt": [
+        "todos",
+        "todas"
+      ]
+    },
+    {
+      "nl": "enorm",
+      "en": [
+        "enormous",
+        "huge"
+      ],
+      "pt": [
+        "enorme"
+      ]
+    },
+    {
+      "nl": "foto",
+      "en": [
+        "photo",
+        "photograph",
+        "picture"
+      ],
+      "pt": [
+        "foto",
+        "fotografia"
+      ]
+    },
+    {
+      "nl": "film",
+      "en": [
+        "movie",
+        "film"
+      ],
+      "pt": [
+        "filme"
+      ]
+    },
+    {
+      "nl": "activiteit",
+      "en": [
+        "activity"
+      ],
+      "pt": [
+        "atividade"
+      ]
+    },
+    {
+      "nl": "modern",
+      "en": [
+        "modern"
+      ],
+      "pt": [
+        "moderno",
+        "moderna"
+      ]
+    },
+    {
+      "nl": "geluk",
+      "en": [
+        "luck",
+        "happiness"
+      ],
+      "pt": [
+        "sorte",
+        "felicidade"
+      ]
+    },
+    {
+      "nl": "basis",
+      "en": [
+        "base",
+        "basis"
+      ],
+      "pt": [
+        "base"
+      ]
+    },
+    {
+      "nl": "zuster",
+      "en": [
+        "sister"
+      ],
+      "pt": [
+        "irmã"
+      ]
+    },
+    {
+      "nl": "wakker",
+      "en": [
+        "awake"
+      ],
+      "pt": [
+        "acordado",
+        "acordada",
+        "desperto",
+        "desperta"
+      ]
+    },
+    {
+      "nl": "tante",
+      "en": [
+        "aunt"
+      ],
+      "pt": [
+        "tia"
+      ]
+    },
+    {
+      "nl": "vuur",
+      "en": [
+        "fire"
+      ],
+      "pt": [
+        "fogo"
+      ]
+    },
+    {
+      "nl": "prijs",
+      "en": [
+        "price",
+        "prize"
+      ],
+      "pt": [
+        "preço",
+        "prêmio"
+      ]
+    },
+    {
+      "nl": "reactie",
+      "en": [
+        "reaction",
+        "response"
+      ],
+      "pt": [
+        "reação",
+        "resposta"
+      ]
+    },
+    {
+      "nl": "praktijk",
+      "en": [
+        "practice"
+      ],
+      "pt": [
+        "prática"
+      ]
+    },
+    {
+      "nl": "neus",
+      "en": [
+        "nose"
+      ],
+      "pt": [
+        "nariz"
+      ]
+    },
+    {
+      "nl": "terrein",
+      "en": [
+        "terrain",
+        "ground",
+        "site"
+      ],
+      "pt": [
+        "terreno",
+        "área"
+      ]
+    },
+    {
+      "nl": "koning",
+      "en": [
+        "king"
+      ],
+      "pt": [
+        "rei"
+      ]
+    },
+    {
+      "nl": "zingen",
+      "en": [
+        "sing",
+        "to sing"
+      ],
+      "pt": [
+        "cantar"
+      ]
+    },
+    {
+      "nl": "vliegen",
+      "en": [
+        "fly",
+        "to fly"
+      ],
+      "pt": [
+        "voar"
+      ]
+    },
+    {
+      "nl": "cultuur",
+      "en": [
+        "culture"
+      ],
+      "pt": [
+        "cultura"
+      ]
+    },
+    {
+      "nl": "missen",
+      "en": [
+        "miss",
+        "to miss"
+      ],
+      "pt": [
+        "sentir falta de",
+        "perder"
+      ]
+    },
+    {
+      "nl": "politie",
+      "en": [
+        "law enforcement",
+        "police"
+      ],
+      "pt": [
+        "polícia"
+      ]
+    }
+  ]
+}
