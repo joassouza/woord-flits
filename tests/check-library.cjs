@@ -23,7 +23,7 @@ console.log('OK: links no topo, abertura direta por hash, voltar/avançar e paus
 
 const dayDirectory=require('path').join(__dirname,'..','data','days');
 for(const file of fs.readdirSync(dayDirectory).filter(f=>f.endsWith('.json'))){const day=JSON.parse(fs.readFileSync(require('path').join(dayDirectory,file),'utf8'));assert.deepEqual(source.find(d=>d.id===day.id),day);}
-const newest=source.at(-1);assert.equal(newest.id,'day-2026-11-03');assert.equal(newest.words.length,50);assert.equal(new Set(newest.words.map(w=>w.nl)).size,50);
+const newest=source.at(-1);assert.equal(newest.id,'day-2026-11-05');assert.equal(newest.words.length,50);assert.equal(new Set(newest.words.map(w=>w.nl)).size,50);
 for(const key of Object.keys(storage))delete storage[key];
 storage['woord-flits-days-v1']=JSON.stringify({days:source.slice(0,-1),selectedDays:[source[0].id]});
 storage['woord-flits-history-v1']=JSON.stringify({entries:{'en:huis':{word:{nl:'huis',en:['house']},wrong:4,correct:1}},importedLastRound:true});

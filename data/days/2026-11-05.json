@@ -1,0 +1,517 @@
+{
+  "id": "day-2026-11-05",
+  "name": "Dia 6 · 05/11",
+  "date": "2026-11-05",
+  "words": [
+    {
+      "nl": "wensen",
+      "en": [
+        "wish",
+        "to wish"
+      ],
+      "pt": [
+        "desejar"
+      ]
+    },
+    {
+      "nl": "factor",
+      "en": [
+        "factor"
+      ],
+      "pt": [
+        "fator"
+      ]
+    },
+    {
+      "nl": "begin",
+      "en": [
+        "beginning",
+        "start",
+        "begin",
+        "get started"
+      ],
+      "pt": [
+        "início",
+        "começo",
+        "comece"
+      ]
+    },
+    {
+      "nl": "succes",
+      "en": [
+        "success",
+        "good luck"
+      ],
+      "pt": [
+        "sucesso",
+        "boa sorte"
+      ]
+    },
+    {
+      "nl": "kosten",
+      "en": [
+        "cost",
+        "to cost",
+        "costs"
+      ],
+      "pt": [
+        "custar",
+        "custos"
+      ]
+    },
+    {
+      "nl": "natuur",
+      "en": [
+        "nature"
+      ],
+      "pt": [
+        "natureza"
+      ]
+    },
+    {
+      "nl": "hotel",
+      "en": [
+        "hotel"
+      ],
+      "pt": [
+        "hotel"
+      ]
+    },
+    {
+      "nl": "studie",
+      "en": [
+        "study"
+      ],
+      "pt": [
+        "estudo"
+      ]
+    },
+    {
+      "nl": "vriendelijk",
+      "en": [
+        "friendly",
+        "kind"
+      ],
+      "pt": [
+        "amigável",
+        "gentil",
+        "simpático",
+        "simpática"
+      ]
+    },
+    {
+      "nl": "aspect",
+      "en": [
+        "aspect"
+      ],
+      "pt": [
+        "aspecto"
+      ]
+    },
+    {
+      "nl": "figuur",
+      "en": [
+        "figure"
+      ],
+      "pt": [
+        "figura"
+      ]
+    },
+    {
+      "nl": "ontbreken",
+      "en": [
+        "be lacking",
+        "to be lacking",
+        "be missing",
+        "to be missing"
+      ],
+      "pt": [
+        "faltar",
+        "estar faltando"
+      ]
+    },
+    {
+      "nl": "nationaal",
+      "en": [
+        "national"
+      ],
+      "pt": [
+        "nacional"
+      ]
+    },
+    {
+      "nl": "ziek",
+      "en": [
+        "sick",
+        "ill"
+      ],
+      "pt": [
+        "doente"
+      ]
+    },
+    {
+      "nl": "term",
+      "en": [
+        "term"
+      ],
+      "pt": [
+        "termo",
+        "prazo"
+      ]
+    },
+    {
+      "nl": "geef",
+      "en": [
+        "give",
+        "I give"
+      ],
+      "pt": [
+        "dou",
+        "dê",
+        "dá"
+      ]
+    },
+    {
+      "nl": "runnen",
+      "en": [
+        "run",
+        "to run",
+        "manage",
+        "to manage"
+      ],
+      "pt": [
+        "administrar",
+        "gerenciar",
+        "gerir"
+      ]
+    },
+    {
+      "nl": "Engels",
+      "en": [
+        "English"
+      ],
+      "pt": [
+        "inglês"
+      ]
+    },
+    {
+      "nl": "effect",
+      "en": [
+        "effect"
+      ],
+      "pt": [
+        "efeito"
+      ]
+    },
+    {
+      "nl": "plant",
+      "en": [
+        "plant"
+      ],
+      "pt": [
+        "planta"
+      ]
+    },
+    {
+      "nl": "product",
+      "en": [
+        "product"
+      ],
+      "pt": [
+        "produto"
+      ]
+    },
+    {
+      "nl": "slaap",
+      "en": [
+        "sleep",
+        "I sleep"
+      ],
+      "pt": [
+        "sono",
+        "durmo",
+        "durma"
+      ]
+    },
+    {
+      "nl": "tekst",
+      "en": [
+        "text"
+      ],
+      "pt": [
+        "texto"
+      ]
+    },
+    {
+      "nl": "knie",
+      "en": [
+        "knee"
+      ],
+      "pt": [
+        "joelho"
+      ]
+    },
+    {
+      "nl": "geboren",
+      "en": [
+        "born"
+      ],
+      "pt": [
+        "nascido",
+        "nascida"
+      ]
+    },
+    {
+      "nl": "telefoon",
+      "en": [
+        "phone",
+        "telephone"
+      ],
+      "pt": [
+        "telefone"
+      ]
+    },
+    {
+      "nl": "individueel",
+      "en": [
+        "individually",
+        "individual"
+      ],
+      "pt": [
+        "individualmente",
+        "individual"
+      ]
+    },
+    {
+      "nl": "structuur",
+      "en": [
+        "structure"
+      ],
+      "pt": [
+        "estrutura"
+      ]
+    },
+    {
+      "nl": "helft",
+      "en": [
+        "half"
+      ],
+      "pt": [
+        "metade"
+      ]
+    },
+    {
+      "nl": "trein",
+      "en": [
+        "train"
+      ],
+      "pt": [
+        "trem"
+      ]
+    },
+    {
+      "nl": "praktisch",
+      "en": [
+        "practical"
+      ],
+      "pt": [
+        "prático",
+        "prática"
+      ]
+    },
+    {
+      "nl": "zomer",
+      "en": [
+        "summer"
+      ],
+      "pt": [
+        "verão"
+      ]
+    },
+    {
+      "nl": "winnen",
+      "en": [
+        "win",
+        "to win"
+      ],
+      "pt": [
+        "ganhar",
+        "vencer"
+      ]
+    },
+    {
+      "nl": "conclusie",
+      "en": [
+        "conclusion"
+      ],
+      "pt": [
+        "conclusão"
+      ]
+    },
+    {
+      "nl": "baby",
+      "en": [
+        "baby"
+      ],
+      "pt": [
+        "bebê"
+      ]
+    },
+    {
+      "nl": "internationaal",
+      "en": [
+        "international"
+      ],
+      "pt": [
+        "internacional"
+      ]
+    },
+    {
+      "nl": "eiland",
+      "en": [
+        "island"
+      ],
+      "pt": [
+        "ilha"
+      ]
+    },
+    {
+      "nl": "meester",
+      "en": [
+        "master",
+        "teacher"
+      ],
+      "pt": [
+        "mestre",
+        "professor"
+      ]
+    },
+    {
+      "nl": "kwaliteit",
+      "en": [
+        "quality"
+      ],
+      "pt": [
+        "qualidade"
+      ]
+    },
+    {
+      "nl": "vullen",
+      "en": [
+        "fill",
+        "to fill"
+      ],
+      "pt": [
+        "encher",
+        "preencher"
+      ]
+    },
+    {
+      "nl": "individu",
+      "en": [
+        "individual"
+      ],
+      "pt": [
+        "indivíduo",
+        "pessoa"
+      ]
+    },
+    {
+      "nl": "vervullen",
+      "en": [
+        "fulfil",
+        "fulfill",
+        "to fulfil",
+        "to fulfill"
+      ],
+      "pt": [
+        "cumprir",
+        "realizar",
+        "desempenhar"
+      ]
+    },
+    {
+      "nl": "plaatsen",
+      "en": [
+        "place",
+        "to place"
+      ],
+      "pt": [
+        "colocar",
+        "posicionar"
+      ]
+    },
+    {
+      "nl": "bespreken",
+      "en": [
+        "discuss",
+        "to discuss"
+      ],
+      "pt": [
+        "discutir",
+        "conversar sobre"
+      ]
+    },
+    {
+      "nl": "discussie",
+      "en": [
+        "discussion",
+        "debate"
+      ],
+      "pt": [
+        "discussão",
+        "debate"
+      ]
+    },
+    {
+      "nl": "sigaret",
+      "en": [
+        "cigarette"
+      ],
+      "pt": [
+        "cigarro"
+      ]
+    },
+    {
+      "nl": "vis",
+      "en": [
+        "fish"
+      ],
+      "pt": [
+        "peixe"
+      ]
+    },
+    {
+      "nl": "absoluut",
+      "en": [
+        "absolutely",
+        "absolute"
+      ],
+      "pt": [
+        "absolutamente",
+        "absoluto",
+        "absoluta"
+      ]
+    },
+    {
+      "nl": "historisch",
+      "en": [
+        "historical",
+        "historic"
+      ],
+      "pt": [
+        "histórico",
+        "histórica"
+      ]
+    },
+    {
+      "nl": "nummer",
+      "en": [
+        "number"
+      ],
+      "pt": [
+        "número"
+      ]
+    }
+  ]
+}
