@@ -7,7 +7,7 @@ const app=launch(),n=app.nodes;
 const historyBefore=storage['woord-flits-history-v1'],dailyBefore=storage['woord-flits-daily-v1'];
 n['dc-open-library'].onclick();assert(n['dc-main'].hidden);assert.equal(n['dc-library'].hidden,false);assert.equal(n['dc-library-words'].children[0].children[1].children.length,50);
 const source=JSON.parse(storage['woord-flits-days-v1']).days;
-for(const day of source){n['dc-library-day'].value=day.id;n['dc-library-day'].events.change();const cards=n['dc-library-words'].children[0].children[1].children;assert.equal(cards.length,day.words.length);day.words.forEach((w,i)=>{assert.equal(cards[i].children[1].textContent,w.nl);assert.equal(cards[i].children[2].children[1].textContent,w.en.join(' / '));assert.equal(cards[i].children[2].children[3].textContent,w.pt.join(' / '));});}
+for(const day of source){n['dc-library-day'].value=day.id;n['dc-library-day'].events.change();const cards=n['dc-library-words'].children[0].children[1].children;assert.equal(cards.length,day.words.length);day.words.forEach((w,i)=>{assert.equal(cards[i].children[1].textContent,w.sourceTerm||w.nl);assert.equal(cards[i].children[2].children[1].textContent,w.en.join(' / '));assert.equal(cards[i].children[2].children[3].textContent,w.pt.join(' / '));});}
 n['dc-errors-only'].checked=true;n['dc-errors-only'].events.change();n['dc-library-day'].value='all';n['dc-library-day'].events.change();assert.equal(n['dc-library-words'].children.length,source.length);assert.equal(n['dc-library-words'].children.reduce((sum,s)=>sum+s.children[1].children.length,0),source.reduce((sum,d)=>sum+d.words.length,0));
 assert.equal(storage['woord-flits-history-v1'],historyBefore);assert.equal(storage['woord-flits-daily-v1'],dailyBefore);
 n['dc-close-library'].onclick();assert.equal(n['dc-main'].hidden,false);assert(n['dc-library'].hidden);
@@ -23,9 +23,39 @@ console.log('OK: links no topo, abertura direta por hash, voltar/avançar e paus
 
 const dayDirectory=require('path').join(__dirname,'..','data','days');
 for(const file of fs.readdirSync(dayDirectory).filter(f=>f.endsWith('.json'))){const day=JSON.parse(fs.readFileSync(require('path').join(dayDirectory,file),'utf8'));assert.deepEqual(source.find(d=>d.id===day.id),day);}
-const newest=source.at(-1);assert.equal(newest.id,'day-2026-11-05');assert.equal(newest.words.length,50);assert.equal(new Set(newest.words.map(w=>w.nl)).size,50);
+const newest=source.filter(d=>d.kind!=='collection').at(-1);assert.equal(newest.id,'day-2026-11-05');assert.equal(newest.words.length,50);assert.equal(new Set(newest.words.map(w=>w.nl)).size,50);
 for(const key of Object.keys(storage))delete storage[key];
-storage['woord-flits-days-v1']=JSON.stringify({days:source.slice(0,-1),selectedDays:[source[0].id]});
+storage['woord-flits-days-v1']=JSON.stringify({days:source.filter(d=>d.id!==newest.id),selectedDays:[source[0].id]});
 storage['woord-flits-history-v1']=JSON.stringify({entries:{'en:huis':{word:{nl:'huis',en:['house']},wrong:4,correct:1}},importedLastRound:true});
 for(const mode of ['en','nl','pt','nl-pt']){const game=launch(),gn=game.nodes;assert.equal(JSON.parse(storage['woord-flits-history-v1']).entries['en:huis'].wrong,4);assert.deepEqual(JSON.parse(storage['woord-flits-days-v1']).selectedDays,[newest.id]);gn['dc-errors-only'].checked=false;gn['dc-direction'].value=mode;gn['dc-size'].value='50';gn['dc-start'].onclick();assert.equal(game.state.batch.length,50);for(let i=0;i<50;i++){const w=game.state.batch[i];gn['dc-answer'].value=mode==='en'?w.en[0]:mode==='pt'?w.pt[0]:w.nl;gn['dc-form'].onsubmit({preventDefault(){}});assert(game.state.answers.at(-1).ok,mode+':'+w.nl);game.next();}}
 console.log('OK: JSONs iguais ao vocabulário do app; novo dia de 50 palavras, migração preserva erros e 50 respostas corretas nos quatro sentidos.');
+
+
+const collections=source.filter(d=>d.kind==='collection');
+assert.deepEqual(collections.map(d=>d.words.length),[493,255,364]);
+for(const collection of collections){
+ const saved=JSON.parse(fs.readFileSync(require('path').join(__dirname,'..','data','collections',collection.level+'.json'),'utf8'));
+ assert.deepEqual(collection,saved);
+ collection.words.forEach((w,i)=>{assert.equal(w.sourceIndex,i+1);assert(w.sourceTerm);assert(w.en.length&&w.pt.length);});
+ for(const mode of ['en','nl','pt','nl-pt']){
+  for(const key of Object.keys(storage))delete storage[key];
+  storage['woord-flits-days-v1']=JSON.stringify({days:source,selectedDays:[collection.id]});
+  const game=launch(),gn=game.nodes;gn['dc-direction'].value=mode;gn['dc-size'].value=collection.words.length;gn['dc-start'].onclick();
+  assert.equal(game.state.batch.length,new Set(collection.words.map(w=>w.nl.toLowerCase())).size);
+  for(const w of game.state.batch)assert(w.en.length&&w.pt.length);
+  const w=game.state.batch[0];gn['dc-answer'].value=mode==='en'?w.en[0]:mode==='pt'?w.pt[0]:(w.nlAliases?.[0]||w.nl);gn['dc-form'].onsubmit({preventDefault(){}});assert(game.state.answers[0].ok,collection.level+':'+mode);
+ }
+}
+// Installing the archive must not select 1,112 new cards or create study results.
+for(const key of Object.keys(storage))delete storage[key];
+storage['woord-flits-days-v1']=JSON.stringify({days:source.filter(d=>d.kind!=='collection'),selectedDays:[newest.id]});
+storage['woord-flits-history-v1']=JSON.stringify({entries:{'en:huis':{word:{nl:'huis',en:['house']},wrong:7,correct:2}},importedLastRound:true});
+const archive=launch();assert.deepEqual(JSON.parse(storage['woord-flits-days-v1']).selectedDays,[newest.id]);assert.equal(archive.nodes['dc-day-name'].value,'Dia 7');assert.equal(JSON.parse(storage['woord-flits-history-v1']).entries['en:huis'].wrong,7);assert.equal(storage['woord-flits-daily-v1'],undefined);
+for(const key of Object.keys(storage))delete storage[key];
+const aliases=collections.flatMap(d=>d.words).filter(w=>w.nlAliases?.length);
+for(const w of aliases)for(const alias of w.nlAliases){
+ storage['woord-flits-days-v1']=JSON.stringify({days:[...source,{id:'alias-test',name:'Alias test',words:[w]}],selectedDays:['alias-test']});
+ const game=launch(),gn=game.nodes;gn['dc-direction'].value='nl-pt';gn['dc-size'].value=1;gn['dc-start'].onclick();gn['dc-answer'].value=alias;gn['dc-form'].onsubmit({preventDefault(){}});assert(game.state.answers[0].ok,w.nl+':'+alias);
+}
+assert(collections.find(d=>d.level==='difficult').words.some(w=>w.nl==='kleren'&&w.pt.includes('roupas')));
+console.log('OK: all 1,112 source cards match collection JSON; no training duplicates; four directions; Dutch alternatives accepted; saved selection, error history and study dates preserved.');

@@ -1,0 +1,3321 @@
+{
+  "id": "course-medium",
+  "name": "Coleção · Medium",
+  "kind": "collection",
+  "level": "medium",
+  "sourceUrl": "https://quizlet.com/nl/518909415/2-medium-flash-cards/",
+  "sourceCardCount": 255,
+  "capturedAt": "2026-11-12T20:22:27.005Z",
+  "translationNote": "English and Brazilian Portuguese equivalents added independently; not an export of the course answer key.",
+  "words": [
+    {
+      "nl": "boom",
+      "en": [
+        "tree"
+      ],
+      "pt": [
+        "árvore"
+      ],
+      "sourceTerm": "boom, de",
+      "sourceIndex": 1,
+      "nlAliases": [
+        "de boom"
+      ]
+    },
+    {
+      "nl": "stoel",
+      "en": [
+        "chair"
+      ],
+      "pt": [
+        "cadeira"
+      ],
+      "sourceTerm": "stoel, de",
+      "sourceIndex": 2,
+      "nlAliases": [
+        "de stoel"
+      ]
+    },
+    {
+      "nl": "van",
+      "en": [
+        "of",
+        "from"
+      ],
+      "pt": [
+        "de"
+      ],
+      "sourceTerm": "van",
+      "sourceIndex": 3
+    },
+    {
+      "nl": "zijn",
+      "en": [
+        "to be",
+        "be",
+        "his"
+      ],
+      "pt": [
+        "ser",
+        "estar",
+        "dele",
+        "seu",
+        "sua"
+      ],
+      "sourceTerm": "zijn",
+      "sourceIndex": 4
+    },
+    {
+      "nl": "met",
+      "en": [
+        "with"
+      ],
+      "pt": [
+        "com"
+      ],
+      "sourceTerm": "met",
+      "sourceIndex": 5
+    },
+    {
+      "nl": "als",
+      "en": [
+        "if",
+        "when",
+        "as"
+      ],
+      "pt": [
+        "se",
+        "quando",
+        "como"
+      ],
+      "sourceTerm": "als",
+      "sourceIndex": 6
+    },
+    {
+      "nl": "er",
+      "en": [
+        "there"
+      ],
+      "pt": [
+        "lá",
+        "ali"
+      ],
+      "sourceTerm": "er",
+      "sourceIndex": 7
+    },
+    {
+      "nl": "maar",
+      "en": [
+        "but",
+        "only"
+      ],
+      "pt": [
+        "mas",
+        "apenas"
+      ],
+      "sourceTerm": "maar",
+      "sourceIndex": 8
+    },
+    {
+      "nl": "om",
+      "en": [
+        "around",
+        "at",
+        "in order to"
+      ],
+      "pt": [
+        "ao redor de",
+        "às",
+        "para"
+      ],
+      "sourceTerm": "om",
+      "sourceIndex": 9
+    },
+    {
+      "nl": "naar",
+      "en": [
+        "to",
+        "towards"
+      ],
+      "pt": [
+        "para",
+        "em direção a"
+      ],
+      "sourceTerm": "naar",
+      "sourceIndex": 10
+    },
+    {
+      "nl": "ook",
+      "en": [
+        "also",
+        "too"
+      ],
+      "pt": [
+        "também"
+      ],
+      "sourceTerm": "ook",
+      "sourceIndex": 11
+    },
+    {
+      "nl": "bij",
+      "en": [
+        "at",
+        "near",
+        "with"
+      ],
+      "pt": [
+        "em",
+        "perto de",
+        "junto de"
+      ],
+      "sourceTerm": "bij",
+      "sourceIndex": 12
+    },
+    {
+      "nl": "nog",
+      "en": [
+        "still",
+        "yet",
+        "more"
+      ],
+      "pt": [
+        "ainda",
+        "mais"
+      ],
+      "sourceTerm": "nog",
+      "sourceIndex": 13
+    },
+    {
+      "nl": "tot",
+      "en": [
+        "until",
+        "to"
+      ],
+      "pt": [
+        "até"
+      ],
+      "sourceTerm": "tot",
+      "sourceIndex": 14
+    },
+    {
+      "nl": "ons",
+      "en": [
+        "us",
+        "our"
+      ],
+      "pt": [
+        "nos",
+        "nós",
+        "nosso",
+        "nossa"
+      ],
+      "sourceTerm": "ons/onze",
+      "sourceIndex": 15,
+      "nlAliases": [
+        "onze"
+      ]
+    },
+    {
+      "nl": "veel",
+      "en": [
+        "much",
+        "many",
+        "a lot"
+      ],
+      "pt": [
+        "muito",
+        "muitos",
+        "muita",
+        "muitas"
+      ],
+      "sourceTerm": "veel",
+      "sourceIndex": 16
+    },
+    {
+      "nl": "mens",
+      "en": [
+        "human",
+        "person"
+      ],
+      "pt": [
+        "ser humano",
+        "pessoa"
+      ],
+      "sourceTerm": "mens",
+      "sourceIndex": 17
+    },
+    {
+      "nl": "toch",
+      "en": [
+        "yet",
+        "still",
+        "nevertheless"
+      ],
+      "pt": [
+        "mesmo assim",
+        "ainda",
+        "contudo"
+      ],
+      "sourceTerm": "toch",
+      "sourceIndex": 18
+    },
+    {
+      "nl": "na",
+      "en": [
+        "after"
+      ],
+      "pt": [
+        "depois de",
+        "após"
+      ],
+      "sourceTerm": "na",
+      "sourceIndex": 19
+    },
+    {
+      "nl": "tijd",
+      "en": [
+        "time"
+      ],
+      "pt": [
+        "tempo"
+      ],
+      "sourceTerm": "tijd",
+      "sourceIndex": 20
+    },
+    {
+      "nl": "kind",
+      "en": [
+        "child"
+      ],
+      "pt": [
+        "criança"
+      ],
+      "sourceTerm": "kind",
+      "sourceIndex": 21
+    },
+    {
+      "nl": "vrouw",
+      "en": [
+        "woman",
+        "wife"
+      ],
+      "pt": [
+        "mulher",
+        "esposa"
+      ],
+      "sourceTerm": "vrouw",
+      "sourceIndex": 22
+    },
+    {
+      "nl": "oog",
+      "en": [
+        "eye"
+      ],
+      "pt": [
+        "olho"
+      ],
+      "sourceTerm": "oog",
+      "sourceIndex": 23
+    },
+    {
+      "nl": "dus",
+      "en": [
+        "so",
+        "therefore"
+      ],
+      "pt": [
+        "então",
+        "portanto"
+      ],
+      "sourceTerm": "dus",
+      "sourceIndex": 24
+    },
+    {
+      "nl": "heel",
+      "en": [
+        "very",
+        "whole"
+      ],
+      "pt": [
+        "muito",
+        "inteiro",
+        "inteira"
+      ],
+      "sourceTerm": "heel",
+      "sourceIndex": 25
+    },
+    {
+      "nl": "even",
+      "en": [
+        "for a moment",
+        "just"
+      ],
+      "pt": [
+        "por um momento",
+        "só"
+      ],
+      "sourceTerm": "even",
+      "sourceIndex": 26
+    },
+    {
+      "nl": "zelfs",
+      "en": [
+        "even"
+      ],
+      "pt": [
+        "até",
+        "até mesmo"
+      ],
+      "sourceTerm": "zelfs",
+      "sourceIndex": 27
+    },
+    {
+      "nl": "elk",
+      "en": [
+        "each",
+        "every"
+      ],
+      "pt": [
+        "cada",
+        "todo"
+      ],
+      "sourceTerm": "elk",
+      "sourceIndex": 28
+    },
+    {
+      "nl": "ver",
+      "en": [
+        "far"
+      ],
+      "pt": [
+        "longe",
+        "distante"
+      ],
+      "sourceTerm": "ver",
+      "sourceIndex": 29
+    },
+    {
+      "nl": "hoofd",
+      "en": [
+        "head"
+      ],
+      "pt": [
+        "cabeça"
+      ],
+      "sourceTerm": "hoofd",
+      "sourceIndex": 30
+    },
+    {
+      "nl": "zeer",
+      "en": [
+        "very"
+      ],
+      "pt": [
+        "muito"
+      ],
+      "sourceTerm": "zeer, heel",
+      "sourceIndex": 31,
+      "nlAliases": [
+        "heel"
+      ]
+    },
+    {
+      "nl": "een paar",
+      "en": [
+        "a few",
+        "a couple"
+      ],
+      "pt": [
+        "alguns",
+        "algumas",
+        "um par"
+      ],
+      "sourceTerm": "een paar",
+      "sourceIndex": 32
+    },
+    {
+      "nl": "vraag",
+      "en": [
+        "question"
+      ],
+      "pt": [
+        "pergunta"
+      ],
+      "sourceTerm": "vraag",
+      "sourceIndex": 33
+    },
+    {
+      "nl": "vaak",
+      "en": [
+        "often"
+      ],
+      "pt": [
+        "frequentemente",
+        "muitas vezes"
+      ],
+      "sourceTerm": "vaak",
+      "sourceIndex": 34
+    },
+    {
+      "nl": "keer",
+      "en": [
+        "time",
+        "occasion"
+      ],
+      "pt": [
+        "vez",
+        "ocasião"
+      ],
+      "sourceTerm": "keer",
+      "sourceIndex": 35
+    },
+    {
+      "nl": "eerst",
+      "en": [
+        "first",
+        "at first",
+        "initially"
+      ],
+      "pt": [
+        "primeiro",
+        "primeiramente",
+        "a princípio"
+      ],
+      "sourceTerm": "eerst",
+      "sourceIndex": 36
+    },
+    {
+      "nl": "weg",
+      "en": [
+        "way",
+        "road",
+        "away"
+      ],
+      "pt": [
+        "caminho",
+        "estrada",
+        "embora"
+      ],
+      "sourceTerm": "weg",
+      "sourceIndex": 37
+    },
+    {
+      "nl": "zaak",
+      "en": [
+        "matter",
+        "business",
+        "case"
+      ],
+      "pt": [
+        "assunto",
+        "negócio",
+        "caso"
+      ],
+      "sourceTerm": "zaak",
+      "sourceIndex": 38
+    },
+    {
+      "nl": "net",
+      "en": [
+        "just",
+        "neat"
+      ],
+      "pt": [
+        "acabou de",
+        "exatamente",
+        "arrumado",
+        "arrumada"
+      ],
+      "sourceTerm": "net",
+      "sourceIndex": 39
+    },
+    {
+      "nl": "heen",
+      "en": [
+        "away",
+        "towards"
+      ],
+      "pt": [
+        "para lá",
+        "em direção a"
+      ],
+      "sourceTerm": "heen",
+      "sourceIndex": 40
+    },
+    {
+      "nl": "hoog",
+      "en": [
+        "high",
+        "tall"
+      ],
+      "pt": [
+        "alto",
+        "alta"
+      ],
+      "sourceTerm": "hoog",
+      "sourceIndex": 41
+    },
+    {
+      "nl": "juist",
+      "en": [
+        "correct",
+        "right",
+        "exactly"
+      ],
+      "pt": [
+        "correto",
+        "correta",
+        "certo",
+        "certa",
+        "exatamente"
+      ],
+      "sourceTerm": "juist",
+      "sourceIndex": 42
+    },
+    {
+      "nl": "sterk",
+      "en": [
+        "strong"
+      ],
+      "pt": [
+        "forte"
+      ],
+      "sourceTerm": "sterk",
+      "sourceIndex": 43
+    },
+    {
+      "nl": "waar",
+      "en": [
+        "where",
+        "true"
+      ],
+      "pt": [
+        "onde",
+        "verdadeiro",
+        "verdadeira"
+      ],
+      "sourceTerm": "waar",
+      "sourceIndex": 44
+    },
+    {
+      "nl": "deel",
+      "en": [
+        "part",
+        "share"
+      ],
+      "pt": [
+        "parte"
+      ],
+      "sourceTerm": "deel",
+      "sourceIndex": 45
+    },
+    {
+      "nl": "snel",
+      "en": [
+        "fast",
+        "quickly"
+      ],
+      "pt": [
+        "rápido",
+        "rápida",
+        "rapidamente"
+      ],
+      "sourceTerm": "snel",
+      "sourceIndex": 46
+    },
+    {
+      "nl": "mooi",
+      "en": [
+        "beautiful",
+        "nice"
+      ],
+      "pt": [
+        "bonito",
+        "bonita",
+        "belo",
+        "bela"
+      ],
+      "sourceTerm": "mooi",
+      "sourceIndex": 47
+    },
+    {
+      "nl": "feit",
+      "en": [
+        "fact"
+      ],
+      "pt": [
+        "fato"
+      ],
+      "sourceTerm": "feit",
+      "sourceIndex": 48
+    },
+    {
+      "nl": "zin",
+      "en": [
+        "sentence",
+        "sense",
+        "desire"
+      ],
+      "pt": [
+        "frase",
+        "sentido",
+        "vontade"
+      ],
+      "sourceTerm": "zin",
+      "sourceIndex": 49
+    },
+    {
+      "nl": "kort",
+      "en": [
+        "short"
+      ],
+      "pt": [
+        "curto",
+        "curta"
+      ],
+      "sourceTerm": "kort",
+      "sourceIndex": 50
+    },
+    {
+      "nl": "vast",
+      "en": [
+        "fixed",
+        "firm",
+        "certain"
+      ],
+      "pt": [
+        "fixo",
+        "fixa",
+        "firme",
+        "certo",
+        "certa"
+      ],
+      "sourceTerm": "vast",
+      "sourceIndex": 51
+    },
+    {
+      "nl": "stad",
+      "en": [
+        "city",
+        "town"
+      ],
+      "pt": [
+        "cidade"
+      ],
+      "sourceTerm": "stad",
+      "sourceIndex": 52
+    },
+    {
+      "nl": "vroeg",
+      "en": [
+        "early"
+      ],
+      "pt": [
+        "cedo"
+      ],
+      "sourceTerm": "vroeg",
+      "sourceIndex": 53
+    },
+    {
+      "nl": "stem",
+      "en": [
+        "voice",
+        "vote"
+      ],
+      "pt": [
+        "voz",
+        "voto"
+      ],
+      "sourceTerm": "stem",
+      "sourceIndex": 54
+    },
+    {
+      "nl": "kant",
+      "en": [
+        "side"
+      ],
+      "pt": [
+        "lado"
+      ],
+      "sourceTerm": "kant",
+      "sourceIndex": 55
+    },
+    {
+      "nl": "geld",
+      "en": [
+        "money"
+      ],
+      "pt": [
+        "dinheiro"
+      ],
+      "sourceTerm": "geld",
+      "sourceIndex": 56
+    },
+    {
+      "nl": "stuk",
+      "en": [
+        "piece",
+        "broken"
+      ],
+      "pt": [
+        "pedaço",
+        "quebrado",
+        "quebrada"
+      ],
+      "sourceTerm": "stuk",
+      "sourceIndex": 57
+    },
+    {
+      "nl": "graag",
+      "en": [
+        "gladly",
+        "with pleasure"
+      ],
+      "pt": [
+        "com prazer",
+        "gosto de"
+      ],
+      "sourceTerm": "graag",
+      "sourceIndex": 58
+    },
+    {
+      "nl": "nou",
+      "en": [
+        "now",
+        "well"
+      ],
+      "pt": [
+        "agora",
+        "bem"
+      ],
+      "sourceTerm": "nou",
+      "sourceIndex": 59
+    },
+    {
+      "nl": "pas",
+      "en": [
+        "only just",
+        "only",
+        "step"
+      ],
+      "pt": [
+        "só agora",
+        "apenas",
+        "passo"
+      ],
+      "sourceTerm": "pas",
+      "sourceIndex": 60
+    },
+    {
+      "nl": "recht",
+      "en": [
+        "straight",
+        "right",
+        "law"
+      ],
+      "pt": [
+        "reto",
+        "reta",
+        "direito"
+      ],
+      "sourceTerm": "recht",
+      "sourceIndex": 61
+    },
+    {
+      "nl": "zwaar",
+      "en": [
+        "heavy",
+        "hard"
+      ],
+      "pt": [
+        "pesado",
+        "pesada",
+        "difícil"
+      ],
+      "sourceTerm": "zwaar",
+      "sourceIndex": 62
+    },
+    {
+      "nl": "lid",
+      "en": [
+        "member"
+      ],
+      "pt": [
+        "membro"
+      ],
+      "sourceTerm": "lid",
+      "sourceIndex": 63
+    },
+    {
+      "nl": "eeuw",
+      "en": [
+        "century"
+      ],
+      "pt": [
+        "século"
+      ],
+      "sourceTerm": "eeuw",
+      "sourceIndex": 64
+    },
+    {
+      "nl": "mond",
+      "en": [
+        "mouth"
+      ],
+      "pt": [
+        "boca"
+      ],
+      "sourceTerm": "mond",
+      "sourceIndex": 65
+    },
+    {
+      "nl": "opnieuw",
+      "en": [
+        "again",
+        "once again"
+      ],
+      "pt": [
+        "de novo",
+        "novamente"
+      ],
+      "sourceTerm": "opnieuw",
+      "sourceIndex": 66
+    },
+    {
+      "nl": "thuis",
+      "en": [
+        "at home",
+        "home"
+      ],
+      "pt": [
+        "em casa"
+      ],
+      "sourceTerm": "thuis",
+      "sourceIndex": 67
+    },
+    {
+      "nl": "kracht",
+      "en": [
+        "strength",
+        "force"
+      ],
+      "pt": [
+        "força"
+      ],
+      "sourceTerm": "kracht",
+      "sourceIndex": 68
+    },
+    {
+      "nl": "ooit",
+      "en": [
+        "ever",
+        "once"
+      ],
+      "pt": [
+        "alguma vez",
+        "uma vez"
+      ],
+      "sourceTerm": "ooit",
+      "sourceIndex": 69
+    },
+    {
+      "nl": "kerk",
+      "en": [
+        "church"
+      ],
+      "pt": [
+        "igreja"
+      ],
+      "sourceTerm": "kerk",
+      "sourceIndex": 70
+    },
+    {
+      "nl": "blik",
+      "en": [
+        "look",
+        "glance",
+        "tin"
+      ],
+      "pt": [
+        "olhar",
+        "lata"
+      ],
+      "sourceTerm": "blik",
+      "sourceIndex": 71
+    },
+    {
+      "nl": "kans",
+      "en": [
+        "chance",
+        "opportunity"
+      ],
+      "pt": [
+        "chance",
+        "oportunidade"
+      ],
+      "sourceTerm": "kans",
+      "sourceIndex": 72
+    },
+    {
+      "nl": "brief",
+      "en": [
+        "letter"
+      ],
+      "pt": [
+        "carta"
+      ],
+      "sourceTerm": "brief",
+      "sourceIndex": 73
+    },
+    {
+      "nl": "beeld",
+      "en": [
+        "image",
+        "statue"
+      ],
+      "pt": [
+        "imagem",
+        "estátua"
+      ],
+      "sourceTerm": "beeld",
+      "sourceIndex": 74
+    },
+    {
+      "nl": "zacht",
+      "en": [
+        "soft",
+        "gentle"
+      ],
+      "pt": [
+        "macio",
+        "macia",
+        "suave"
+      ],
+      "sourceTerm": "zacht",
+      "sourceIndex": 75
+    },
+    {
+      "nl": "macht",
+      "en": [
+        "power"
+      ],
+      "pt": [
+        "poder"
+      ],
+      "sourceTerm": "macht",
+      "sourceIndex": 76
+    },
+    {
+      "nl": "via",
+      "en": [
+        "via",
+        "through"
+      ],
+      "pt": [
+        "via",
+        "por",
+        "através de"
+      ],
+      "sourceTerm": "via / door",
+      "sourceIndex": 77,
+      "nlAliases": [
+        "door"
+      ]
+    },
+    {
+      "nl": "gang",
+      "en": [
+        "corridor",
+        "course"
+      ],
+      "pt": [
+        "corredor",
+        "andamento"
+      ],
+      "sourceTerm": "gang",
+      "sourceIndex": 78
+    },
+    {
+      "nl": "been",
+      "en": [
+        "leg",
+        "bone"
+      ],
+      "pt": [
+        "perna",
+        "osso"
+      ],
+      "sourceTerm": "been",
+      "sourceIndex": 79
+    },
+    {
+      "nl": "slecht",
+      "en": [
+        "bad"
+      ],
+      "pt": [
+        "mau",
+        "má",
+        "ruim"
+      ],
+      "sourceTerm": "slecht",
+      "sourceIndex": 80
+    },
+    {
+      "nl": "wet",
+      "en": [
+        "law"
+      ],
+      "pt": [
+        "lei"
+      ],
+      "sourceTerm": "wet",
+      "sourceIndex": 81
+    },
+    {
+      "nl": "bang",
+      "en": [
+        "afraid",
+        "scared"
+      ],
+      "pt": [
+        "com medo",
+        "assustado",
+        "assustada"
+      ],
+      "sourceTerm": "bang",
+      "sourceIndex": 82
+    },
+    {
+      "nl": "dier",
+      "en": [
+        "animal"
+      ],
+      "pt": [
+        "animal"
+      ],
+      "sourceTerm": "dier",
+      "sourceIndex": 83
+    },
+    {
+      "nl": "lucht",
+      "en": [
+        "air",
+        "sky"
+      ],
+      "pt": [
+        "ar",
+        "céu"
+      ],
+      "sourceTerm": "lucht",
+      "sourceIndex": 84
+    },
+    {
+      "nl": "rug",
+      "en": [
+        "back"
+      ],
+      "pt": [
+        "costas"
+      ],
+      "sourceTerm": "rug",
+      "sourceIndex": 85
+    },
+    {
+      "nl": "angst",
+      "en": [
+        "fear",
+        "anxiety"
+      ],
+      "pt": [
+        "medo",
+        "ansiedade"
+      ],
+      "sourceTerm": "angst",
+      "sourceIndex": 86
+    },
+    {
+      "nl": "laag",
+      "en": [
+        "low",
+        "layer"
+      ],
+      "pt": [
+        "baixo",
+        "baixa",
+        "camada"
+      ],
+      "sourceTerm": "laag",
+      "sourceIndex": 87
+    },
+    {
+      "nl": "raam",
+      "en": [
+        "window"
+      ],
+      "pt": [
+        "janela"
+      ],
+      "sourceTerm": "raam",
+      "sourceIndex": 88
+    },
+    {
+      "nl": "hond",
+      "en": [
+        "dog"
+      ],
+      "pt": [
+        "cachorro",
+        "cão"
+      ],
+      "sourceTerm": "hond",
+      "sourceIndex": 89
+    },
+    {
+      "nl": "stil",
+      "en": [
+        "quiet",
+        "silent"
+      ],
+      "pt": [
+        "quieto",
+        "quieta",
+        "silencioso",
+        "silenciosa"
+      ],
+      "sourceTerm": "stil",
+      "sourceIndex": 90
+    },
+    {
+      "nl": "doel",
+      "en": [
+        "goal",
+        "target"
+      ],
+      "pt": [
+        "objetivo",
+        "meta",
+        "alvo"
+      ],
+      "sourceTerm": "doel",
+      "sourceIndex": 91
+    },
+    {
+      "nl": "dienst",
+      "en": [
+        "service",
+        "shift"
+      ],
+      "pt": [
+        "serviço",
+        "turno"
+      ],
+      "sourceTerm": "dienst",
+      "sourceIndex": 92
+    },
+    {
+      "nl": "zwart",
+      "en": [
+        "black"
+      ],
+      "pt": [
+        "preto",
+        "preta"
+      ],
+      "sourceTerm": "zwart",
+      "sourceIndex": 93
+    },
+    {
+      "nl": "menen",
+      "en": [
+        "mean",
+        "to mean",
+        "intend",
+        "to intend"
+      ],
+      "pt": [
+        "querer dizer",
+        "ter a intenção",
+        "pretender"
+      ],
+      "sourceTerm": "menen",
+      "sourceIndex": 94
+    },
+    {
+      "nl": "dik",
+      "en": [
+        "thick",
+        "fat"
+      ],
+      "pt": [
+        "grosso",
+        "grossa",
+        "gordo",
+        "gorda"
+      ],
+      "sourceTerm": "dik",
+      "sourceIndex": 95
+    },
+    {
+      "nl": "paard",
+      "en": [
+        "horse"
+      ],
+      "pt": [
+        "cavalo"
+      ],
+      "sourceTerm": "paard",
+      "sourceIndex": 96
+    },
+    {
+      "nl": "vreemd",
+      "en": [
+        "strange",
+        "foreign"
+      ],
+      "pt": [
+        "estranho",
+        "estranha",
+        "estrangeiro",
+        "estrangeira"
+      ],
+      "sourceTerm": "vreemd",
+      "sourceIndex": 97
+    },
+    {
+      "nl": "taal",
+      "en": [
+        "language"
+      ],
+      "pt": [
+        "idioma",
+        "língua"
+      ],
+      "sourceTerm": "taal",
+      "sourceIndex": 98
+    },
+    {
+      "nl": "volk",
+      "en": [
+        "people",
+        "nation"
+      ],
+      "pt": [
+        "povo",
+        "nação"
+      ],
+      "sourceTerm": "volk",
+      "sourceIndex": 99
+    },
+    {
+      "nl": "aarde",
+      "en": [
+        "earth",
+        "soil"
+      ],
+      "pt": [
+        "terra",
+        "solo"
+      ],
+      "sourceTerm": "aarde",
+      "sourceIndex": 100
+    },
+    {
+      "nl": "stoel",
+      "en": [
+        "chair"
+      ],
+      "pt": [
+        "cadeira"
+      ],
+      "sourceTerm": "stoel",
+      "sourceIndex": 101
+    },
+    {
+      "nl": "muur",
+      "en": [
+        "wall"
+      ],
+      "pt": [
+        "parede",
+        "muro"
+      ],
+      "sourceTerm": "muur",
+      "sourceIndex": 102
+    },
+    {
+      "nl": "raad",
+      "en": [
+        "advice",
+        "council"
+      ],
+      "pt": [
+        "conselho"
+      ],
+      "sourceTerm": "raad",
+      "sourceIndex": 103
+    },
+    {
+      "nl": "boom",
+      "en": [
+        "tree"
+      ],
+      "pt": [
+        "árvore"
+      ],
+      "sourceTerm": "boom",
+      "sourceIndex": 104
+    },
+    {
+      "nl": "dorp",
+      "en": [
+        "village"
+      ],
+      "pt": [
+        "vila",
+        "vilarejo"
+      ],
+      "sourceTerm": "dorp",
+      "sourceIndex": 105
+    },
+    {
+      "nl": "breed",
+      "en": [
+        "wide",
+        "broad"
+      ],
+      "pt": [
+        "largo",
+        "larga",
+        "amplo",
+        "ampla"
+      ],
+      "sourceTerm": "breed",
+      "sourceIndex": 106
+    },
+    {
+      "nl": "leeg",
+      "en": [
+        "empty"
+      ],
+      "pt": [
+        "vazio",
+        "vazia"
+      ],
+      "sourceTerm": "leeg",
+      "sourceIndex": 107
+    },
+    {
+      "nl": "lief",
+      "en": [
+        "sweet",
+        "dear",
+        "kind"
+      ],
+      "pt": [
+        "carinhoso",
+        "carinhosa",
+        "querido",
+        "querida",
+        "gentil"
+      ],
+      "sourceTerm": "lief",
+      "sourceIndex": 108
+    },
+    {
+      "nl": "klaar",
+      "en": [
+        "ready",
+        "finished"
+      ],
+      "pt": [
+        "pronto",
+        "pronta",
+        "terminado",
+        "terminada"
+      ],
+      "sourceTerm": "klaar",
+      "sourceIndex": 109
+    },
+    {
+      "nl": "zorg",
+      "en": [
+        "care",
+        "worry"
+      ],
+      "pt": [
+        "cuidado",
+        "preocupação"
+      ],
+      "sourceTerm": "zorg",
+      "sourceIndex": 110
+    },
+    {
+      "nl": "gauw",
+      "en": [
+        "soon",
+        "quickly"
+      ],
+      "pt": [
+        "logo",
+        "rapidamente"
+      ],
+      "sourceTerm": "gauw",
+      "sourceIndex": 111
+    },
+    {
+      "nl": "trap",
+      "en": [
+        "stairs",
+        "staircase",
+        "kick"
+      ],
+      "pt": [
+        "escada",
+        "chute"
+      ],
+      "sourceTerm": "trap",
+      "sourceIndex": 112
+    },
+    {
+      "nl": "gek",
+      "en": [
+        "crazy",
+        "mad"
+      ],
+      "pt": [
+        "louco",
+        "louca"
+      ],
+      "sourceTerm": "gek",
+      "sourceIndex": 113
+    },
+    {
+      "nl": "blad",
+      "en": [
+        "leaf",
+        "sheet"
+      ],
+      "pt": [
+        "folha"
+      ],
+      "sourceTerm": "blad",
+      "sourceIndex": 114
+    },
+    {
+      "nl": "spel",
+      "en": [
+        "game",
+        "play"
+      ],
+      "pt": [
+        "jogo",
+        "brincadeira"
+      ],
+      "sourceTerm": "spel",
+      "sourceIndex": 115
+    },
+    {
+      "nl": "zak",
+      "en": [
+        "bag",
+        "pocket"
+      ],
+      "pt": [
+        "saco",
+        "bolso"
+      ],
+      "sourceTerm": "zak",
+      "sourceIndex": 116
+    },
+    {
+      "nl": "borst",
+      "en": [
+        "chest",
+        "breast"
+      ],
+      "pt": [
+        "peito",
+        "seio"
+      ],
+      "sourceTerm": "borst",
+      "sourceIndex": 117
+    },
+    {
+      "nl": "hoop",
+      "en": [
+        "hope"
+      ],
+      "pt": [
+        "esperança"
+      ],
+      "sourceTerm": "hoop",
+      "sourceIndex": 118
+    },
+    {
+      "nl": "fles",
+      "en": [
+        "bottle"
+      ],
+      "pt": [
+        "garrafa"
+      ],
+      "sourceTerm": "fles",
+      "sourceIndex": 119
+    },
+    {
+      "nl": "grens",
+      "en": [
+        "border",
+        "limit"
+      ],
+      "pt": [
+        "fronteira",
+        "limite"
+      ],
+      "sourceTerm": "grens",
+      "sourceIndex": 120
+    },
+    {
+      "nl": "hoek",
+      "en": [
+        "corner",
+        "angle"
+      ],
+      "pt": [
+        "canto",
+        "esquina",
+        "ângulo"
+      ],
+      "sourceTerm": "hoek",
+      "sourceIndex": 121
+    },
+    {
+      "nl": "oom",
+      "en": [
+        "uncle"
+      ],
+      "pt": [
+        "tio"
+      ],
+      "sourceTerm": "oom",
+      "sourceIndex": 122
+    },
+    {
+      "nl": "vlak",
+      "en": [
+        "flat",
+        "near",
+        "surface"
+      ],
+      "pt": [
+        "plano",
+        "plana",
+        "perto",
+        "superfície"
+      ],
+      "sourceTerm": "vlak",
+      "sourceIndex": 123
+    },
+    {
+      "nl": "buurt",
+      "en": [
+        "neighbourhood",
+        "neighborhood",
+        "vicinity"
+      ],
+      "pt": [
+        "bairro",
+        "vizinhança"
+      ],
+      "sourceTerm": "buurt",
+      "sourceIndex": 124
+    },
+    {
+      "nl": "ruim",
+      "en": [
+        "spacious",
+        "ample"
+      ],
+      "pt": [
+        "espaçoso",
+        "espaçosa",
+        "amplo",
+        "ampla"
+      ],
+      "sourceTerm": "ruim",
+      "sourceIndex": 125
+    },
+    {
+      "nl": "blij",
+      "en": [
+        "happy",
+        "glad"
+      ],
+      "pt": [
+        "feliz",
+        "contente"
+      ],
+      "sourceTerm": "blij",
+      "sourceIndex": 126
+    },
+    {
+      "nl": "eten",
+      "en": [
+        "to eat",
+        "food",
+        "eat"
+      ],
+      "pt": [
+        "comer",
+        "comida"
+      ],
+      "sourceTerm": "eten",
+      "sourceIndex": 127
+    },
+    {
+      "nl": "stof",
+      "en": [
+        "dust",
+        "fabric",
+        "material"
+      ],
+      "pt": [
+        "poeira",
+        "tecido",
+        "matéria"
+      ],
+      "sourceTerm": "stof",
+      "sourceIndex": 128
+    },
+    {
+      "nl": "gat",
+      "en": [
+        "hole"
+      ],
+      "pt": [
+        "buraco"
+      ],
+      "sourceTerm": "gat",
+      "sourceIndex": 129
+    },
+    {
+      "nl": "boer",
+      "en": [
+        "farmer"
+      ],
+      "pt": [
+        "agricultor",
+        "fazendeiro"
+      ],
+      "sourceTerm": "boer",
+      "sourceIndex": 130
+    },
+    {
+      "nl": "reis",
+      "en": [
+        "journey",
+        "trip"
+      ],
+      "pt": [
+        "viagem"
+      ],
+      "sourceTerm": "reis",
+      "sourceIndex": 131
+    },
+    {
+      "nl": "druk",
+      "en": [
+        "busy",
+        "pressure",
+        "crowded"
+      ],
+      "pt": [
+        "ocupado",
+        "ocupada",
+        "pressão",
+        "movimentado",
+        "movimentada"
+      ],
+      "sourceTerm": "druk",
+      "sourceIndex": 132
+    },
+    {
+      "nl": "druk",
+      "en": [
+        "busy",
+        "pressure",
+        "crowded"
+      ],
+      "pt": [
+        "ocupado",
+        "ocupada",
+        "pressão",
+        "movimentado",
+        "movimentada"
+      ],
+      "sourceTerm": "druk",
+      "sourceIndex": 133
+    },
+    {
+      "nl": "vlug",
+      "en": [
+        "quick",
+        "quickly",
+        "fast"
+      ],
+      "pt": [
+        "rápido",
+        "rápida",
+        "rapidamente"
+      ],
+      "sourceTerm": "vlug / snel",
+      "sourceIndex": 134,
+      "nlAliases": [
+        "snel"
+      ]
+    },
+    {
+      "nl": "schuld",
+      "en": [
+        "guilt",
+        "debt",
+        "fault"
+      ],
+      "pt": [
+        "culpa",
+        "dívida"
+      ],
+      "sourceTerm": "schuld",
+      "sourceIndex": 135
+    },
+    {
+      "nl": "leuk",
+      "en": [
+        "nice",
+        "fun",
+        "enjoyable"
+      ],
+      "pt": [
+        "legal",
+        "divertido",
+        "divertida",
+        "agradável"
+      ],
+      "sourceTerm": "leuk",
+      "sourceIndex": 136
+    },
+    {
+      "nl": "bloem",
+      "en": [
+        "flower",
+        "flour"
+      ],
+      "pt": [
+        "flor",
+        "farinha"
+      ],
+      "sourceTerm": "bloem",
+      "sourceIndex": 137
+    },
+    {
+      "nl": "huisarts",
+      "en": [
+        "GP",
+        "general practitioner",
+        "family doctor"
+      ],
+      "pt": [
+        "clínico geral",
+        "médico de família"
+      ],
+      "sourceTerm": "huisarts",
+      "sourceIndex": 138
+    },
+    {
+      "nl": "fijn",
+      "en": [
+        "nice",
+        "fine",
+        "pleasant"
+      ],
+      "pt": [
+        "bom",
+        "boa",
+        "agradável"
+      ],
+      "sourceTerm": "fijn",
+      "sourceIndex": 139
+    },
+    {
+      "nl": "links",
+      "en": [
+        "left",
+        "on the left"
+      ],
+      "pt": [
+        "esquerda",
+        "à esquerda"
+      ],
+      "sourceTerm": "links",
+      "sourceIndex": 140
+    },
+    {
+      "nl": "plek",
+      "en": [
+        "place",
+        "spot"
+      ],
+      "pt": [
+        "lugar",
+        "local"
+      ],
+      "sourceTerm": "plek",
+      "sourceIndex": 141
+    },
+    {
+      "nl": "niks",
+      "en": [
+        "nothing"
+      ],
+      "pt": [
+        "nada"
+      ],
+      "sourceTerm": "niks",
+      "sourceIndex": 142
+    },
+    {
+      "nl": "tand",
+      "en": [
+        "tooth"
+      ],
+      "pt": [
+        "dente"
+      ],
+      "sourceTerm": "tand",
+      "sourceIndex": 143
+    },
+    {
+      "nl": "rand",
+      "en": [
+        "edge"
+      ],
+      "pt": [
+        "borda"
+      ],
+      "sourceTerm": "rand",
+      "sourceIndex": 144
+    },
+    {
+      "nl": "bos",
+      "en": [
+        "forest",
+        "woods",
+        "bunch"
+      ],
+      "pt": [
+        "floresta",
+        "bosque",
+        "buquê"
+      ],
+      "sourceTerm": "bos",
+      "sourceIndex": 145
+    },
+    {
+      "nl": "rust",
+      "en": [
+        "rest",
+        "peace",
+        "quiet"
+      ],
+      "pt": [
+        "descanso",
+        "paz",
+        "tranquilidade"
+      ],
+      "sourceTerm": "rust",
+      "sourceIndex": 146
+    },
+    {
+      "nl": "kring",
+      "en": [
+        "circle",
+        "group"
+      ],
+      "pt": [
+        "círculo",
+        "grupo"
+      ],
+      "sourceTerm": "kring",
+      "sourceIndex": 147
+    },
+    {
+      "nl": "grijs",
+      "en": [
+        "grey",
+        "gray"
+      ],
+      "pt": [
+        "cinza"
+      ],
+      "sourceTerm": "grijs",
+      "sourceIndex": 148
+    },
+    {
+      "nl": "haast",
+      "en": [
+        "hurry",
+        "almost"
+      ],
+      "pt": [
+        "pressa",
+        "quase"
+      ],
+      "sourceTerm": "haast",
+      "sourceIndex": 149
+    },
+    {
+      "nl": "vlees",
+      "en": [
+        "meat"
+      ],
+      "pt": [
+        "carne"
+      ],
+      "sourceTerm": "vlees",
+      "sourceIndex": 150
+    },
+    {
+      "nl": "eis",
+      "en": [
+        "requirement",
+        "demand"
+      ],
+      "pt": [
+        "exigência",
+        "requisito"
+      ],
+      "sourceTerm": "eis",
+      "sourceIndex": 151
+    },
+    {
+      "nl": "streek",
+      "en": [
+        "region",
+        "area"
+      ],
+      "pt": [
+        "região",
+        "área"
+      ],
+      "sourceTerm": "streek",
+      "sourceIndex": 152
+    },
+    {
+      "nl": "smaak",
+      "en": [
+        "taste",
+        "flavour",
+        "flavor"
+      ],
+      "pt": [
+        "gosto",
+        "sabor"
+      ],
+      "sourceTerm": "smaak",
+      "sourceIndex": 153
+    },
+    {
+      "nl": "traan",
+      "en": [
+        "tear"
+      ],
+      "pt": [
+        "lágrima"
+      ],
+      "sourceTerm": "traan",
+      "sourceIndex": 154
+    },
+    {
+      "nl": "rij",
+      "en": [
+        "row",
+        "queue",
+        "line"
+      ],
+      "pt": [
+        "fila",
+        "fileira"
+      ],
+      "sourceTerm": "rij",
+      "sourceIndex": 155
+    },
+    {
+      "nl": "spoor",
+      "en": [
+        "track",
+        "trace"
+      ],
+      "pt": [
+        "trilho",
+        "rastro",
+        "vestígio"
+      ],
+      "sourceTerm": "spoor",
+      "sourceIndex": 156
+    },
+    {
+      "nl": "last",
+      "en": [
+        "burden",
+        "trouble"
+      ],
+      "pt": [
+        "peso",
+        "incômodo",
+        "problema"
+      ],
+      "sourceTerm": "last",
+      "sourceIndex": 157
+    },
+    {
+      "nl": "smal",
+      "en": [
+        "narrow"
+      ],
+      "pt": [
+        "estreito",
+        "estreita"
+      ],
+      "sourceTerm": "smal",
+      "sourceIndex": 158
+    },
+    {
+      "nl": "slot",
+      "en": [
+        "lock",
+        "end",
+        "castle"
+      ],
+      "pt": [
+        "fechadura",
+        "fim",
+        "castelo"
+      ],
+      "sourceTerm": "slot",
+      "sourceIndex": 159
+    },
+    {
+      "nl": "zwak",
+      "en": [
+        "weak"
+      ],
+      "pt": [
+        "fraco",
+        "fraca"
+      ],
+      "sourceTerm": "zwak",
+      "sourceIndex": 160
+    },
+    {
+      "nl": "geur",
+      "en": [
+        "smell",
+        "scent"
+      ],
+      "pt": [
+        "cheiro",
+        "aroma"
+      ],
+      "sourceTerm": "geur",
+      "sourceIndex": 161
+    },
+    {
+      "nl": "buik",
+      "en": [
+        "belly",
+        "stomach"
+      ],
+      "pt": [
+        "barriga"
+      ],
+      "sourceTerm": "buik",
+      "sourceIndex": 162
+    },
+    {
+      "nl": "flink",
+      "en": [
+        "considerable",
+        "strong",
+        "brave"
+      ],
+      "pt": [
+        "considerável",
+        "forte",
+        "corajoso",
+        "corajosa"
+      ],
+      "sourceTerm": "flink",
+      "sourceIndex": 163
+    },
+    {
+      "nl": "beurt",
+      "en": [
+        "turn"
+      ],
+      "pt": [
+        "vez"
+      ],
+      "sourceTerm": "beurt",
+      "sourceIndex": 164
+    },
+    {
+      "nl": "wangen",
+      "en": [
+        "cheeks"
+      ],
+      "pt": [
+        "bochechas"
+      ],
+      "sourceTerm": "wangen",
+      "sourceIndex": 165
+    },
+    {
+      "nl": "vloer",
+      "en": [
+        "floor"
+      ],
+      "pt": [
+        "chão",
+        "piso"
+      ],
+      "sourceTerm": "vloer",
+      "sourceIndex": 166
+    },
+    {
+      "nl": "rook",
+      "en": [
+        "smoke"
+      ],
+      "pt": [
+        "fumaça"
+      ],
+      "sourceTerm": "rook",
+      "sourceIndex": 167
+    },
+    {
+      "nl": "slag",
+      "en": [
+        "blow",
+        "stroke"
+      ],
+      "pt": [
+        "golpe",
+        "batida"
+      ],
+      "sourceTerm": "slag",
+      "sourceIndex": 168
+    },
+    {
+      "nl": "maan",
+      "en": [
+        "moon"
+      ],
+      "pt": [
+        "lua"
+      ],
+      "sourceTerm": "maan",
+      "sourceIndex": 169
+    },
+    {
+      "nl": "wens",
+      "en": [
+        "wish"
+      ],
+      "pt": [
+        "desejo"
+      ],
+      "sourceTerm": "wens",
+      "sourceIndex": 170
+    },
+    {
+      "nl": "sfeer",
+      "en": [
+        "atmosphere",
+        "mood"
+      ],
+      "pt": [
+        "atmosfera",
+        "ambiente",
+        "clima"
+      ],
+      "sourceTerm": "sfeer",
+      "sourceIndex": 171
+    },
+    {
+      "nl": "bron",
+      "en": [
+        "source",
+        "spring"
+      ],
+      "pt": [
+        "fonte"
+      ],
+      "sourceTerm": "bron",
+      "sourceIndex": 172
+    },
+    {
+      "nl": "rijk",
+      "en": [
+        "rich",
+        "kingdom",
+        "empire"
+      ],
+      "pt": [
+        "rico",
+        "rica",
+        "reino",
+        "império"
+      ],
+      "sourceTerm": "rijk",
+      "sourceIndex": 173
+    },
+    {
+      "nl": "droog",
+      "en": [
+        "dry"
+      ],
+      "pt": [
+        "seco",
+        "seca"
+      ],
+      "sourceTerm": "droog",
+      "sourceIndex": 174
+    },
+    {
+      "nl": "bord",
+      "en": [
+        "plate",
+        "sign",
+        "board"
+      ],
+      "pt": [
+        "prato",
+        "placa",
+        "quadro"
+      ],
+      "sourceTerm": "bord",
+      "sourceIndex": 175
+    },
+    {
+      "nl": "jeugd",
+      "en": [
+        "youth"
+      ],
+      "pt": [
+        "juventude"
+      ],
+      "sourceTerm": "jeugd",
+      "sourceIndex": 176
+    },
+    {
+      "nl": "schoon",
+      "en": [
+        "clean",
+        "beautiful"
+      ],
+      "pt": [
+        "limpo",
+        "limpa",
+        "belo",
+        "bela"
+      ],
+      "sourceTerm": "schoon",
+      "sourceIndex": 177
+    },
+    {
+      "nl": "keel",
+      "en": [
+        "throat"
+      ],
+      "pt": [
+        "garganta"
+      ],
+      "sourceTerm": "keel",
+      "sourceIndex": 178
+    },
+    {
+      "nl": "pak",
+      "en": [
+        "suit",
+        "packet",
+        "pack"
+      ],
+      "pt": [
+        "terno",
+        "pacote"
+      ],
+      "sourceTerm": "pak",
+      "sourceIndex": 179
+    },
+    {
+      "nl": "broek",
+      "en": [
+        "trousers",
+        "pants"
+      ],
+      "pt": [
+        "calça"
+      ],
+      "sourceTerm": "broek",
+      "sourceIndex": 180
+    },
+    {
+      "nl": "golf",
+      "en": [
+        "wave",
+        "golf"
+      ],
+      "pt": [
+        "onda",
+        "golfe"
+      ],
+      "sourceTerm": "golf",
+      "sourceIndex": 181
+    },
+    {
+      "nl": "lichaam",
+      "en": [
+        "body"
+      ],
+      "pt": [
+        "corpo"
+      ],
+      "sourceTerm": "lichaam",
+      "sourceIndex": 182
+    },
+    {
+      "nl": "groei",
+      "en": [
+        "growth"
+      ],
+      "pt": [
+        "crescimento"
+      ],
+      "sourceTerm": "groei",
+      "sourceIndex": 183
+    },
+    {
+      "nl": "nat",
+      "en": [
+        "wet"
+      ],
+      "pt": [
+        "molhado",
+        "molhada"
+      ],
+      "sourceTerm": "nat",
+      "sourceIndex": 184
+    },
+    {
+      "nl": "duur",
+      "en": [
+        "expensive",
+        "duration"
+      ],
+      "pt": [
+        "caro",
+        "cara",
+        "duração"
+      ],
+      "sourceTerm": "duur",
+      "sourceIndex": 185
+    },
+    {
+      "nl": "feest",
+      "en": [
+        "party",
+        "celebration"
+      ],
+      "pt": [
+        "festa"
+      ],
+      "sourceTerm": "feest",
+      "sourceIndex": 186
+    },
+    {
+      "nl": "reeks",
+      "en": [
+        "series",
+        "sequence"
+      ],
+      "pt": [
+        "série",
+        "sequência"
+      ],
+      "sourceTerm": "reeks",
+      "sourceIndex": 187
+    },
+    {
+      "nl": "strak",
+      "en": [
+        "tight",
+        "taut"
+      ],
+      "pt": [
+        "apertado",
+        "apertada",
+        "esticado",
+        "esticada"
+      ],
+      "sourceTerm": "strak",
+      "sourceIndex": 188
+    },
+    {
+      "nl": "kleed",
+      "en": [
+        "rug",
+        "cloth",
+        "dress"
+      ],
+      "pt": [
+        "tapete",
+        "pano",
+        "vestido"
+      ],
+      "sourceTerm": "kleed",
+      "sourceIndex": 189
+    },
+    {
+      "nl": "vlucht",
+      "en": [
+        "flight",
+        "escape"
+      ],
+      "pt": [
+        "voo",
+        "fuga"
+      ],
+      "sourceTerm": "vlucht",
+      "sourceIndex": 190
+    },
+    {
+      "nl": "dak",
+      "en": [
+        "roof"
+      ],
+      "pt": [
+        "telhado"
+      ],
+      "sourceTerm": "dak",
+      "sourceIndex": 191
+    },
+    {
+      "nl": "hals",
+      "en": [
+        "neck"
+      ],
+      "pt": [
+        "pescoço"
+      ],
+      "sourceTerm": "hals",
+      "sourceIndex": 192
+    },
+    {
+      "nl": "geel",
+      "en": [
+        "yellow"
+      ],
+      "pt": [
+        "amarelo",
+        "amarela"
+      ],
+      "sourceTerm": "geel",
+      "sourceIndex": 193
+    },
+    {
+      "nl": "streng",
+      "en": [
+        "strict"
+      ],
+      "pt": [
+        "rigoroso",
+        "rigorosa",
+        "severo",
+        "severa"
+      ],
+      "sourceTerm": "streng",
+      "sourceIndex": 194
+    },
+    {
+      "nl": "veld",
+      "en": [
+        "field"
+      ],
+      "pt": [
+        "campo"
+      ],
+      "sourceTerm": "veld",
+      "sourceIndex": 195
+    },
+    {
+      "nl": "moe",
+      "en": [
+        "tired"
+      ],
+      "pt": [
+        "cansado",
+        "cansada"
+      ],
+      "sourceTerm": "moe",
+      "sourceIndex": 196
+    },
+    {
+      "nl": "geloof",
+      "en": [
+        "belief",
+        "faith"
+      ],
+      "pt": [
+        "crença",
+        "fé"
+      ],
+      "sourceTerm": "geloof",
+      "sourceIndex": 197
+    },
+    {
+      "nl": "tak",
+      "en": [
+        "branch"
+      ],
+      "pt": [
+        "galho",
+        "ramo"
+      ],
+      "sourceTerm": "tak",
+      "sourceIndex": 198
+    },
+    {
+      "nl": "tong",
+      "en": [
+        "tongue"
+      ],
+      "pt": [
+        "língua"
+      ],
+      "sourceTerm": "tong",
+      "sourceIndex": 199
+    },
+    {
+      "nl": "kwijt",
+      "en": [
+        "lost"
+      ],
+      "pt": [
+        "perdido",
+        "perdida"
+      ],
+      "sourceTerm": "kwijt",
+      "sourceIndex": 200
+    },
+    {
+      "nl": "kaas",
+      "en": [
+        "cheese"
+      ],
+      "pt": [
+        "queijo"
+      ],
+      "sourceTerm": "kaas",
+      "sourceIndex": 201
+    },
+    {
+      "nl": "zaal",
+      "en": [
+        "hall",
+        "room"
+      ],
+      "pt": [
+        "salão",
+        "sala"
+      ],
+      "sourceTerm": "zaal",
+      "sourceIndex": 202
+    },
+    {
+      "nl": "greep",
+      "en": [
+        "grip",
+        "grasp"
+      ],
+      "pt": [
+        "aperto",
+        "pegada"
+      ],
+      "sourceTerm": "greep",
+      "sourceIndex": 203
+    },
+    {
+      "nl": "kust",
+      "en": [
+        "coast"
+      ],
+      "pt": [
+        "costa",
+        "litoral"
+      ],
+      "sourceTerm": "kust",
+      "sourceIndex": 204
+    },
+    {
+      "nl": "boos",
+      "en": [
+        "angry"
+      ],
+      "pt": [
+        "bravo",
+        "brava",
+        "zangado",
+        "zangada"
+      ],
+      "sourceTerm": "boos",
+      "sourceIndex": 205
+    },
+    {
+      "nl": "brug",
+      "en": [
+        "bridge"
+      ],
+      "pt": [
+        "ponte"
+      ],
+      "sourceTerm": "brug",
+      "sourceIndex": 206
+    },
+    {
+      "nl": "vak",
+      "en": [
+        "subject",
+        "profession",
+        "compartment"
+      ],
+      "pt": [
+        "matéria",
+        "profissão",
+        "compartimento"
+      ],
+      "sourceTerm": "vak",
+      "sourceIndex": 207
+    },
+    {
+      "nl": "strand",
+      "en": [
+        "beach"
+      ],
+      "pt": [
+        "praia"
+      ],
+      "sourceTerm": "strand",
+      "sourceIndex": 208
+    },
+    {
+      "nl": "klant",
+      "en": [
+        "customer",
+        "client"
+      ],
+      "pt": [
+        "cliente"
+      ],
+      "sourceTerm": "klant",
+      "sourceIndex": 209
+    },
+    {
+      "nl": "fout",
+      "en": [
+        "mistake",
+        "wrong"
+      ],
+      "pt": [
+        "erro",
+        "errado",
+        "errada"
+      ],
+      "sourceTerm": "fout",
+      "sourceIndex": 210
+    },
+    {
+      "nl": "moed",
+      "en": [
+        "courage"
+      ],
+      "pt": [
+        "coragem"
+      ],
+      "sourceTerm": "moed",
+      "sourceIndex": 211
+    },
+    {
+      "nl": "dom",
+      "en": [
+        "stupid",
+        "silly"
+      ],
+      "pt": [
+        "burro",
+        "burra",
+        "bobo",
+        "boba"
+      ],
+      "sourceTerm": "dom",
+      "sourceIndex": 212
+    },
+    {
+      "nl": "jas",
+      "en": [
+        "coat",
+        "jacket"
+      ],
+      "pt": [
+        "casaco",
+        "jaqueta"
+      ],
+      "sourceTerm": "jas",
+      "sourceIndex": 213
+    },
+    {
+      "nl": "trots",
+      "en": [
+        "proud",
+        "pride"
+      ],
+      "pt": [
+        "orgulhoso",
+        "orgulhosa",
+        "orgulho"
+      ],
+      "sourceTerm": "trots",
+      "sourceIndex": 214
+    },
+    {
+      "nl": "zoet",
+      "en": [
+        "sweet"
+      ],
+      "pt": [
+        "doce"
+      ],
+      "sourceTerm": "zoet",
+      "sourceIndex": 215
+    },
+    {
+      "nl": "fiets",
+      "en": [
+        "bicycle",
+        "bike"
+      ],
+      "pt": [
+        "bicicleta"
+      ],
+      "sourceTerm": "fiets",
+      "sourceIndex": 216
+    },
+    {
+      "nl": "wolk",
+      "en": [
+        "cloud"
+      ],
+      "pt": [
+        "nuvem"
+      ],
+      "sourceTerm": "wolk",
+      "sourceIndex": 217
+    },
+    {
+      "nl": "kast",
+      "en": [
+        "cupboard",
+        "cabinet",
+        "wardrobe"
+      ],
+      "pt": [
+        "armário"
+      ],
+      "sourceTerm": "kast",
+      "sourceIndex": 218
+    },
+    {
+      "nl": "klap",
+      "en": [
+        "blow",
+        "slap"
+      ],
+      "pt": [
+        "golpe",
+        "tapa"
+      ],
+      "sourceTerm": "klap",
+      "sourceIndex": 219
+    },
+    {
+      "nl": "stroom",
+      "en": [
+        "current",
+        "stream",
+        "electricity"
+      ],
+      "pt": [
+        "corrente",
+        "fluxo",
+        "eletricidade"
+      ],
+      "sourceTerm": "stroom",
+      "sourceIndex": 220
+    },
+    {
+      "nl": "winst",
+      "en": [
+        "profit",
+        "gain"
+      ],
+      "pt": [
+        "lucro",
+        "ganho"
+      ],
+      "sourceTerm": "winst",
+      "sourceIndex": 221
+    },
+    {
+      "nl": "knap",
+      "en": [
+        "clever",
+        "handsome"
+      ],
+      "pt": [
+        "inteligente",
+        "bonito",
+        "bonita"
+      ],
+      "sourceTerm": "knap",
+      "sourceIndex": 222
+    },
+    {
+      "nl": "straf",
+      "en": [
+        "punishment"
+      ],
+      "pt": [
+        "punição",
+        "castigo"
+      ],
+      "sourceTerm": "straf",
+      "sourceIndex": 223
+    },
+    {
+      "nl": "langzaam",
+      "en": [
+        "slow",
+        "slowly"
+      ],
+      "pt": [
+        "lento",
+        "lenta",
+        "lentamente"
+      ],
+      "sourceTerm": "langzaam",
+      "sourceIndex": 224
+    },
+    {
+      "nl": "boog",
+      "en": [
+        "bow",
+        "arch"
+      ],
+      "pt": [
+        "arco"
+      ],
+      "sourceTerm": "boog",
+      "sourceIndex": 225
+    },
+    {
+      "nl": "een poos",
+      "en": [
+        "a while"
+      ],
+      "pt": [
+        "um tempo",
+        "um período"
+      ],
+      "sourceTerm": "een poos",
+      "sourceIndex": 226
+    },
+    {
+      "nl": "strekken",
+      "en": [
+        "to stretch",
+        "to extend",
+        "stretch",
+        "extend"
+      ],
+      "pt": [
+        "esticar",
+        "estender"
+      ],
+      "sourceTerm": "strekken",
+      "sourceIndex": 227
+    },
+    {
+      "nl": "brand",
+      "en": [
+        "fire"
+      ],
+      "pt": [
+        "incêndio"
+      ],
+      "sourceTerm": "brand",
+      "sourceIndex": 228
+    },
+    {
+      "nl": "dwars",
+      "en": [
+        "across",
+        "crosswise",
+        "contrary"
+      ],
+      "pt": [
+        "atravessado",
+        "atravessada",
+        "transversalmente",
+        "contrário",
+        "contrária"
+      ],
+      "sourceTerm": "dwars",
+      "sourceIndex": 229
+    },
+    {
+      "nl": "kist",
+      "en": [
+        "chest",
+        "crate",
+        "coffin"
+      ],
+      "pt": [
+        "baú",
+        "caixote",
+        "caixão"
+      ],
+      "sourceTerm": "kist",
+      "sourceIndex": 230
+    },
+    {
+      "nl": "wand",
+      "en": [
+        "wall"
+      ],
+      "pt": [
+        "parede"
+      ],
+      "sourceTerm": "wand",
+      "sourceIndex": 231
+    },
+    {
+      "nl": "klacht",
+      "en": [
+        "complaint"
+      ],
+      "pt": [
+        "queixa",
+        "reclamação"
+      ],
+      "sourceTerm": "klacht",
+      "sourceIndex": 232
+    },
+    {
+      "nl": "stuur",
+      "en": [
+        "steering wheel"
+      ],
+      "pt": [
+        "volante"
+      ],
+      "sourceTerm": "stuur",
+      "sourceIndex": 233
+    },
+    {
+      "nl": "kern",
+      "en": [
+        "core",
+        "nucleus"
+      ],
+      "pt": [
+        "núcleo",
+        "essência"
+      ],
+      "sourceTerm": "kern",
+      "sourceIndex": 234
+    },
+    {
+      "nl": "leer",
+      "en": [
+        "leather",
+        "doctrine"
+      ],
+      "pt": [
+        "couro",
+        "doutrina"
+      ],
+      "sourceTerm": "leer",
+      "sourceIndex": 235
+    },
+    {
+      "nl": "het liefst",
+      "en": [
+        "preferably",
+        "most of all"
+      ],
+      "pt": [
+        "de preferência",
+        "mais do que tudo"
+      ],
+      "sourceTerm": "het liefst",
+      "sourceIndex": 236
+    },
+    {
+      "nl": "dun",
+      "en": [
+        "thin"
+      ],
+      "pt": [
+        "fino",
+        "fina",
+        "magro",
+        "magra"
+      ],
+      "sourceTerm": "dun",
+      "sourceIndex": 237
+    },
+    {
+      "nl": "jurk",
+      "en": [
+        "dress"
+      ],
+      "pt": [
+        "vestido"
+      ],
+      "sourceTerm": "jurk",
+      "sourceIndex": 238
+    },
+    {
+      "nl": "troep",
+      "en": [
+        "mess",
+        "troop"
+      ],
+      "pt": [
+        "bagunça",
+        "tropa"
+      ],
+      "sourceTerm": "troep",
+      "sourceIndex": 239
+    },
+    {
+      "nl": "hoed",
+      "en": [
+        "hat"
+      ],
+      "pt": [
+        "chapéu"
+      ],
+      "sourceTerm": "hoed",
+      "sourceIndex": 240
+    },
+    {
+      "nl": "sturen",
+      "en": [
+        "to send",
+        "to steer",
+        "send",
+        "steer"
+      ],
+      "pt": [
+        "enviar",
+        "dirigir"
+      ],
+      "sourceTerm": "sturen",
+      "sourceIndex": 241
+    },
+    {
+      "nl": "tocht",
+      "en": [
+        "draft",
+        "draught",
+        "trip"
+      ],
+      "pt": [
+        "corrente de ar",
+        "passeio"
+      ],
+      "sourceTerm": "tocht",
+      "sourceIndex": 242
+    },
+    {
+      "nl": "mes",
+      "en": [
+        "knife"
+      ],
+      "pt": [
+        "faca"
+      ],
+      "sourceTerm": "mes",
+      "sourceIndex": 243
+    },
+    {
+      "nl": "maat",
+      "en": [
+        "size",
+        "measure",
+        "mate"
+      ],
+      "pt": [
+        "tamanho",
+        "medida",
+        "companheiro"
+      ],
+      "sourceTerm": "maat",
+      "sourceIndex": 244
+    },
+    {
+      "nl": "poot",
+      "en": [
+        "paw",
+        "leg"
+      ],
+      "pt": [
+        "pata",
+        "perna"
+      ],
+      "sourceTerm": "poot",
+      "sourceIndex": 245
+    },
+    {
+      "nl": "vent",
+      "en": [
+        "guy",
+        "man"
+      ],
+      "pt": [
+        "cara",
+        "homem"
+      ],
+      "sourceTerm": "vent",
+      "sourceIndex": 246
+    },
+    {
+      "nl": "maag",
+      "en": [
+        "stomach"
+      ],
+      "pt": [
+        "estômago"
+      ],
+      "sourceTerm": "maag",
+      "sourceIndex": 247
+    },
+    {
+      "nl": "lijk",
+      "en": [
+        "corpse",
+        "dead body"
+      ],
+      "pt": [
+        "cadáver"
+      ],
+      "sourceTerm": "lijk",
+      "sourceIndex": 248
+    },
+    {
+      "nl": "eer",
+      "en": [
+        "honour",
+        "honor"
+      ],
+      "pt": [
+        "honra"
+      ],
+      "sourceTerm": "eer",
+      "sourceIndex": 249
+    },
+    {
+      "nl": "mooi",
+      "en": [
+        "beautiful",
+        "nice"
+      ],
+      "pt": [
+        "bonito",
+        "bonita",
+        "belo",
+        "bela"
+      ],
+      "sourceTerm": "mooi",
+      "sourceIndex": 250
+    },
+    {
+      "nl": "kruis",
+      "en": [
+        "cross"
+      ],
+      "pt": [
+        "cruz"
+      ],
+      "sourceTerm": "kruis",
+      "sourceIndex": 251
+    },
+    {
+      "nl": "doos",
+      "en": [
+        "box"
+      ],
+      "pt": [
+        "caixa"
+      ],
+      "sourceTerm": "doos",
+      "sourceIndex": 252
+    },
+    {
+      "nl": "vrucht",
+      "en": [
+        "fruit"
+      ],
+      "pt": [
+        "fruta"
+      ],
+      "sourceTerm": "vrucht",
+      "sourceIndex": 253
+    },
+    {
+      "nl": "klein",
+      "en": [
+        "small",
+        "little"
+      ],
+      "pt": [
+        "pequeno",
+        "pequena"
+      ],
+      "sourceTerm": "klein",
+      "sourceIndex": 254
+    },
+    {
+      "nl": "makkelijk",
+      "en": [
+        "easy"
+      ],
+      "pt": [
+        "fácil"
+      ],
+      "sourceTerm": "makkelijk",
+      "sourceIndex": 255
+    }
+  ]
+}

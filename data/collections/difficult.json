@@ -1,0 +1,4656 @@
+{
+  "id": "course-difficult",
+  "name": "Coleção · Difficult",
+  "kind": "collection",
+  "level": "difficult",
+  "sourceUrl": "https://quizlet.com/nl/518921786/3-difficult-flash-cards/",
+  "sourceCardCount": 364,
+  "capturedAt": "2026-11-12T20:22:27.005Z",
+  "translationNote": "English and Brazilian Portuguese equivalents added independently; not an export of the course answer key.",
+  "words": [
+    {
+      "nl": "eigenlijk",
+      "en": [
+        "actually",
+        "really"
+      ],
+      "pt": [
+        "na verdade",
+        "realmente"
+      ],
+      "sourceTerm": "eigenlijk",
+      "sourceIndex": 1
+    },
+    {
+      "nl": "misschien",
+      "en": [
+        "maybe",
+        "perhaps"
+      ],
+      "pt": [
+        "talvez"
+      ],
+      "sourceTerm": "misschien",
+      "sourceIndex": 2
+    },
+    {
+      "nl": "over",
+      "en": [
+        "about",
+        "over",
+        "across"
+      ],
+      "pt": [
+        "sobre",
+        "por cima de",
+        "através de"
+      ],
+      "sourceTerm": "over",
+      "sourceIndex": 3
+    },
+    {
+      "nl": "ander",
+      "en": [
+        "other",
+        "another"
+      ],
+      "pt": [
+        "outro",
+        "outra"
+      ],
+      "sourceTerm": "ander",
+      "sourceIndex": 4
+    },
+    {
+      "nl": "zoals",
+      "en": [
+        "like",
+        "such as",
+        "as"
+      ],
+      "pt": [
+        "como",
+        "tal como"
+      ],
+      "sourceTerm": "zoals",
+      "sourceIndex": 5
+    },
+    {
+      "nl": "zonder",
+      "en": [
+        "without"
+      ],
+      "pt": [
+        "sem"
+      ],
+      "sourceTerm": "zonder",
+      "sourceIndex": 6
+    },
+    {
+      "nl": "altijd",
+      "en": [
+        "always"
+      ],
+      "pt": [
+        "sempre"
+      ],
+      "sourceTerm": "altijd",
+      "sourceIndex": 7
+    },
+    {
+      "nl": "eigen",
+      "en": [
+        "own"
+      ],
+      "pt": [
+        "próprio",
+        "própria"
+      ],
+      "sourceTerm": "eigen",
+      "sourceIndex": 8
+    },
+    {
+      "nl": "alles",
+      "en": [
+        "everything",
+        "all"
+      ],
+      "pt": [
+        "tudo"
+      ],
+      "sourceTerm": "alles",
+      "sourceIndex": 9
+    },
+    {
+      "nl": "terwijl",
+      "en": [
+        "while",
+        "whereas"
+      ],
+      "pt": [
+        "enquanto"
+      ],
+      "sourceTerm": "terwijl",
+      "sourceIndex": 10
+    },
+    {
+      "nl": "anders",
+      "en": [
+        "different",
+        "otherwise"
+      ],
+      "pt": [
+        "diferente",
+        "de outra forma"
+      ],
+      "sourceTerm": "anders",
+      "sourceIndex": 11
+    },
+    {
+      "nl": "terug",
+      "en": [
+        "back"
+      ],
+      "pt": [
+        "de volta"
+      ],
+      "sourceTerm": "terug",
+      "sourceIndex": 12
+    },
+    {
+      "nl": "mogelijk",
+      "en": [
+        "possible"
+      ],
+      "pt": [
+        "possível"
+      ],
+      "sourceTerm": "mogelijk",
+      "sourceIndex": 13
+    },
+    {
+      "nl": "geval",
+      "en": [
+        "case"
+      ],
+      "pt": [
+        "caso"
+      ],
+      "sourceTerm": "geval",
+      "sourceIndex": 14
+    },
+    {
+      "nl": "echter",
+      "en": [
+        "however",
+        "but"
+      ],
+      "pt": [
+        "porém",
+        "no entanto",
+        "mas"
+      ],
+      "sourceTerm": "echter",
+      "sourceIndex": 15
+    },
+    {
+      "nl": "zeker",
+      "en": [
+        "certain",
+        "sure",
+        "certainly"
+      ],
+      "pt": [
+        "certo",
+        "certeza",
+        "certamente"
+      ],
+      "sourceTerm": "zeker",
+      "sourceIndex": 16
+    },
+    {
+      "nl": "enkel",
+      "en": [
+        "only",
+        "single",
+        "ankle"
+      ],
+      "pt": [
+        "apenas",
+        "único",
+        "tornozelo"
+      ],
+      "sourceTerm": "enkel",
+      "sourceIndex": 17
+    },
+    {
+      "nl": "natuurlijk",
+      "en": [
+        "of course",
+        "natural",
+        "naturally"
+      ],
+      "pt": [
+        "claro",
+        "natural",
+        "naturalmente"
+      ],
+      "sourceTerm": "natuurlijk",
+      "sourceIndex": 18
+    },
+    {
+      "nl": "gezicht",
+      "en": [
+        "face"
+      ],
+      "pt": [
+        "rosto",
+        "cara"
+      ],
+      "sourceTerm": "gezicht",
+      "sourceIndex": 19
+    },
+    {
+      "nl": "iemand",
+      "en": [
+        "someone",
+        "somebody"
+      ],
+      "pt": [
+        "alguém"
+      ],
+      "sourceTerm": "iemand",
+      "sourceIndex": 20
+    },
+    {
+      "nl": "wereld",
+      "en": [
+        "world"
+      ],
+      "pt": [
+        "mundo"
+      ],
+      "sourceTerm": "wereld",
+      "sourceIndex": 21
+    },
+    {
+      "nl": "duidelijk",
+      "en": [
+        "clear",
+        "clearly"
+      ],
+      "pt": [
+        "claro",
+        "claramente"
+      ],
+      "sourceTerm": "duidelijk",
+      "sourceIndex": 22
+    },
+    {
+      "nl": "vooral",
+      "en": [
+        "especially",
+        "mainly"
+      ],
+      "pt": [
+        "principalmente",
+        "especialmente"
+      ],
+      "sourceTerm": "vooral",
+      "sourceIndex": 23
+    },
+    {
+      "nl": "nodig",
+      "en": [
+        "necessary",
+        "needed"
+      ],
+      "pt": [
+        "necessário",
+        "necessária"
+      ],
+      "sourceTerm": "nodig",
+      "sourceIndex": 24
+    },
+    {
+      "nl": "bijna",
+      "en": [
+        "almost",
+        "nearly"
+      ],
+      "pt": [
+        "quase"
+      ],
+      "sourceTerm": "bijna",
+      "sourceIndex": 25
+    },
+    {
+      "nl": "alsof",
+      "en": [
+        "as if"
+      ],
+      "pt": [
+        "como se"
+      ],
+      "sourceTerm": "alsof",
+      "sourceIndex": 26
+    },
+    {
+      "nl": "helemaal",
+      "en": [
+        "completely",
+        "entirely"
+      ],
+      "pt": [
+        "completamente",
+        "inteiramente"
+      ],
+      "sourceTerm": "helemaal",
+      "sourceIndex": 27
+    },
+    {
+      "nl": "binnen",
+      "en": [
+        "inside",
+        "within"
+      ],
+      "pt": [
+        "dentro",
+        "dentro de"
+      ],
+      "sourceTerm": "binnen",
+      "sourceIndex": 28
+    },
+    {
+      "nl": "aantal",
+      "en": [
+        "number",
+        "amount"
+      ],
+      "pt": [
+        "número",
+        "quantidade"
+      ],
+      "sourceTerm": "aantal",
+      "sourceIndex": 29
+    },
+    {
+      "nl": "manier",
+      "en": [
+        "way",
+        "manner"
+      ],
+      "pt": [
+        "maneira",
+        "forma"
+      ],
+      "sourceTerm": "manier",
+      "sourceIndex": 30
+    },
+    {
+      "nl": "kamer",
+      "en": [
+        "room"
+      ],
+      "pt": [
+        "quarto",
+        "cômodo"
+      ],
+      "sourceTerm": "kamer",
+      "sourceIndex": 31
+    },
+    {
+      "nl": "allemaal",
+      "en": [
+        "all",
+        "everyone",
+        "all of them"
+      ],
+      "pt": [
+        "todos",
+        "todas",
+        "todo mundo"
+      ],
+      "sourceTerm": "allemaal",
+      "sourceIndex": 32
+    },
+    {
+      "nl": "zichzelf",
+      "en": [
+        "oneself",
+        "himself",
+        "herself",
+        "itself"
+      ],
+      "pt": [
+        "si mesmo",
+        "si mesma"
+      ],
+      "sourceTerm": "zichzelf",
+      "sourceIndex": 33
+    },
+    {
+      "nl": "eigenlijk",
+      "en": [
+        "actually",
+        "really"
+      ],
+      "pt": [
+        "na verdade",
+        "realmente"
+      ],
+      "sourceTerm": "eigenlijk",
+      "sourceIndex": 34
+    },
+    {
+      "nl": "niemand",
+      "en": [
+        "nobody",
+        "no one"
+      ],
+      "pt": [
+        "ninguém"
+      ],
+      "sourceTerm": "niemand",
+      "sourceIndex": 35
+    },
+    {
+      "nl": "daarom",
+      "en": [
+        "therefore",
+        "that is why"
+      ],
+      "pt": [
+        "por isso",
+        "portanto"
+      ],
+      "sourceTerm": "daarom",
+      "sourceIndex": 36
+    },
+    {
+      "nl": "gewoon",
+      "en": [
+        "ordinary",
+        "normal",
+        "just"
+      ],
+      "pt": [
+        "comum",
+        "normal",
+        "simplesmente"
+      ],
+      "sourceTerm": "gewoon",
+      "sourceIndex": 37
+    },
+    {
+      "nl": "samen",
+      "en": [
+        "together"
+      ],
+      "pt": [
+        "juntos",
+        "juntas"
+      ],
+      "sourceTerm": "samen",
+      "sourceIndex": 38
+    },
+    {
+      "nl": "genoeg",
+      "en": [
+        "enough"
+      ],
+      "pt": [
+        "suficiente"
+      ],
+      "sourceTerm": "genoeg",
+      "sourceIndex": 39
+    },
+    {
+      "nl": "verder",
+      "en": [
+        "further",
+        "farther"
+      ],
+      "pt": [
+        "mais adiante",
+        "mais longe",
+        "adiante"
+      ],
+      "sourceTerm": "verder",
+      "sourceIndex": 40
+    },
+    {
+      "nl": "daarna",
+      "en": [
+        "afterwards",
+        "after that"
+      ],
+      "pt": [
+        "depois",
+        "depois disso"
+      ],
+      "sourceTerm": "daarna",
+      "sourceIndex": 41
+    },
+    {
+      "nl": "verschillende",
+      "en": [
+        "various",
+        "different"
+      ],
+      "pt": [
+        "vários",
+        "várias",
+        "diferentes"
+      ],
+      "sourceTerm": "verschillende",
+      "sourceIndex": 42
+    },
+    {
+      "nl": "volgens",
+      "en": [
+        "according to"
+      ],
+      "pt": [
+        "segundo",
+        "de acordo com"
+      ],
+      "sourceTerm": "volgens",
+      "sourceIndex": 43
+    },
+    {
+      "nl": "moeilijk",
+      "en": [
+        "difficult",
+        "hard"
+      ],
+      "pt": [
+        "difícil"
+      ],
+      "sourceTerm": "moeilijk",
+      "sourceIndex": 44
+    },
+    {
+      "nl": "weinig",
+      "en": [
+        "little",
+        "few"
+      ],
+      "pt": [
+        "pouco",
+        "poucos",
+        "poucas"
+      ],
+      "sourceTerm": "weinig",
+      "sourceIndex": 45
+    },
+    {
+      "nl": "iedereen",
+      "en": [
+        "everyone",
+        "everybody"
+      ],
+      "pt": [
+        "todos",
+        "todo mundo"
+      ],
+      "sourceTerm": "iedereen",
+      "sourceIndex": 46
+    },
+    {
+      "nl": "dezelfde",
+      "en": [
+        "the same",
+        "same"
+      ],
+      "pt": [
+        "o mesmo",
+        "a mesma"
+      ],
+      "sourceTerm": "dezelfde",
+      "sourceIndex": 47
+    },
+    {
+      "nl": "gedachte",
+      "en": [
+        "thought"
+      ],
+      "pt": [
+        "pensamento"
+      ],
+      "sourceTerm": "gedachte",
+      "sourceIndex": 48
+    },
+    {
+      "nl": "geheel",
+      "en": [
+        "whole",
+        "entire",
+        "entirely"
+      ],
+      "pt": [
+        "todo",
+        "inteiro",
+        "inteiramente"
+      ],
+      "sourceTerm": "geheel",
+      "sourceIndex": 49
+    },
+    {
+      "nl": "bijvoorbeeld",
+      "en": [
+        "for example",
+        "for instance"
+      ],
+      "pt": [
+        "por exemplo"
+      ],
+      "sourceTerm": "bijvoorbeeld",
+      "sourceIndex": 50
+    },
+    {
+      "nl": "belang",
+      "en": [
+        "importance",
+        "interest"
+      ],
+      "pt": [
+        "importância",
+        "interesse"
+      ],
+      "sourceTerm": "belang",
+      "sourceIndex": 51
+    },
+    {
+      "nl": "ontwikkeling",
+      "en": [
+        "development"
+      ],
+      "pt": [
+        "desenvolvimento"
+      ],
+      "sourceTerm": "ontwikkeling",
+      "sourceIndex": 52
+    },
+    {
+      "nl": "zoveel",
+      "en": [
+        "so much",
+        "so many"
+      ],
+      "pt": [
+        "tanto",
+        "tantos",
+        "tantas"
+      ],
+      "sourceTerm": "zoveel",
+      "sourceIndex": 53
+    },
+    {
+      "nl": "gevoel",
+      "en": [
+        "feeling"
+      ],
+      "pt": [
+        "sentimento",
+        "sensação"
+      ],
+      "sourceTerm": "gevoel",
+      "sourceIndex": 54
+    },
+    {
+      "nl": "boven",
+      "en": [
+        "above",
+        "upstairs",
+        "on top of"
+      ],
+      "pt": [
+        "acima",
+        "em cima",
+        "no andar de cima"
+      ],
+      "sourceTerm": "boven",
+      "sourceIndex": 55
+    },
+    {
+      "nl": "algemeen",
+      "en": [
+        "general",
+        "generally"
+      ],
+      "pt": [
+        "geral",
+        "geralmente"
+      ],
+      "sourceTerm": "algemeen",
+      "sourceIndex": 56
+    },
+    {
+      "nl": "gebied",
+      "en": [
+        "area",
+        "region",
+        "field"
+      ],
+      "pt": [
+        "área",
+        "região",
+        "campo"
+      ],
+      "sourceTerm": "gebied",
+      "sourceIndex": 57
+    },
+    {
+      "nl": "bijzonder",
+      "en": [
+        "special",
+        "particular",
+        "especially"
+      ],
+      "pt": [
+        "especial",
+        "particular",
+        "especialmente"
+      ],
+      "sourceTerm": "bijzonder",
+      "sourceIndex": 58
+    },
+    {
+      "nl": "buiten",
+      "en": [
+        "outside",
+        "outdoors"
+      ],
+      "pt": [
+        "fora",
+        "ao ar livre"
+      ],
+      "sourceTerm": "buiten",
+      "sourceIndex": 59
+    },
+    {
+      "nl": "verhaal",
+      "en": [
+        "story",
+        "tale"
+      ],
+      "pt": [
+        "história",
+        "conto"
+      ],
+      "sourceTerm": "verhaal",
+      "sourceIndex": 60
+    },
+    {
+      "nl": "gevolg",
+      "en": [
+        "consequence",
+        "result"
+      ],
+      "pt": [
+        "consequência",
+        "resultado"
+      ],
+      "sourceTerm": "gevolg",
+      "sourceIndex": 61
+    },
+    {
+      "nl": "voorbeeld",
+      "en": [
+        "example"
+      ],
+      "pt": [
+        "exemplo"
+      ],
+      "sourceTerm": "voorbeeld",
+      "sourceIndex": 62
+    },
+    {
+      "nl": "opnieuw",
+      "en": [
+        "again",
+        "once again"
+      ],
+      "pt": [
+        "de novo",
+        "novamente"
+      ],
+      "sourceTerm": "opnieuw",
+      "sourceIndex": 63
+    },
+    {
+      "nl": "vroeger",
+      "en": [
+        "formerly",
+        "in the past",
+        "earlier"
+      ],
+      "pt": [
+        "antigamente",
+        "no passado",
+        "antes"
+      ],
+      "sourceTerm": "vroeger",
+      "sourceIndex": 64
+    },
+    {
+      "nl": "bovendien",
+      "en": [
+        "moreover",
+        "besides",
+        "in addition"
+      ],
+      "pt": [
+        "além disso"
+      ],
+      "sourceTerm": "bovendien",
+      "sourceIndex": 65
+    },
+    {
+      "nl": "mogelijkheid",
+      "en": [
+        "possibility",
+        "opportunity"
+      ],
+      "pt": [
+        "possibilidade",
+        "oportunidade"
+      ],
+      "sourceTerm": "mogelijkheid",
+      "sourceIndex": 66
+    },
+    {
+      "nl": "reden",
+      "en": [
+        "reason"
+      ],
+      "pt": [
+        "motivo",
+        "razão"
+      ],
+      "sourceTerm": "reden",
+      "sourceIndex": 67
+    },
+    {
+      "nl": "eerder",
+      "en": [
+        "earlier",
+        "sooner",
+        "rather"
+      ],
+      "pt": [
+        "antes",
+        "mais cedo",
+        "preferivelmente"
+      ],
+      "sourceTerm": "eerder",
+      "sourceIndex": 68
+    },
+    {
+      "nl": "bepaald",
+      "en": [
+        "certain",
+        "particular",
+        "determined"
+      ],
+      "pt": [
+        "certo",
+        "determinado",
+        "específico"
+      ],
+      "sourceTerm": "bepaald",
+      "sourceIndex": 69
+    },
+    {
+      "nl": "vanuit",
+      "en": [
+        "from",
+        "out of"
+      ],
+      "pt": [
+        "a partir de",
+        "de"
+      ],
+      "sourceTerm": "vanuit",
+      "sourceIndex": 70
+    },
+    {
+      "nl": "tegenover",
+      "en": [
+        "opposite",
+        "across from",
+        "towards"
+      ],
+      "pt": [
+        "em frente a",
+        "diante de",
+        "em relação a"
+      ],
+      "sourceTerm": "tegenover",
+      "sourceIndex": 71
+    },
+    {
+      "nl": "gebruik",
+      "en": [
+        "use",
+        "usage"
+      ],
+      "pt": [
+        "uso"
+      ],
+      "sourceTerm": "gebruik",
+      "sourceIndex": 72
+    },
+    {
+      "nl": "meteen",
+      "en": [
+        "immediately",
+        "right away"
+      ],
+      "pt": [
+        "imediatamente",
+        "na hora"
+      ],
+      "sourceTerm": "meteen",
+      "sourceIndex": 73
+    },
+    {
+      "nl": "onderzoek",
+      "en": [
+        "research",
+        "investigation",
+        "examination"
+      ],
+      "pt": [
+        "pesquisa",
+        "investigação",
+        "exame"
+      ],
+      "sourceTerm": "onderzoek",
+      "sourceIndex": 74
+    },
+    {
+      "nl": "beweging",
+      "en": [
+        "movement"
+      ],
+      "pt": [
+        "movimento"
+      ],
+      "sourceTerm": "beweging",
+      "sourceIndex": 75
+    },
+    {
+      "nl": "waarschijnlijk",
+      "en": [
+        "probably",
+        "likely"
+      ],
+      "pt": [
+        "provavelmente",
+        "provável"
+      ],
+      "sourceTerm": "waarschijnlijk",
+      "sourceIndex": 76
+    },
+    {
+      "nl": "zaken",
+      "en": [
+        "business",
+        "matters",
+        "affairs"
+      ],
+      "pt": [
+        "negócios",
+        "assuntos"
+      ],
+      "sourceTerm": "zaken",
+      "sourceIndex": 77
+    },
+    {
+      "nl": "aandacht",
+      "en": [
+        "attention"
+      ],
+      "pt": [
+        "atenção"
+      ],
+      "sourceTerm": "aandacht",
+      "sourceIndex": 78
+    },
+    {
+      "nl": "langzaam",
+      "en": [
+        "slow",
+        "slowly"
+      ],
+      "pt": [
+        "lento",
+        "lenta",
+        "lentamente"
+      ],
+      "sourceTerm": "langzaam",
+      "sourceIndex": 79
+    },
+    {
+      "nl": "richting",
+      "en": [
+        "direction",
+        "towards"
+      ],
+      "pt": [
+        "direção",
+        "rumo a"
+      ],
+      "sourceTerm": "richting",
+      "sourceIndex": 80
+    },
+    {
+      "nl": "verschillen",
+      "en": [
+        "to differ",
+        "differences",
+        "differ"
+      ],
+      "pt": [
+        "diferir",
+        "diferenças"
+      ],
+      "sourceTerm": "verschillen",
+      "sourceIndex": 81
+    },
+    {
+      "nl": "oorlog",
+      "en": [
+        "war"
+      ],
+      "pt": [
+        "guerra"
+      ],
+      "sourceTerm": "oorlog",
+      "sourceIndex": 82
+    },
+    {
+      "nl": "meestal",
+      "en": [
+        "mostly",
+        "usually"
+      ],
+      "pt": [
+        "geralmente",
+        "na maioria das vezes"
+      ],
+      "sourceTerm": "meestal",
+      "sourceIndex": 83
+    },
+    {
+      "nl": "nauwelijks",
+      "en": [
+        "hardly",
+        "barely"
+      ],
+      "pt": [
+        "mal",
+        "quase não"
+      ],
+      "sourceTerm": "nauwelijks",
+      "sourceIndex": 84
+    },
+    {
+      "nl": "hetzelfde",
+      "en": [
+        "the same",
+        "same"
+      ],
+      "pt": [
+        "o mesmo",
+        "a mesma"
+      ],
+      "sourceTerm": "hetzelfde",
+      "sourceIndex": 85
+    },
+    {
+      "nl": "tenslotte",
+      "en": [
+        "finally",
+        "after all"
+      ],
+      "pt": [
+        "finalmente",
+        "afinal"
+      ],
+      "sourceTerm": "tenslotte",
+      "sourceIndex": 86
+    },
+    {
+      "nl": "menselijk",
+      "en": [
+        "human"
+      ],
+      "pt": [
+        "humano",
+        "humana"
+      ],
+      "sourceTerm": "menselijk",
+      "sourceIndex": 87
+    },
+    {
+      "nl": "invloed",
+      "en": [
+        "influence"
+      ],
+      "pt": [
+        "influência"
+      ],
+      "sourceTerm": "invloed",
+      "sourceIndex": 88
+    },
+    {
+      "nl": "bezig",
+      "en": [
+        "busy"
+      ],
+      "pt": [
+        "ocupado",
+        "ocupada"
+      ],
+      "sourceTerm": "bezig",
+      "sourceIndex": 89
+    },
+    {
+      "nl": "verband",
+      "en": [
+        "connection",
+        "relation",
+        "bandage"
+      ],
+      "pt": [
+        "relação",
+        "conexão",
+        "atadura"
+      ],
+      "sourceTerm": "verband",
+      "sourceIndex": 90
+    },
+    {
+      "nl": "plotseling",
+      "en": [
+        "suddenly",
+        "sudden"
+      ],
+      "pt": [
+        "de repente",
+        "repentino"
+      ],
+      "sourceTerm": "plotseling",
+      "sourceIndex": 91
+    },
+    {
+      "nl": "inderdaad",
+      "en": [
+        "indeed",
+        "really"
+      ],
+      "pt": [
+        "de fato",
+        "realmente"
+      ],
+      "sourceTerm": "inderdaad",
+      "sourceIndex": 92
+    },
+    {
+      "nl": "maatschappij",
+      "en": [
+        "society",
+        "company"
+      ],
+      "pt": [
+        "sociedade",
+        "empresa"
+      ],
+      "sourceTerm": "maatschappij",
+      "sourceIndex": 93
+    },
+    {
+      "nl": "gemakkelijk",
+      "en": [
+        "easy",
+        "easily"
+      ],
+      "pt": [
+        "fácil",
+        "facilmente"
+      ],
+      "sourceTerm": "gemakkelijk",
+      "sourceIndex": 94
+    },
+    {
+      "nl": "donker",
+      "en": [
+        "dark"
+      ],
+      "pt": [
+        "escuro",
+        "escura"
+      ],
+      "sourceTerm": "donker",
+      "sourceIndex": 95
+    },
+    {
+      "nl": "verschil",
+      "en": [
+        "difference"
+      ],
+      "pt": [
+        "diferença"
+      ],
+      "sourceTerm": "verschil",
+      "sourceIndex": 96
+    },
+    {
+      "nl": "gelukkig",
+      "en": [
+        "happy",
+        "fortunately"
+      ],
+      "pt": [
+        "feliz",
+        "felizmente"
+      ],
+      "sourceTerm": "gelukkig",
+      "sourceIndex": 97
+    },
+    {
+      "nl": "betekenis",
+      "en": [
+        "meaning",
+        "significance"
+      ],
+      "pt": [
+        "significado",
+        "sentido"
+      ],
+      "sourceTerm": "betekenis",
+      "sourceIndex": 98
+    },
+    {
+      "nl": "ervaring",
+      "en": [
+        "experience"
+      ],
+      "pt": [
+        "experiência"
+      ],
+      "sourceTerm": "ervaring",
+      "sourceIndex": 99
+    },
+    {
+      "nl": "begrip",
+      "en": [
+        "understanding",
+        "concept"
+      ],
+      "pt": [
+        "compreensão",
+        "conceito"
+      ],
+      "sourceTerm": "begrip",
+      "sourceIndex": 100
+    },
+    {
+      "nl": "mevrouw",
+      "en": [
+        "madam",
+        "mrs",
+        "ms",
+        "lady"
+      ],
+      "pt": [
+        "senhora"
+      ],
+      "sourceTerm": "mevrouw",
+      "sourceIndex": 101
+    },
+    {
+      "nl": "volgende",
+      "en": [
+        "next",
+        "following"
+      ],
+      "pt": [
+        "próximo",
+        "próxima",
+        "seguinte"
+      ],
+      "sourceTerm": "volgende",
+      "sourceIndex": 102
+    },
+    {
+      "nl": "volledig",
+      "en": [
+        "complete",
+        "full",
+        "completely"
+      ],
+      "pt": [
+        "completo",
+        "completa",
+        "completamente"
+      ],
+      "sourceTerm": "volledig",
+      "sourceIndex": 103
+    },
+    {
+      "nl": "verschillend",
+      "en": [
+        "different",
+        "varied"
+      ],
+      "pt": [
+        "diferente",
+        "variado"
+      ],
+      "sourceTerm": "verschillend",
+      "sourceIndex": 104
+    },
+    {
+      "nl": "onderwijs",
+      "en": [
+        "education",
+        "teaching"
+      ],
+      "pt": [
+        "educação",
+        "ensino"
+      ],
+      "sourceTerm": "onderwijs",
+      "sourceIndex": 105
+    },
+    {
+      "nl": "behoefte",
+      "en": [
+        "need"
+      ],
+      "pt": [
+        "necessidade"
+      ],
+      "sourceTerm": "behoefte",
+      "sourceIndex": 106
+    },
+    {
+      "nl": "rustig",
+      "en": [
+        "calm",
+        "quiet",
+        "calmly"
+      ],
+      "pt": [
+        "calmo",
+        "tranquilo",
+        "tranquilamente"
+      ],
+      "sourceTerm": "rustig",
+      "sourceIndex": 107
+    },
+    {
+      "nl": "eenmaal",
+      "en": [
+        "once",
+        "one time"
+      ],
+      "pt": [
+        "uma vez"
+      ],
+      "sourceTerm": "eenmaal",
+      "sourceIndex": 108
+    },
+    {
+      "nl": "eenvoudig",
+      "en": [
+        "simple",
+        "easy"
+      ],
+      "pt": [
+        "simples",
+        "fácil"
+      ],
+      "sourceTerm": "eenvoudig",
+      "sourceIndex": 109
+    },
+    {
+      "nl": "ongeveer",
+      "en": [
+        "about",
+        "approximately"
+      ],
+      "pt": [
+        "aproximadamente",
+        "cerca de"
+      ],
+      "sourceTerm": "ongeveer",
+      "sourceIndex": 110
+    },
+    {
+      "nl": "waarde",
+      "en": [
+        "value"
+      ],
+      "pt": [
+        "valor"
+      ],
+      "sourceTerm": "waarde",
+      "sourceIndex": 111
+    },
+    {
+      "nl": "ergens",
+      "en": [
+        "somewhere"
+      ],
+      "pt": [
+        "em algum lugar"
+      ],
+      "sourceTerm": "ergens",
+      "sourceIndex": 112
+    },
+    {
+      "nl": "gesprek",
+      "en": [
+        "conversation",
+        "talk"
+      ],
+      "pt": [
+        "conversa"
+      ],
+      "sourceTerm": "gesprek",
+      "sourceIndex": 113
+    },
+    {
+      "nl": "indruk",
+      "en": [
+        "impression"
+      ],
+      "pt": [
+        "impressão"
+      ],
+      "sourceTerm": "indruk",
+      "sourceIndex": 114
+    },
+    {
+      "nl": "aarde",
+      "en": [
+        "earth",
+        "soil"
+      ],
+      "pt": [
+        "terra",
+        "solo"
+      ],
+      "sourceTerm": "aarde",
+      "sourceIndex": 115
+    },
+    {
+      "nl": "onmiddellijk",
+      "en": [
+        "immediately",
+        "immediate"
+      ],
+      "pt": [
+        "imediatamente",
+        "imediato"
+      ],
+      "sourceTerm": "onmiddellijk",
+      "sourceIndex": 116
+    },
+    {
+      "nl": "werkelijkheid",
+      "en": [
+        "reality"
+      ],
+      "pt": [
+        "realidade"
+      ],
+      "sourceTerm": "werkelijkheid",
+      "sourceIndex": 117
+    },
+    {
+      "nl": "persoonlijk",
+      "en": [
+        "personally",
+        "personal"
+      ],
+      "pt": [
+        "pessoalmente",
+        "pessoal"
+      ],
+      "sourceTerm": "persoonlijk",
+      "sourceIndex": 118
+    },
+    {
+      "nl": "ruimte",
+      "en": [
+        "space",
+        "room"
+      ],
+      "pt": [
+        "espaço"
+      ],
+      "sourceTerm": "ruimte",
+      "sourceIndex": 119
+    },
+    {
+      "nl": "moeite",
+      "en": [
+        "effort",
+        "trouble",
+        "difficulty"
+      ],
+      "pt": [
+        "esforço",
+        "dificuldade"
+      ],
+      "sourceTerm": "moeite",
+      "sourceIndex": 120
+    },
+    {
+      "nl": "verandering",
+      "en": [
+        "change",
+        "alteration"
+      ],
+      "pt": [
+        "mudança",
+        "alteração"
+      ],
+      "sourceTerm": "verandering",
+      "sourceIndex": 121
+    },
+    {
+      "nl": "geluid",
+      "en": [
+        "sound",
+        "noise"
+      ],
+      "pt": [
+        "som",
+        "barulho"
+      ],
+      "sourceTerm": "geluid",
+      "sourceIndex": 122
+    },
+    {
+      "nl": "gedrag",
+      "en": [
+        "behaviour",
+        "behavior"
+      ],
+      "pt": [
+        "comportamento"
+      ],
+      "sourceTerm": "gedrag",
+      "sourceIndex": 123
+    },
+    {
+      "nl": "bewust",
+      "en": [
+        "conscious",
+        "aware",
+        "deliberate"
+      ],
+      "pt": [
+        "consciente",
+        "ciente",
+        "deliberado"
+      ],
+      "sourceTerm": "bewust",
+      "sourceIndex": 124
+    },
+    {
+      "nl": "namelijk",
+      "en": [
+        "namely",
+        "in fact"
+      ],
+      "pt": [
+        "isto é",
+        "a saber",
+        "na verdade"
+      ],
+      "sourceTerm": "namelijk",
+      "sourceIndex": 125
+    },
+    {
+      "nl": "regel",
+      "en": [
+        "rule",
+        "line"
+      ],
+      "pt": [
+        "regra",
+        "linha"
+      ],
+      "sourceTerm": "regel",
+      "sourceIndex": 126
+    },
+    {
+      "nl": "voordat",
+      "en": [
+        "before"
+      ],
+      "pt": [
+        "antes de",
+        "antes que"
+      ],
+      "sourceTerm": "voordat",
+      "sourceIndex": 127
+    },
+    {
+      "nl": "gelijk",
+      "en": [
+        "equal",
+        "right",
+        "immediately"
+      ],
+      "pt": [
+        "igual",
+        "razão",
+        "imediatamente"
+      ],
+      "sourceTerm": "gelijk",
+      "sourceIndex": 128
+    },
+    {
+      "nl": "geschiedenis",
+      "en": [
+        "history"
+      ],
+      "pt": [
+        "história"
+      ],
+      "sourceTerm": "geschiedenis",
+      "sourceIndex": 129
+    },
+    {
+      "nl": "kop",
+      "en": [
+        "head",
+        "cup"
+      ],
+      "pt": [
+        "cabeça",
+        "xícara"
+      ],
+      "sourceTerm": "kop",
+      "sourceIndex": 130
+    },
+    {
+      "nl": "voldoende",
+      "en": [
+        "sufficient",
+        "enough"
+      ],
+      "pt": [
+        "suficiente"
+      ],
+      "sourceTerm": "voldoende",
+      "sourceIndex": 131
+    },
+    {
+      "nl": "overal",
+      "en": [
+        "everywhere"
+      ],
+      "pt": [
+        "em todo lugar"
+      ],
+      "sourceTerm": "overal",
+      "sourceIndex": 132
+    },
+    {
+      "nl": "ernstig",
+      "en": [
+        "serious",
+        "seriously"
+      ],
+      "pt": [
+        "grave",
+        "sério",
+        "seriamente"
+      ],
+      "sourceTerm": "ernstig",
+      "sourceIndex": 133
+    },
+    {
+      "nl": "nogal",
+      "en": [
+        "rather",
+        "quite"
+      ],
+      "pt": [
+        "bastante",
+        "um tanto"
+      ],
+      "sourceTerm": "nogal",
+      "sourceIndex": 134
+    },
+    {
+      "nl": "overigens",
+      "en": [
+        "by the way",
+        "incidentally",
+        "otherwise"
+      ],
+      "pt": [
+        "a propósito",
+        "aliás",
+        "de resto"
+      ],
+      "sourceTerm": "overigens",
+      "sourceIndex": 135
+    },
+    {
+      "nl": "omstandigheid",
+      "en": [
+        "circumstance"
+      ],
+      "pt": [
+        "circunstância"
+      ],
+      "sourceTerm": "omstandigheid",
+      "sourceIndex": 136
+    },
+    {
+      "nl": "noch",
+      "en": [
+        "nor"
+      ],
+      "pt": [
+        "nem"
+      ],
+      "sourceTerm": "noch",
+      "sourceIndex": 137
+    },
+    {
+      "nl": "trouwens",
+      "en": [
+        "by the way",
+        "besides"
+      ],
+      "pt": [
+        "a propósito",
+        "aliás",
+        "além disso"
+      ],
+      "sourceTerm": "trouwens",
+      "sourceIndex": 138
+    },
+    {
+      "nl": "toekomst",
+      "en": [
+        "future"
+      ],
+      "pt": [
+        "futuro"
+      ],
+      "sourceTerm": "toekomst",
+      "sourceIndex": 139
+    },
+    {
+      "nl": "opeens",
+      "en": [
+        "suddenly",
+        "all of a sudden"
+      ],
+      "pt": [
+        "de repente"
+      ],
+      "sourceTerm": "opeens",
+      "sourceIndex": 140
+    },
+    {
+      "nl": "omgeving",
+      "en": [
+        "surroundings",
+        "environment",
+        "area"
+      ],
+      "pt": [
+        "arredores",
+        "ambiente",
+        "região"
+      ],
+      "sourceTerm": "omgeving",
+      "sourceIndex": 141
+    },
+    {
+      "nl": "opvatting",
+      "en": [
+        "view",
+        "opinion",
+        "conception"
+      ],
+      "pt": [
+        "opinião",
+        "concepção"
+      ],
+      "sourceTerm": "opvatting",
+      "sourceIndex": 142
+    },
+    {
+      "nl": "overheid",
+      "en": [
+        "government",
+        "authorities"
+      ],
+      "pt": [
+        "governo",
+        "poder público"
+      ],
+      "sourceTerm": "overheid",
+      "sourceIndex": 143
+    },
+    {
+      "nl": "afstand",
+      "en": [
+        "distance"
+      ],
+      "pt": [
+        "distância"
+      ],
+      "sourceTerm": "afstand",
+      "sourceIndex": 144
+    },
+    {
+      "nl": "vervolgens",
+      "en": [
+        "then",
+        "subsequently",
+        "next"
+      ],
+      "pt": [
+        "em seguida",
+        "depois"
+      ],
+      "sourceTerm": "vervolgens",
+      "sourceIndex": 145
+    },
+    {
+      "nl": "wetenschap",
+      "en": [
+        "science"
+      ],
+      "pt": [
+        "ciência"
+      ],
+      "sourceTerm": "wetenschap",
+      "sourceIndex": 146
+    },
+    {
+      "nl": "ondanks",
+      "en": [
+        "despite",
+        "in spite of"
+      ],
+      "pt": [
+        "apesar de"
+      ],
+      "sourceTerm": "ondanks",
+      "sourceIndex": 147
+    },
+    {
+      "nl": "eindelijk",
+      "en": [
+        "finally",
+        "at last"
+      ],
+      "pt": [
+        "finalmente",
+        "enfim"
+      ],
+      "sourceTerm": "eindelijk",
+      "sourceIndex": 148
+    },
+    {
+      "nl": "vrijheid",
+      "en": [
+        "freedom",
+        "liberty"
+      ],
+      "pt": [
+        "liberdade"
+      ],
+      "sourceTerm": "vrijheid",
+      "sourceIndex": 149
+    },
+    {
+      "nl": "omhoog",
+      "en": [
+        "up",
+        "upwards"
+      ],
+      "pt": [
+        "para cima"
+      ],
+      "sourceTerm": "omhoog",
+      "sourceIndex": 150
+    },
+    {
+      "nl": "ziekte",
+      "en": [
+        "illness",
+        "disease",
+        "sickness"
+      ],
+      "pt": [
+        "doença"
+      ],
+      "sourceTerm": "ziekte",
+      "sourceIndex": 151
+    },
+    {
+      "nl": "hoogte",
+      "en": [
+        "height",
+        "altitude"
+      ],
+      "pt": [
+        "altura",
+        "altitude"
+      ],
+      "sourceTerm": "hoogte",
+      "sourceIndex": 152
+    },
+    {
+      "nl": "beleid",
+      "en": [
+        "policy"
+      ],
+      "pt": [
+        "política"
+      ],
+      "sourceTerm": "beleid",
+      "sourceIndex": 153
+    },
+    {
+      "nl": "schrijver",
+      "en": [
+        "writer",
+        "author"
+      ],
+      "pt": [
+        "escritor",
+        "autor"
+      ],
+      "sourceTerm": "schrijver",
+      "sourceIndex": 154
+    },
+    {
+      "nl": "maatschappij",
+      "en": [
+        "society",
+        "company"
+      ],
+      "pt": [
+        "sociedade",
+        "empresa"
+      ],
+      "sourceTerm": "maatschappij",
+      "sourceIndex": 155
+    },
+    {
+      "nl": "bedrijf",
+      "en": [
+        "company",
+        "business"
+      ],
+      "pt": [
+        "empresa",
+        "negócio"
+      ],
+      "sourceTerm": "bedrijf",
+      "sourceIndex": 156
+    },
+    {
+      "nl": "beneden",
+      "en": [
+        "downstairs",
+        "below",
+        "down"
+      ],
+      "pt": [
+        "embaixo",
+        "no andar de baixo"
+      ],
+      "sourceTerm": "beneden",
+      "sourceIndex": 157
+    },
+    {
+      "nl": "vandaag",
+      "en": [
+        "today"
+      ],
+      "pt": [
+        "hoje"
+      ],
+      "sourceTerm": "vandaag",
+      "sourceIndex": 158
+    },
+    {
+      "nl": "samenleving",
+      "en": [
+        "society"
+      ],
+      "pt": [
+        "sociedade"
+      ],
+      "sourceTerm": "samenleving",
+      "sourceIndex": 159
+    },
+    {
+      "nl": "verhouding",
+      "en": [
+        "relationship",
+        "ratio",
+        "proportion"
+      ],
+      "pt": [
+        "relação",
+        "proporção"
+      ],
+      "sourceTerm": "verhouding",
+      "sourceIndex": 160
+    },
+    {
+      "nl": "houding",
+      "en": [
+        "attitude",
+        "posture"
+      ],
+      "pt": [
+        "atitude",
+        "postura"
+      ],
+      "sourceTerm": "houding",
+      "sourceIndex": 161
+    },
+    {
+      "nl": "gevaar",
+      "en": [
+        "danger"
+      ],
+      "pt": [
+        "perigo"
+      ],
+      "sourceTerm": "gevaar",
+      "sourceIndex": 162
+    },
+    {
+      "nl": "regering",
+      "en": [
+        "government"
+      ],
+      "pt": [
+        "governo"
+      ],
+      "sourceTerm": "regering",
+      "sourceIndex": 163
+    },
+    {
+      "nl": "rekening",
+      "en": [
+        "bill",
+        "account"
+      ],
+      "pt": [
+        "conta"
+      ],
+      "sourceTerm": "rekening",
+      "sourceIndex": 164
+    },
+    {
+      "nl": "wetenschappelijk",
+      "en": [
+        "scientific"
+      ],
+      "pt": [
+        "científico",
+        "científica"
+      ],
+      "sourceTerm": "wetenschappelijk",
+      "sourceIndex": 165
+    },
+    {
+      "nl": "soldaat",
+      "en": [
+        "soldier"
+      ],
+      "pt": [
+        "soldado"
+      ],
+      "sourceTerm": "soldaat",
+      "sourceIndex": 166
+    },
+    {
+      "nl": "waarheid",
+      "en": [
+        "truth"
+      ],
+      "pt": [
+        "verdade"
+      ],
+      "sourceTerm": "waarheid",
+      "sourceIndex": 167
+    },
+    {
+      "nl": "tenminste",
+      "en": [
+        "at least",
+        "at any rate"
+      ],
+      "pt": [
+        "pelo menos"
+      ],
+      "sourceTerm": "tenminste",
+      "sourceIndex": 168
+    },
+    {
+      "nl": "prachtig",
+      "en": [
+        "beautiful",
+        "wonderful",
+        "splendid"
+      ],
+      "pt": [
+        "lindo",
+        "linda",
+        "maravilhoso"
+      ],
+      "sourceTerm": "prachtig",
+      "sourceIndex": 169
+    },
+    {
+      "nl": "beroep",
+      "en": [
+        "profession",
+        "occupation",
+        "appeal"
+      ],
+      "pt": [
+        "profissão",
+        "ocupação",
+        "recurso"
+      ],
+      "sourceTerm": "beroep",
+      "sourceIndex": 170
+    },
+    {
+      "nl": "poging",
+      "en": [
+        "attempt",
+        "try"
+      ],
+      "pt": [
+        "tentativa"
+      ],
+      "sourceTerm": "poging",
+      "sourceIndex": 171
+    },
+    {
+      "nl": "oorzaak",
+      "en": [
+        "cause"
+      ],
+      "pt": [
+        "causa"
+      ],
+      "sourceTerm": "oorzaak",
+      "sourceIndex": 172
+    },
+    {
+      "nl": "mening",
+      "en": [
+        "opinion"
+      ],
+      "pt": [
+        "opinião"
+      ],
+      "sourceTerm": "mening",
+      "sourceIndex": 173
+    },
+    {
+      "nl": "allen",
+      "en": [
+        "all",
+        "everyone"
+      ],
+      "pt": [
+        "todos",
+        "todas"
+      ],
+      "sourceTerm": "allen",
+      "sourceIndex": 174
+    },
+    {
+      "nl": "gezin",
+      "en": [
+        "family",
+        "household"
+      ],
+      "pt": [
+        "família",
+        "núcleo familiar"
+      ],
+      "sourceTerm": "gezin",
+      "sourceIndex": 175
+    },
+    {
+      "nl": "voorzichtig",
+      "en": [
+        "careful",
+        "cautious",
+        "carefully"
+      ],
+      "pt": [
+        "cuidadoso",
+        "cauteloso",
+        "com cuidado"
+      ],
+      "sourceTerm": "voorzichtig",
+      "sourceIndex": 176
+    },
+    {
+      "nl": "beslissing",
+      "en": [
+        "decision"
+      ],
+      "pt": [
+        "decisão"
+      ],
+      "sourceTerm": "beslissing",
+      "sourceIndex": 177
+    },
+    {
+      "nl": "uiteindelijk",
+      "en": [
+        "finally",
+        "eventually",
+        "ultimately"
+      ],
+      "pt": [
+        "finalmente",
+        "por fim"
+      ],
+      "sourceTerm": "uiteindelijk",
+      "sourceIndex": 178
+    },
+    {
+      "nl": "geleden",
+      "en": [
+        "ago"
+      ],
+      "pt": [
+        "atrás",
+        "há"
+      ],
+      "sourceTerm": "geleden",
+      "sourceIndex": 179
+    },
+    {
+      "nl": "gelegenheid",
+      "en": [
+        "opportunity",
+        "occasion"
+      ],
+      "pt": [
+        "oportunidade",
+        "ocasião"
+      ],
+      "sourceTerm": "gelegenheid",
+      "sourceIndex": 180
+    },
+    {
+      "nl": "noodzakelijk",
+      "en": [
+        "necessary",
+        "essential"
+      ],
+      "pt": [
+        "necessário",
+        "essencial"
+      ],
+      "sourceTerm": "noodzakelijk",
+      "sourceIndex": 181
+    },
+    {
+      "nl": "aanwezig",
+      "en": [
+        "present",
+        "in attendance"
+      ],
+      "pt": [
+        "presente"
+      ],
+      "sourceTerm": "aanwezig",
+      "sourceIndex": 182
+    },
+    {
+      "nl": "leeftijd",
+      "en": [
+        "age"
+      ],
+      "pt": [
+        "idade"
+      ],
+      "sourceTerm": "leeftijd",
+      "sourceIndex": 183
+    },
+    {
+      "nl": "bellen",
+      "en": [
+        "to call",
+        "to phone",
+        "to ring",
+        "call",
+        "phone",
+        "ring"
+      ],
+      "pt": [
+        "ligar",
+        "telefonar",
+        "tocar"
+      ],
+      "sourceTerm": "bellen",
+      "sourceIndex": 184
+    },
+    {
+      "nl": "onmogelijk",
+      "en": [
+        "impossible"
+      ],
+      "pt": [
+        "impossível"
+      ],
+      "sourceTerm": "onmogelijk",
+      "sourceIndex": 185
+    },
+    {
+      "nl": "stilte",
+      "en": [
+        "silence"
+      ],
+      "pt": [
+        "silêncio"
+      ],
+      "sourceTerm": "stilte",
+      "sourceIndex": 186
+    },
+    {
+      "nl": "behandeling",
+      "en": [
+        "treatment",
+        "handling"
+      ],
+      "pt": [
+        "tratamento"
+      ],
+      "sourceTerm": "behandeling",
+      "sourceIndex": 187
+    },
+    {
+      "nl": "huwelijk",
+      "en": [
+        "marriage",
+        "wedding"
+      ],
+      "pt": [
+        "casamento"
+      ],
+      "sourceTerm": "huwelijk",
+      "sourceIndex": 188
+    },
+    {
+      "nl": "vorige",
+      "en": [
+        "previous",
+        "last"
+      ],
+      "pt": [
+        "anterior",
+        "passado"
+      ],
+      "sourceTerm": "vorige",
+      "sourceIndex": 189
+    },
+    {
+      "nl": "verklaring",
+      "en": [
+        "explanation",
+        "statement",
+        "declaration"
+      ],
+      "pt": [
+        "explicação",
+        "declaração"
+      ],
+      "sourceTerm": "verklaring",
+      "sourceIndex": 190
+    },
+    {
+      "nl": "verleden",
+      "en": [
+        "past"
+      ],
+      "pt": [
+        "passado"
+      ],
+      "sourceTerm": "verleden",
+      "sourceIndex": 191
+    },
+    {
+      "nl": "bezoek",
+      "en": [
+        "visit",
+        "visitors"
+      ],
+      "pt": [
+        "visita",
+        "visitantes"
+      ],
+      "sourceTerm": "bezoek",
+      "sourceIndex": 192
+    },
+    {
+      "nl": "oplossing",
+      "en": [
+        "solution"
+      ],
+      "pt": [
+        "solução"
+      ],
+      "sourceTerm": "oplossing",
+      "sourceIndex": 193
+    },
+    {
+      "nl": "doordat",
+      "en": [
+        "because",
+        "because of",
+        "due to"
+      ],
+      "pt": [
+        "porque",
+        "por causa de",
+        "devido a"
+      ],
+      "sourceTerm": "doordat",
+      "sourceIndex": 194
+    },
+    {
+      "nl": "verlangen",
+      "en": [
+        "to long for",
+        "desire",
+        "longing",
+        "long for"
+      ],
+      "pt": [
+        "desejar",
+        "desejo",
+        "anseio"
+      ],
+      "sourceTerm": "verlangen",
+      "sourceIndex": 195
+    },
+    {
+      "nl": "bevatten",
+      "en": [
+        "to contain",
+        "contain"
+      ],
+      "pt": [
+        "conter"
+      ],
+      "sourceTerm": "bevatten",
+      "sourceIndex": 196
+    },
+    {
+      "nl": "moeilijkheid",
+      "en": [
+        "difficulty",
+        "problem"
+      ],
+      "pt": [
+        "dificuldade",
+        "problema"
+      ],
+      "sourceTerm": "moeilijkheid",
+      "sourceIndex": 197
+    },
+    {
+      "nl": "keuken",
+      "en": [
+        "kitchen"
+      ],
+      "pt": [
+        "cozinha"
+      ],
+      "sourceTerm": "keuken",
+      "sourceIndex": 198
+    },
+    {
+      "nl": "herinnering",
+      "en": [
+        "memory",
+        "recollection",
+        "reminder"
+      ],
+      "pt": [
+        "lembrança",
+        "recordação"
+      ],
+      "sourceTerm": "herinnering",
+      "sourceIndex": 199
+    },
+    {
+      "nl": "dagelijks",
+      "en": [
+        "daily",
+        "every day"
+      ],
+      "pt": [
+        "diariamente",
+        "diário",
+        "todos os dias"
+      ],
+      "sourceTerm": "dagelijks",
+      "sourceIndex": 200
+    },
+    {
+      "nl": "ziekenhuis",
+      "en": [
+        "hospital"
+      ],
+      "pt": [
+        "hospital"
+      ],
+      "sourceTerm": "ziekenhuis",
+      "sourceIndex": 201
+    },
+    {
+      "nl": "zodra",
+      "en": [
+        "as soon as"
+      ],
+      "pt": [
+        "assim que"
+      ],
+      "sourceTerm": "zodra",
+      "sourceIndex": 202
+    },
+    {
+      "nl": "onderwerp",
+      "en": [
+        "subject",
+        "topic"
+      ],
+      "pt": [
+        "assunto",
+        "tema"
+      ],
+      "sourceTerm": "onderwerp",
+      "sourceIndex": 203
+    },
+    {
+      "nl": "vrijwel",
+      "en": [
+        "almost",
+        "nearly",
+        "virtually"
+      ],
+      "pt": [
+        "quase",
+        "praticamente"
+      ],
+      "sourceTerm": "vrijwel",
+      "sourceIndex": 204
+    },
+    {
+      "nl": "blijkbaar",
+      "en": [
+        "apparently"
+      ],
+      "pt": [
+        "ao que parece",
+        "aparentemente"
+      ],
+      "sourceTerm": "blijkbaar",
+      "sourceIndex": 205
+    },
+    {
+      "nl": "bureau",
+      "en": [
+        "desk",
+        "office",
+        "agency"
+      ],
+      "pt": [
+        "escrivaninha",
+        "escritório",
+        "agência"
+      ],
+      "sourceTerm": "bureau",
+      "sourceIndex": 206
+    },
+    {
+      "nl": "opdracht",
+      "en": [
+        "assignment",
+        "task",
+        "order"
+      ],
+      "pt": [
+        "tarefa",
+        "ordem"
+      ],
+      "sourceTerm": "opdracht",
+      "sourceIndex": 207
+    },
+    {
+      "nl": "gebouw",
+      "en": [
+        "building"
+      ],
+      "pt": [
+        "edifício",
+        "prédio"
+      ],
+      "sourceTerm": "gebouw",
+      "sourceIndex": 208
+    },
+    {
+      "nl": "uitdrukking",
+      "en": [
+        "expression"
+      ],
+      "pt": [
+        "expressão"
+      ],
+      "sourceTerm": "uitdrukking",
+      "sourceIndex": 209
+    },
+    {
+      "nl": "zolang",
+      "en": [
+        "as long as",
+        "while"
+      ],
+      "pt": [
+        "enquanto",
+        "desde que"
+      ],
+      "sourceTerm": "zolang",
+      "sourceIndex": 210
+    },
+    {
+      "nl": "lekker",
+      "en": [
+        "tasty",
+        "delicious",
+        "nice"
+      ],
+      "pt": [
+        "gostoso",
+        "gostosa",
+        "delicioso",
+        "agradável"
+      ],
+      "sourceTerm": "lekker",
+      "sourceIndex": 211
+    },
+    {
+      "nl": "bestuur",
+      "en": [
+        "board",
+        "management",
+        "administration"
+      ],
+      "pt": [
+        "diretoria",
+        "administração"
+      ],
+      "sourceTerm": "bestuur",
+      "sourceIndex": 212
+    },
+    {
+      "nl": "keuze",
+      "en": [
+        "choice"
+      ],
+      "pt": [
+        "escolha"
+      ],
+      "sourceTerm": "keuze",
+      "sourceIndex": 213
+    },
+    {
+      "nl": "behalve",
+      "en": [
+        "except",
+        "besides"
+      ],
+      "pt": [
+        "exceto",
+        "além de"
+      ],
+      "sourceTerm": "behalve",
+      "sourceIndex": 214
+    },
+    {
+      "nl": "uitspraak",
+      "en": [
+        "pronunciation",
+        "statement",
+        "verdict"
+      ],
+      "pt": [
+        "pronúncia",
+        "declaração",
+        "sentença"
+      ],
+      "sourceTerm": "uitspraak",
+      "sourceIndex": 215
+    },
+    {
+      "nl": "nergens",
+      "en": [
+        "nowhere"
+      ],
+      "pt": [
+        "em nenhum lugar"
+      ],
+      "sourceTerm": "nergens",
+      "sourceIndex": 216
+    },
+    {
+      "nl": "gezond",
+      "en": [
+        "healthy"
+      ],
+      "pt": [
+        "saudável"
+      ],
+      "sourceTerm": "gezond",
+      "sourceIndex": 217
+    },
+    {
+      "nl": "voorstel",
+      "en": [
+        "proposal",
+        "suggestion"
+      ],
+      "pt": [
+        "proposta",
+        "sugestão"
+      ],
+      "sourceTerm": "voorstel",
+      "sourceIndex": 218
+    },
+    {
+      "nl": "veilig",
+      "en": [
+        "safe",
+        "secure"
+      ],
+      "pt": [
+        "seguro",
+        "segura"
+      ],
+      "sourceTerm": "veilig",
+      "sourceIndex": 219
+    },
+    {
+      "nl": "stijgen",
+      "en": [
+        "to rise",
+        "to increase",
+        "rise",
+        "increase"
+      ],
+      "pt": [
+        "subir",
+        "aumentar"
+      ],
+      "sourceTerm": "stijgen",
+      "sourceIndex": 220
+    },
+    {
+      "nl": "besluit",
+      "en": [
+        "decision",
+        "resolution"
+      ],
+      "pt": [
+        "decisão",
+        "resolução"
+      ],
+      "sourceTerm": "besluit",
+      "sourceIndex": 221
+    },
+    {
+      "nl": "eiland",
+      "en": [
+        "island"
+      ],
+      "pt": [
+        "ilha"
+      ],
+      "sourceTerm": "eiland",
+      "sourceIndex": 222
+    },
+    {
+      "nl": "tegenstelling",
+      "en": [
+        "contrast",
+        "opposition"
+      ],
+      "pt": [
+        "oposição",
+        "contraste"
+      ],
+      "sourceTerm": "tegenstelling",
+      "sourceIndex": 223
+    },
+    {
+      "nl": "oordeel",
+      "en": [
+        "judgment",
+        "judgement",
+        "opinion"
+      ],
+      "pt": [
+        "julgamento",
+        "opinião"
+      ],
+      "sourceTerm": "oordeel",
+      "sourceIndex": 224
+    },
+    {
+      "nl": "twijfel",
+      "en": [
+        "doubt"
+      ],
+      "pt": [
+        "dúvida"
+      ],
+      "sourceTerm": "twijfel",
+      "sourceIndex": 225
+    },
+    {
+      "nl": "glimlach",
+      "en": [
+        "smile"
+      ],
+      "pt": [
+        "sorriso"
+      ],
+      "sourceTerm": "glimlach",
+      "sourceIndex": 226
+    },
+    {
+      "nl": "uitsluitend",
+      "en": [
+        "exclusively",
+        "only"
+      ],
+      "pt": [
+        "exclusivamente",
+        "somente"
+      ],
+      "sourceTerm": "uitsluitend",
+      "sourceIndex": 227
+    },
+    {
+      "nl": "wellicht",
+      "en": [
+        "perhaps",
+        "possibly"
+      ],
+      "pt": [
+        "talvez",
+        "possivelmente"
+      ],
+      "sourceTerm": "wellicht",
+      "sourceIndex": 228
+    },
+    {
+      "nl": "spanning",
+      "en": [
+        "tension",
+        "excitement",
+        "voltage"
+      ],
+      "pt": [
+        "tensão",
+        "expectativa",
+        "voltagem"
+      ],
+      "sourceTerm": "spanning",
+      "sourceIndex": 229
+    },
+    {
+      "nl": "arbeid",
+      "en": [
+        "work",
+        "labour",
+        "labor"
+      ],
+      "pt": [
+        "trabalho"
+      ],
+      "sourceTerm": "arbeid",
+      "sourceIndex": 230
+    },
+    {
+      "nl": "gevaarlijk",
+      "en": [
+        "dangerous"
+      ],
+      "pt": [
+        "perigoso",
+        "perigosa"
+      ],
+      "sourceTerm": "gevaarlijk",
+      "sourceIndex": 231
+    },
+    {
+      "nl": "rechter",
+      "en": [
+        "judge",
+        "right"
+      ],
+      "pt": [
+        "juiz",
+        "juíza",
+        "direito"
+      ],
+      "sourceTerm": "rechter",
+      "sourceIndex": 232
+    },
+    {
+      "nl": "leraar",
+      "en": [
+        "teacher"
+      ],
+      "pt": [
+        "professor"
+      ],
+      "sourceTerm": "leraar",
+      "sourceIndex": 233
+    },
+    {
+      "nl": "vriendin",
+      "en": [
+        "friend",
+        "girlfriend"
+      ],
+      "pt": [
+        "amiga",
+        "namorada"
+      ],
+      "sourceTerm": "vriendin",
+      "sourceIndex": 234
+    },
+    {
+      "nl": "zekerheid",
+      "en": [
+        "certainty",
+        "security"
+      ],
+      "pt": [
+        "certeza",
+        "segurança"
+      ],
+      "sourceTerm": "zekerheid",
+      "sourceIndex": 235
+    },
+    {
+      "nl": "gewoonlijk",
+      "en": [
+        "usually",
+        "normally"
+      ],
+      "pt": [
+        "geralmente",
+        "normalmente"
+      ],
+      "sourceTerm": "gewoonlijk",
+      "sourceIndex": 236
+    },
+    {
+      "nl": "heerlijk",
+      "en": [
+        "delicious",
+        "wonderful"
+      ],
+      "pt": [
+        "delicioso",
+        "deliciosa",
+        "maravilhoso"
+      ],
+      "sourceTerm": "heerlijk",
+      "sourceIndex": 237
+    },
+    {
+      "nl": "geur",
+      "en": [
+        "smell",
+        "scent"
+      ],
+      "pt": [
+        "cheiro",
+        "aroma"
+      ],
+      "sourceTerm": "geur",
+      "sourceIndex": 238
+    },
+    {
+      "nl": "openbaar",
+      "en": [
+        "public"
+      ],
+      "pt": [
+        "público",
+        "pública"
+      ],
+      "sourceTerm": "openbaar",
+      "sourceIndex": 239
+    },
+    {
+      "nl": "voordeel",
+      "en": [
+        "advantage",
+        "benefit"
+      ],
+      "pt": [
+        "vantagem",
+        "benefício"
+      ],
+      "sourceTerm": "voordeel",
+      "sourceIndex": 240
+    },
+    {
+      "nl": "opmerking",
+      "en": [
+        "remark",
+        "comment"
+      ],
+      "pt": [
+        "observação",
+        "comentário"
+      ],
+      "sourceTerm": "opmerking",
+      "sourceIndex": 241
+    },
+    {
+      "nl": "intussen",
+      "en": [
+        "meanwhile",
+        "in the meantime"
+      ],
+      "pt": [
+        "enquanto isso"
+      ],
+      "sourceTerm": "intussen",
+      "sourceIndex": 242
+    },
+    {
+      "nl": "gezag",
+      "en": [
+        "authority"
+      ],
+      "pt": [
+        "autoridade"
+      ],
+      "sourceTerm": "gezag",
+      "sourceIndex": 243
+    },
+    {
+      "nl": "herhalen",
+      "en": [
+        "to repeat",
+        "repeat"
+      ],
+      "pt": [
+        "repetir"
+      ],
+      "sourceTerm": "herhalen",
+      "sourceIndex": 244
+    },
+    {
+      "nl": "tevreden",
+      "en": [
+        "satisfied",
+        "content"
+      ],
+      "pt": [
+        "satisfeito",
+        "satisfeita",
+        "contente"
+      ],
+      "sourceTerm": "tevreden",
+      "sourceIndex": 245
+    },
+    {
+      "nl": "kantoor",
+      "en": [
+        "office"
+      ],
+      "pt": [
+        "escritório"
+      ],
+      "sourceTerm": "kantoor",
+      "sourceIndex": 246
+    },
+    {
+      "nl": "gedeelte",
+      "en": [
+        "part",
+        "section"
+      ],
+      "pt": [
+        "parte",
+        "seção"
+      ],
+      "sourceTerm": "gedeelte",
+      "sourceIndex": 247
+    },
+    {
+      "nl": "afdeling",
+      "en": [
+        "department",
+        "section"
+      ],
+      "pt": [
+        "departamento",
+        "seção"
+      ],
+      "sourceTerm": "afdeling",
+      "sourceIndex": 248
+    },
+    {
+      "nl": "maatregel",
+      "en": [
+        "measure"
+      ],
+      "pt": [
+        "medida"
+      ],
+      "sourceTerm": "maatregel",
+      "sourceIndex": 249
+    },
+    {
+      "nl": "voedsel",
+      "en": [
+        "food"
+      ],
+      "pt": [
+        "comida",
+        "alimento"
+      ],
+      "sourceTerm": "voedsel",
+      "sourceIndex": 250
+    },
+    {
+      "nl": "boodschap",
+      "en": [
+        "message",
+        "errand"
+      ],
+      "pt": [
+        "mensagem",
+        "recado",
+        "compra"
+      ],
+      "sourceTerm": "boodschap",
+      "sourceIndex": 251
+    },
+    {
+      "nl": "krachtige",
+      "en": [
+        "powerful",
+        "strong"
+      ],
+      "pt": [
+        "poderoso",
+        "poderosa",
+        "forte"
+      ],
+      "sourceTerm": "krachtige",
+      "sourceIndex": 252
+    },
+    {
+      "nl": "vrolijk",
+      "en": [
+        "cheerful",
+        "happy"
+      ],
+      "pt": [
+        "alegre",
+        "feliz"
+      ],
+      "sourceTerm": "vrolijk",
+      "sourceIndex": 253
+    },
+    {
+      "nl": "vertrek",
+      "en": [
+        "departure",
+        "room"
+      ],
+      "pt": [
+        "partida",
+        "saída",
+        "cômodo"
+      ],
+      "sourceTerm": "vertrek",
+      "sourceIndex": 254
+    },
+    {
+      "nl": "toevallig",
+      "en": [
+        "by chance",
+        "coincidental",
+        "accidental"
+      ],
+      "pt": [
+        "por acaso",
+        "coincidente",
+        "acidental"
+      ],
+      "sourceTerm": "toevallig",
+      "sourceIndex": 255
+    },
+    {
+      "nl": "uitstekend",
+      "en": [
+        "excellent",
+        "outstanding"
+      ],
+      "pt": [
+        "excelente"
+      ],
+      "sourceTerm": "uitstekend",
+      "sourceIndex": 256
+    },
+    {
+      "nl": "bewijs",
+      "en": [
+        "proof",
+        "evidence"
+      ],
+      "pt": [
+        "prova",
+        "evidência"
+      ],
+      "sourceTerm": "bewijs",
+      "sourceIndex": 257
+    },
+    {
+      "nl": "voorkeur",
+      "en": [
+        "preference"
+      ],
+      "pt": [
+        "preferência"
+      ],
+      "sourceTerm": "voorkeur",
+      "sourceIndex": 258
+    },
+    {
+      "nl": "achtergrond",
+      "en": [
+        "background"
+      ],
+      "pt": [
+        "fundo",
+        "contexto",
+        "origem"
+      ],
+      "sourceTerm": "achtergrond",
+      "sourceIndex": 259
+    },
+    {
+      "nl": "eigenschap",
+      "en": [
+        "characteristic",
+        "property",
+        "trait"
+      ],
+      "pt": [
+        "característica",
+        "propriedade"
+      ],
+      "sourceTerm": "eigenschap",
+      "sourceIndex": 260
+    },
+    {
+      "nl": "bezit",
+      "en": [
+        "possession",
+        "property"
+      ],
+      "pt": [
+        "posse",
+        "propriedade"
+      ],
+      "sourceTerm": "bezit",
+      "sourceIndex": 261
+    },
+    {
+      "nl": "handeling",
+      "en": [
+        "action",
+        "act"
+      ],
+      "pt": [
+        "ação",
+        "ato"
+      ],
+      "sourceTerm": "handeling",
+      "sourceIndex": 262
+    },
+    {
+      "nl": "arbeider",
+      "en": [
+        "worker",
+        "labourer",
+        "laborer"
+      ],
+      "pt": [
+        "trabalhador",
+        "operário"
+      ],
+      "sourceTerm": "arbeider",
+      "sourceIndex": 263
+    },
+    {
+      "nl": "prettig",
+      "en": [
+        "pleasant",
+        "nice"
+      ],
+      "pt": [
+        "agradável"
+      ],
+      "sourceTerm": "prettig",
+      "sourceIndex": 264
+    },
+    {
+      "nl": "geheim",
+      "en": [
+        "secret"
+      ],
+      "pt": [
+        "segredo",
+        "secreto"
+      ],
+      "sourceTerm": "geheim",
+      "sourceIndex": 265
+    },
+    {
+      "nl": "gedicht",
+      "en": [
+        "poem"
+      ],
+      "pt": [
+        "poema"
+      ],
+      "sourceTerm": "gedicht",
+      "sourceIndex": 266
+    },
+    {
+      "nl": "vijand",
+      "en": [
+        "enemy"
+      ],
+      "pt": [
+        "inimigo"
+      ],
+      "sourceTerm": "vijand",
+      "sourceIndex": 267
+    },
+    {
+      "nl": "verwachting",
+      "en": [
+        "expectation"
+      ],
+      "pt": [
+        "expectativa"
+      ],
+      "sourceTerm": "verwachting",
+      "sourceIndex": 268
+    },
+    {
+      "nl": "inmiddels",
+      "en": [
+        "meanwhile",
+        "by now",
+        "in the meantime"
+      ],
+      "pt": [
+        "enquanto isso",
+        "a esta altura"
+      ],
+      "sourceTerm": "inmiddels",
+      "sourceIndex": 269
+    },
+    {
+      "nl": "ongetwijfeld",
+      "en": [
+        "undoubtedly",
+        "without a doubt"
+      ],
+      "pt": [
+        "sem dúvida"
+      ],
+      "sourceTerm": "ongetwijfeld",
+      "sourceIndex": 270
+    },
+    {
+      "nl": "vergadering",
+      "en": [
+        "meeting",
+        "assembly"
+      ],
+      "pt": [
+        "reunião",
+        "assembleia"
+      ],
+      "sourceTerm": "vergadering",
+      "sourceIndex": 271
+    },
+    {
+      "nl": "buitenlands",
+      "en": [
+        "foreign"
+      ],
+      "pt": [
+        "estrangeiro",
+        "estrangeira"
+      ],
+      "sourceTerm": "buitenlands",
+      "sourceIndex": 272
+    },
+    {
+      "nl": "opleiding",
+      "en": [
+        "education",
+        "training",
+        "course"
+      ],
+      "pt": [
+        "formação",
+        "curso",
+        "treinamento"
+      ],
+      "sourceTerm": "opleiding",
+      "sourceIndex": 273
+    },
+    {
+      "nl": "verschrikkelijk",
+      "en": [
+        "terrible",
+        "awful"
+      ],
+      "pt": [
+        "terrível",
+        "horrível"
+      ],
+      "sourceTerm": "verschrikkelijk",
+      "sourceIndex": 274
+    },
+    {
+      "nl": "ambtenaar",
+      "en": [
+        "civil servant",
+        "official"
+      ],
+      "pt": [
+        "servidor público",
+        "funcionário público"
+      ],
+      "sourceTerm": "ambtenaar",
+      "sourceIndex": 275
+    },
+    {
+      "nl": "redelijk",
+      "en": [
+        "reasonable",
+        "fairly"
+      ],
+      "pt": [
+        "razoável",
+        "razoavelmente"
+      ],
+      "sourceTerm": "redelijk",
+      "sourceIndex": 276
+    },
+    {
+      "nl": "gewoonte",
+      "en": [
+        "habit",
+        "custom"
+      ],
+      "pt": [
+        "hábito",
+        "costume"
+      ],
+      "sourceTerm": "gewoonte",
+      "sourceIndex": 277
+    },
+    {
+      "nl": "verzoek",
+      "en": [
+        "request"
+      ],
+      "pt": [
+        "pedido",
+        "solicitação"
+      ],
+      "sourceTerm": "verzoek",
+      "sourceIndex": 278
+    },
+    {
+      "nl": "leerling",
+      "en": [
+        "pupil",
+        "student"
+      ],
+      "pt": [
+        "aluno",
+        "aluna",
+        "estudante"
+      ],
+      "sourceTerm": "leerling",
+      "sourceIndex": 279
+    },
+    {
+      "nl": "geweld",
+      "en": [
+        "violence"
+      ],
+      "pt": [
+        "violência"
+      ],
+      "sourceTerm": "geweld",
+      "sourceIndex": 280
+    },
+    {
+      "nl": "uitzondering",
+      "en": [
+        "exception"
+      ],
+      "pt": [
+        "exceção"
+      ],
+      "sourceTerm": "uitzondering",
+      "sourceIndex": 281
+    },
+    {
+      "nl": "voorwerp",
+      "en": [
+        "object"
+      ],
+      "pt": [
+        "objeto"
+      ],
+      "sourceTerm": "voorwerp",
+      "sourceIndex": 282
+    },
+    {
+      "nl": "gunstig",
+      "en": [
+        "favourable",
+        "favorable"
+      ],
+      "pt": [
+        "favorável"
+      ],
+      "sourceTerm": "gunstig",
+      "sourceIndex": 283
+    },
+    {
+      "nl": "regeling",
+      "en": [
+        "arrangement",
+        "regulation",
+        "scheme"
+      ],
+      "pt": [
+        "acordo",
+        "regulamento",
+        "sistema"
+      ],
+      "sourceTerm": "regeling",
+      "sourceIndex": 284
+    },
+    {
+      "nl": "doelstelling",
+      "en": [
+        "objective",
+        "goal"
+      ],
+      "pt": [
+        "objetivo",
+        "meta"
+      ],
+      "sourceTerm": "doelstelling",
+      "sourceIndex": 285
+    },
+    {
+      "nl": "verdriet",
+      "en": [
+        "sadness",
+        "sorrow",
+        "grief"
+      ],
+      "pt": [
+        "tristeza",
+        "pesar"
+      ],
+      "sourceTerm": "verdriet",
+      "sourceIndex": 286
+    },
+    {
+      "nl": "dichtbij",
+      "en": [
+        "near",
+        "nearby",
+        "close"
+      ],
+      "pt": [
+        "perto",
+        "próximo"
+      ],
+      "sourceTerm": "dichtbij",
+      "sourceIndex": 287
+    },
+    {
+      "nl": "afspraak",
+      "en": [
+        "appointment",
+        "agreement"
+      ],
+      "pt": [
+        "compromisso",
+        "consulta",
+        "acordo"
+      ],
+      "sourceTerm": "afspraak",
+      "sourceIndex": 288
+    },
+    {
+      "nl": "allebei",
+      "en": [
+        "both"
+      ],
+      "pt": [
+        "ambos",
+        "ambas",
+        "os dois",
+        "as duas"
+      ],
+      "sourceTerm": "allebei",
+      "sourceIndex": 289
+    },
+    {
+      "nl": "heuvel",
+      "en": [
+        "hill"
+      ],
+      "pt": [
+        "colina",
+        "morro"
+      ],
+      "sourceTerm": "heuvel",
+      "sourceIndex": 290
+    },
+    {
+      "nl": "voorhoofd",
+      "en": [
+        "forehead"
+      ],
+      "pt": [
+        "testa"
+      ],
+      "sourceTerm": "voorhoofd",
+      "sourceIndex": 291
+    },
+    {
+      "nl": "vreselijk",
+      "en": [
+        "terrible",
+        "awful"
+      ],
+      "pt": [
+        "terrível",
+        "horrível"
+      ],
+      "sourceTerm": "vreselijk",
+      "sourceIndex": 292
+    },
+    {
+      "nl": "vrede",
+      "en": [
+        "peace"
+      ],
+      "pt": [
+        "paz"
+      ],
+      "sourceTerm": "vrede",
+      "sourceIndex": 293
+    },
+    {
+      "nl": "godsdienst",
+      "en": [
+        "religion"
+      ],
+      "pt": [
+        "religião"
+      ],
+      "sourceTerm": "godsdienst",
+      "sourceIndex": 294
+    },
+    {
+      "nl": "samenwerking",
+      "en": [
+        "cooperation",
+        "collaboration"
+      ],
+      "pt": [
+        "cooperação",
+        "colaboração"
+      ],
+      "sourceTerm": "samenwerking",
+      "sourceIndex": 295
+    },
+    {
+      "nl": "spiegel",
+      "en": [
+        "mirror"
+      ],
+      "pt": [
+        "espelho"
+      ],
+      "sourceTerm": "spiegel",
+      "sourceIndex": 296
+    },
+    {
+      "nl": "verstand",
+      "en": [
+        "intellect",
+        "common sense",
+        "mind"
+      ],
+      "pt": [
+        "intelecto",
+        "bom senso",
+        "mente"
+      ],
+      "sourceTerm": "verstand",
+      "sourceIndex": 297
+    },
+    {
+      "nl": "onderscheid",
+      "en": [
+        "distinction",
+        "difference"
+      ],
+      "pt": [
+        "distinção",
+        "diferença"
+      ],
+      "sourceTerm": "onderscheid",
+      "sourceIndex": 298
+    },
+    {
+      "nl": "aanval",
+      "en": [
+        "attack"
+      ],
+      "pt": [
+        "ataque"
+      ],
+      "sourceTerm": "aanval",
+      "sourceIndex": 299
+    },
+    {
+      "nl": "ongeluk",
+      "en": [
+        "accident",
+        "misfortune"
+      ],
+      "pt": [
+        "acidente",
+        "azar"
+      ],
+      "sourceTerm": "ongeluk",
+      "sourceIndex": 300
+    },
+    {
+      "nl": "sleutel",
+      "en": [
+        "key"
+      ],
+      "pt": [
+        "chave"
+      ],
+      "sourceTerm": "sleutel",
+      "sourceIndex": 301
+    },
+    {
+      "nl": "koffer",
+      "en": [
+        "suitcase"
+      ],
+      "pt": [
+        "mala"
+      ],
+      "sourceTerm": "koffer",
+      "sourceIndex": 302
+    },
+    {
+      "nl": "afscheid",
+      "en": [
+        "farewell",
+        "goodbye"
+      ],
+      "pt": [
+        "despedida",
+        "adeus"
+      ],
+      "sourceTerm": "afscheid",
+      "sourceIndex": 303
+    },
+    {
+      "nl": "vereniging",
+      "en": [
+        "association",
+        "club"
+      ],
+      "pt": [
+        "associação",
+        "clube"
+      ],
+      "sourceTerm": "vereniging",
+      "sourceIndex": 304
+    },
+    {
+      "nl": "geweldig",
+      "en": [
+        "great",
+        "amazing",
+        "terrific"
+      ],
+      "pt": [
+        "ótimo",
+        "ótima",
+        "incrível"
+      ],
+      "sourceTerm": "geweldig",
+      "sourceIndex": 305
+    },
+    {
+      "nl": "bodem",
+      "en": [
+        "bottom",
+        "ground",
+        "soil"
+      ],
+      "pt": [
+        "fundo",
+        "solo",
+        "chão"
+      ],
+      "sourceTerm": "bodem",
+      "sourceIndex": 306
+    },
+    {
+      "nl": "woning",
+      "en": [
+        "home",
+        "dwelling",
+        "house"
+      ],
+      "pt": [
+        "moradia",
+        "residência",
+        "casa"
+      ],
+      "sourceTerm": "woning",
+      "sourceIndex": 307
+    },
+    {
+      "nl": "overeenkomst",
+      "en": [
+        "agreement",
+        "similarity",
+        "contract"
+      ],
+      "pt": [
+        "acordo",
+        "semelhança",
+        "contrato"
+      ],
+      "sourceTerm": "overeenkomst",
+      "sourceIndex": 308
+    },
+    {
+      "nl": "voorzitter",
+      "en": [
+        "chairperson",
+        "chairman",
+        "president"
+      ],
+      "pt": [
+        "presidente"
+      ],
+      "sourceTerm": "voorzitter",
+      "sourceIndex": 309
+    },
+    {
+      "nl": "milieu",
+      "en": [
+        "environment"
+      ],
+      "pt": [
+        "meio ambiente"
+      ],
+      "sourceTerm": "milieu",
+      "sourceIndex": 310
+    },
+    {
+      "nl": "kenmerken",
+      "en": [
+        "characteristics",
+        "features",
+        "to characterize",
+        "characterize"
+      ],
+      "pt": [
+        "características",
+        "caracterizar"
+      ],
+      "sourceTerm": "kenmerken",
+      "sourceIndex": 311
+    },
+    {
+      "nl": "landschap",
+      "en": [
+        "landscape"
+      ],
+      "pt": [
+        "paisagem"
+      ],
+      "sourceTerm": "landschap",
+      "sourceIndex": 312
+    },
+    {
+      "nl": "definitief",
+      "en": [
+        "definitive",
+        "final",
+        "permanent"
+      ],
+      "pt": [
+        "definitivo",
+        "definitiva",
+        "permanente"
+      ],
+      "sourceTerm": "definitief",
+      "sourceIndex": 313
+    },
+    {
+      "nl": "nauwkeurig",
+      "en": [
+        "accurate",
+        "precise",
+        "carefully"
+      ],
+      "pt": [
+        "preciso",
+        "exato",
+        "cuidadosamente"
+      ],
+      "sourceTerm": "nauwkeurig",
+      "sourceIndex": 314
+    },
+    {
+      "nl": "bijdrage",
+      "en": [
+        "contribution"
+      ],
+      "pt": [
+        "contribuição"
+      ],
+      "sourceTerm": "bijdrage",
+      "sourceIndex": 315
+    },
+    {
+      "nl": "overleg",
+      "en": [
+        "consultation",
+        "discussion"
+      ],
+      "pt": [
+        "consulta",
+        "discussão",
+        "reunião"
+      ],
+      "sourceTerm": "overleg",
+      "sourceIndex": 316
+    },
+    {
+      "nl": "man",
+      "en": [
+        "husband"
+      ],
+      "pt": [
+        "marido",
+        "esposo"
+      ],
+      "sourceTerm": "man, echtgenoot",
+      "sourceIndex": 317,
+      "nlAliases": [
+        "echtgenoot"
+      ]
+    },
+    {
+      "nl": "verbazing",
+      "en": [
+        "amazement",
+        "surprise"
+      ],
+      "pt": [
+        "espanto",
+        "surpresa"
+      ],
+      "sourceTerm": "verbazing",
+      "sourceIndex": 318
+    },
+    {
+      "nl": "gordijnen",
+      "en": [
+        "curtains"
+      ],
+      "pt": [
+        "cortinas"
+      ],
+      "sourceTerm": "gordijnen",
+      "sourceIndex": 319
+    },
+    {
+      "nl": "goedkoop",
+      "en": [
+        "cheap",
+        "inexpensive"
+      ],
+      "pt": [
+        "barato",
+        "barata"
+      ],
+      "sourceTerm": "goedkoop",
+      "sourceIndex": 320
+    },
+    {
+      "nl": "evenwicht",
+      "en": [
+        "balance",
+        "equilibrium"
+      ],
+      "pt": [
+        "equilíbrio"
+      ],
+      "sourceTerm": "evenwicht",
+      "sourceIndex": 321
+    },
+    {
+      "nl": "vochtig",
+      "en": [
+        "damp",
+        "moist",
+        "humid"
+      ],
+      "pt": [
+        "úmido",
+        "úmida"
+      ],
+      "sourceTerm": "vochtig",
+      "sourceIndex": 322
+    },
+    {
+      "nl": "vergelijking",
+      "en": [
+        "comparison",
+        "equation"
+      ],
+      "pt": [
+        "comparação",
+        "equação"
+      ],
+      "sourceTerm": "vergelijking",
+      "sourceIndex": 323
+    },
+    {
+      "nl": "gezondheid",
+      "en": [
+        "health"
+      ],
+      "pt": [
+        "saúde"
+      ],
+      "sourceTerm": "gezondheid",
+      "sourceIndex": 324
+    },
+    {
+      "nl": "kern",
+      "en": [
+        "core",
+        "nucleus"
+      ],
+      "pt": [
+        "núcleo",
+        "essência"
+      ],
+      "sourceTerm": "kern",
+      "sourceIndex": 325
+    },
+    {
+      "nl": "gevangenis",
+      "en": [
+        "prison",
+        "jail"
+      ],
+      "pt": [
+        "prisão",
+        "cadeia"
+      ],
+      "sourceTerm": "gevangenis",
+      "sourceIndex": 326
+    },
+    {
+      "nl": "slaapkamer",
+      "en": [
+        "bedroom"
+      ],
+      "pt": [
+        "quarto",
+        "quarto de dormir"
+      ],
+      "sourceTerm": "slaapkamer",
+      "sourceIndex": 327
+    },
+    {
+      "nl": "kleren",
+      "en": [
+        "clothes",
+        "clothing"
+      ],
+      "pt": [
+        "roupas",
+        "roupa"
+      ],
+      "sourceTerm": "kleren",
+      "sourceIndex": 328
+    },
+    {
+      "nl": "makkelijk",
+      "en": [
+        "easy"
+      ],
+      "pt": [
+        "fácil"
+      ],
+      "sourceTerm": "makkelijk",
+      "sourceIndex": 329
+    },
+    {
+      "nl": "verbaasd",
+      "en": [
+        "surprised",
+        "amazed"
+      ],
+      "pt": [
+        "surpreso",
+        "surpresa",
+        "espantado"
+      ],
+      "sourceTerm": "verbaasd",
+      "sourceIndex": 330
+    },
+    {
+      "nl": "deken",
+      "en": [
+        "blanket"
+      ],
+      "pt": [
+        "cobertor",
+        "manta"
+      ],
+      "sourceTerm": "deken",
+      "sourceIndex": 331
+    },
+    {
+      "nl": "vreugde",
+      "en": [
+        "joy",
+        "delight"
+      ],
+      "pt": [
+        "alegria"
+      ],
+      "sourceTerm": "vreugde",
+      "sourceIndex": 332
+    },
+    {
+      "nl": "gemak",
+      "en": [
+        "ease",
+        "convenience"
+      ],
+      "pt": [
+        "facilidade",
+        "comodidade"
+      ],
+      "sourceTerm": "gemak",
+      "sourceIndex": 333
+    },
+    {
+      "nl": "kunstenaar",
+      "en": [
+        "artist"
+      ],
+      "pt": [
+        "artista"
+      ],
+      "sourceTerm": "kunstenaar",
+      "sourceIndex": 334
+    },
+    {
+      "nl": "burgemeester",
+      "en": [
+        "mayor"
+      ],
+      "pt": [
+        "prefeito",
+        "prefeita"
+      ],
+      "sourceTerm": "burgemeester",
+      "sourceIndex": 335
+    },
+    {
+      "nl": "verlies",
+      "en": [
+        "loss"
+      ],
+      "pt": [
+        "perda",
+        "prejuízo"
+      ],
+      "sourceTerm": "verlies",
+      "sourceIndex": 336
+    },
+    {
+      "nl": "burgerlijk",
+      "en": [
+        "civil",
+        "bourgeois"
+      ],
+      "pt": [
+        "civil",
+        "burguês"
+      ],
+      "sourceTerm": "burgerlijk",
+      "sourceIndex": 337
+    },
+    {
+      "nl": "lelijk",
+      "en": [
+        "ugly"
+      ],
+      "pt": [
+        "feio",
+        "feia"
+      ],
+      "sourceTerm": "lelijk",
+      "sourceIndex": 338
+    },
+    {
+      "nl": "overig",
+      "en": [
+        "remaining",
+        "other"
+      ],
+      "pt": [
+        "restante",
+        "outro"
+      ],
+      "sourceTerm": "overig",
+      "sourceIndex": 339
+    },
+    {
+      "nl": "bereid",
+      "en": [
+        "willing",
+        "prepared"
+      ],
+      "pt": [
+        "disposto",
+        "disposta",
+        "preparado"
+      ],
+      "sourceTerm": "bereid",
+      "sourceIndex": 340
+    },
+    {
+      "nl": "koningin",
+      "en": [
+        "queen"
+      ],
+      "pt": [
+        "rainha"
+      ],
+      "sourceTerm": "koningin",
+      "sourceIndex": 341
+    },
+    {
+      "nl": "eigenaar",
+      "en": [
+        "owner"
+      ],
+      "pt": [
+        "dono",
+        "dona",
+        "proprietário"
+      ],
+      "sourceTerm": "eigenaar",
+      "sourceIndex": 342
+    },
+    {
+      "nl": "ontmoeting",
+      "en": [
+        "meeting",
+        "encounter"
+      ],
+      "pt": [
+        "encontro"
+      ],
+      "sourceTerm": "ontmoeting",
+      "sourceIndex": 343
+    },
+    {
+      "nl": "verslag",
+      "en": [
+        "report",
+        "account"
+      ],
+      "pt": [
+        "relatório",
+        "relato"
+      ],
+      "sourceTerm": "verslag",
+      "sourceIndex": 344
+    },
+    {
+      "nl": "onverwacht",
+      "en": [
+        "unexpected",
+        "unexpectedly"
+      ],
+      "pt": [
+        "inesperado",
+        "inesperadamente"
+      ],
+      "sourceTerm": "onverwacht",
+      "sourceIndex": 345
+    },
+    {
+      "nl": "personeel",
+      "en": [
+        "staff",
+        "personnel"
+      ],
+      "pt": [
+        "pessoal",
+        "funcionários"
+      ],
+      "sourceTerm": "personeel",
+      "sourceIndex": 346
+    },
+    {
+      "nl": "gezellig",
+      "en": [
+        "cozy",
+        "cosy",
+        "pleasant",
+        "sociable"
+      ],
+      "pt": [
+        "aconchegante",
+        "agradável",
+        "sociável"
+      ],
+      "sourceTerm": "gezellig",
+      "sourceIndex": 347
+    },
+    {
+      "nl": "geheugen",
+      "en": [
+        "memory"
+      ],
+      "pt": [
+        "memória"
+      ],
+      "sourceTerm": "geheugen",
+      "sourceIndex": 348
+    },
+    {
+      "nl": "verdrietig",
+      "en": [
+        "sad"
+      ],
+      "pt": [
+        "triste"
+      ],
+      "sourceTerm": "verdrietig",
+      "sourceIndex": 349
+    },
+    {
+      "nl": "snelheid",
+      "en": [
+        "speed"
+      ],
+      "pt": [
+        "velocidade"
+      ],
+      "sourceTerm": "snelheid",
+      "sourceIndex": 350
+    },
+    {
+      "nl": "gemeen",
+      "en": [
+        "mean",
+        "nasty",
+        "common"
+      ],
+      "pt": [
+        "maldoso",
+        "maldosa",
+        "comum"
+      ],
+      "sourceTerm": "gemeen",
+      "sourceIndex": 351
+    },
+    {
+      "nl": "nuttig",
+      "en": [
+        "useful"
+      ],
+      "pt": [
+        "útil"
+      ],
+      "sourceTerm": "nuttig",
+      "sourceIndex": 352
+    },
+    {
+      "nl": "schade",
+      "en": [
+        "damage",
+        "harm"
+      ],
+      "pt": [
+        "dano",
+        "prejuízo"
+      ],
+      "sourceTerm": "schade",
+      "sourceIndex": 353
+    },
+    {
+      "nl": "kapot",
+      "en": [
+        "broken"
+      ],
+      "pt": [
+        "quebrado",
+        "quebrada"
+      ],
+      "sourceTerm": "kapot",
+      "sourceIndex": 354
+    },
+    {
+      "nl": "bescherming",
+      "en": [
+        "protection"
+      ],
+      "pt": [
+        "proteção"
+      ],
+      "sourceTerm": "bescherming",
+      "sourceIndex": 355
+    },
+    {
+      "nl": "noodzaak",
+      "en": [
+        "necessity",
+        "need"
+      ],
+      "pt": [
+        "necessidade"
+      ],
+      "sourceTerm": "noodzaak",
+      "sourceIndex": 356
+    },
+    {
+      "nl": "jammer",
+      "en": [
+        "a pity",
+        "pity",
+        "a shame"
+      ],
+      "pt": [
+        "pena",
+        "que pena"
+      ],
+      "sourceTerm": "jammer",
+      "sourceIndex": 357
+    },
+    {
+      "nl": "toekomstig",
+      "en": [
+        "future"
+      ],
+      "pt": [
+        "futuro",
+        "futura"
+      ],
+      "sourceTerm": "toekomstig",
+      "sourceIndex": 358
+    },
+    {
+      "nl": "tijdschrift",
+      "en": [
+        "magazine",
+        "journal"
+      ],
+      "pt": [
+        "revista"
+      ],
+      "sourceTerm": "tijdschrift",
+      "sourceIndex": 359
+    },
+    {
+      "nl": "verdieping",
+      "en": [
+        "floor",
+        "storey",
+        "story",
+        "deepening"
+      ],
+      "pt": [
+        "andar",
+        "piso",
+        "aprofundamento"
+      ],
+      "sourceTerm": "verdieping",
+      "sourceIndex": 360
+    },
+    {
+      "nl": "aantrekkelijk",
+      "en": [
+        "attractive"
+      ],
+      "pt": [
+        "atraente"
+      ],
+      "sourceTerm": "aantrekkelijk",
+      "sourceIndex": 361
+    },
+    {
+      "nl": "opvoeding",
+      "en": [
+        "upbringing",
+        "education"
+      ],
+      "pt": [
+        "criação",
+        "educação"
+      ],
+      "sourceTerm": "opvoeding",
+      "sourceIndex": 362
+    },
+    {
+      "nl": "tegenstander",
+      "en": [
+        "opponent",
+        "adversary"
+      ],
+      "pt": [
+        "adversário",
+        "oponente"
+      ],
+      "sourceTerm": "tegenstander",
+      "sourceIndex": 363
+    },
+    {
+      "nl": "verantwoordelijkheid",
+      "en": [
+        "responsibility"
+      ],
+      "pt": [
+        "responsabilidade"
+      ],
+      "sourceTerm": "verantwoordelijkheid",
+      "sourceIndex": 364
+    }
+  ]
+}
