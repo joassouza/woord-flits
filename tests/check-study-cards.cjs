@@ -1,44 +1,50 @@
 const fs=require('fs'),path=require('path'),vm=require('vm'),assert=require('assert');
-const root=path.join(__dirname,'..');
-const html=fs.readFileSync(path.join(root,'cartas.html'),'utf8'),code=html.match(/<script>([\s\S]*?)<\/script>/)[1];
+const root=path.join(__dirname,'..'),html=fs.readFileSync(path.join(root,'cartas.html'),'utf8'),code=html.match(/<script>([\s\S]*?)<\/script>/)[1];
 const decks=Object.fromEntries(['easy','medium','difficult'].map(level=>[level,JSON.parse(fs.readFileSync(path.join(root,'data','collections',level+'.json'),'utf8'))]));
-const key='woord-flits-study-v1';
-async function launch(storage={},failure=false,malformed=false){
- const nodes={};let reloads=0;
- function node(){return {children:[],style:{},attributes:{},hidden:false,disabled:false,value:'',textContent:'',append(...items){this.children.push(...items)},replaceChildren(){this.children=[]},setAttribute(k,v){this.attributes[k]=v},focus(){this.focused=true}};}
- for(const match of html.matchAll(/id="([^"]+)"/g))nodes[match[1]]=node();
- const context={document:{getElementById:id=>nodes[id],createElement:node},window:{location:{reload(){reloads++}}},localStorage:{getItem:k=>storage[k]??null,setItem(k,v){storage[k]=v}},fetch:async url=>{assert(/^data\/collections\/(easy|medium|difficult)\.json$/.test(url));const level=url.match(/\/([^/]+)\.json$/)[1];return {ok:!failure,json:async()=>malformed?{level,words:[{nl:'x',en:[]}]}:decks[level]};}};
- await vm.runInNewContext(code,context);
- return {nodes,storage,get reloads(){return reloads},get state(){return JSON.parse(storage[key])}};
-}
+const key='woord-flits-study-v1';let serial=0;
+function node(){return {children:[],style:{},attributes:{},hidden:false,disabled:false,value:'',textContent:'',append(...items){this.children.push(...items)},replaceChildren(){this.children=[]},setAttribute(k,v){this.attributes[k]=v},focus(){this.focused=true},click(){},addEventListener(k,f){(this.events??={})[k]=f},checkValidity(){return true},reportValidity(){return true}};}
+async function launch(storage={},failure=false,malformed=false,blocked=false){const nodes={};let reloads=0;for(const match of html.matchAll(/id="([^"]+)"/g))nodes[match[1]]=node();const context={document:{getElementById:id=>nodes[id],createElement:node},window:{location:{reload(){reloads++}}},crypto:{randomUUID:()=>`study-attempt-${++serial}`},localStorage:{getItem:k=>storage[k]??null,setItem(k,v){if(blocked)throw Error('quota');storage[k]=v}},fetch:async url=>{assert(/^data\/collections\/(easy|medium|difficult)\.json$/.test(url));const level=url.match(/\/([^/]+)\.json$/)[1];return {ok:!failure,json:async()=>malformed?{level,words:[{nl:'x',en:[]}]}:decks[level]};}};await vm.runInNewContext(code,context);return {nodes,storage,get reloads(){return reloads},get state(){return JSON.parse(storage[key])}};}
+function submit(app,text){app.nodes['study-answer'].value=text;app.nodes['study-answer-form'].onsubmit({preventDefault(){}});}
+function learn(app){const n=app.nodes;assert.equal(n['study-learn'].hidden,false);assert.equal(n['study-test'].hidden,true);for(const card of n['study-cards'].children)if(card.attributes['aria-pressed']==='false')card.onclick();assert.equal(n['study-practice'].disabled,false);n['study-practice'].onclick();assert.equal(app.state.stage,'test');assert.equal(n['study-learn'].hidden,true);assert.equal(n['study-feedback'].textContent,'');}
+function currentWord(app){const s=app.state,index=s.queue[s.answers.length-(s.pending?1:0)];return decks[s.level].words[s.batchIndex*60+index];}
+function mainApp(storage){const source=fs.readFileSync(path.join(root,'index.html'),'utf8'),nodes={};for(const m of source.matchAll(/id="([^"]+)"/g))nodes[m[1]]=node();nodes['dc-size'].value='20';nodes['dc-seconds'].value='5';nodes['dutch-cards'].querySelector=s=>nodes[s.slice(1)];let exported;const context={document:{getElementById:id=>nodes[id],createElement:node},window:{location:{hash:''},addEventListener(){}},localStorage:{getItem:k=>storage[k]??null,setItem:(k,v)=>storage[k]=v,removeItem:k=>delete storage[k]},performance:{now:()=>0},setInterval:()=>1,clearInterval(){},setTimeout:()=>1,clearTimeout(){},crypto:{randomUUID:()=>`trainer-attempt-${++serial}`},Blob,URL:{createObjectURL(blob){exported=blob;return 'blob:test'},revokeObjectURL(){}}};vm.runInNewContext(source.match(/<script>([\s\S]*?)<\/script>/)[1],context);return {nodes,get exported(){return exported}};}
 (async()=>{
- const old={'woord-flits-history-v1':'existing error counts','woord-flits-daily-v1':'existing daily records','woord-flits-days-v1':'existing days','woord-flits-config-v4':'existing timed session'};
- const storage={...old};let app=await launch(storage),n=app.nodes;
- assert.equal(n['study-loading'].hidden,true);assert.equal(n['study-setup'].hidden,false);assert.equal(n['study-batch'].children.length,9);
- assert(html.includes('<a href="cartas.html" aria-current="page">Virar cartas</a>'));
- assert(fs.readFileSync(path.join(root,'index.html'),'utf8').includes('<a href="cartas.html">Virar cartas</a>'));
- for(const [level,data] of Object.entries(decks)){
-  for(let batch=0;batch<Math.ceil(data.words.length/60);batch++){
-   n['study-level'].value=level;n['study-level'].onchange();n['study-batch'].value=String(batch);n['study-batch'].onchange();
-   assert.equal(n['study-batch'].children.length,Math.ceil(data.words.length/60));
-   n['study-start'].onclick();assert.equal(n['study-game'].hidden,false);assert.equal(n['study-setup'].hidden,true);
-   const cards=n['study-cards'].children,expected=data.words.slice(batch*60,batch*60+60);assert.equal(cards.length,expected.length);
-   expected.forEach((w,i)=>{
-    const faces=cards[i].children[0].children;assert.equal(faces[0].children[1].textContent,w.sourceTerm||w.nl);assert.equal(faces[1].children[1].textContent,w.en.filter(v=>!w.en.includes('to '+v)).join(' / '));
-    assert.equal(cards[i].type,'button');assert.equal(cards[i].attributes['aria-pressed'],'false');assert.equal(faces[1].attributes['aria-hidden'],'true');
-    cards[i].onclick();assert.equal(cards[i].attributes['aria-pressed'],'true');assert.equal(faces[0].attributes['aria-hidden'],'true');assert.equal(app.state.seen.length,i+1);
-   });
-   assert.equal(n['study-complete'].hidden,false);assert.equal(app.state.batchIndex,batch);assert.equal(app.state.level,level);assert.equal(app.state.active,true);
-   cards[0].onclick();assert.equal(cards[0].attributes['aria-pressed'],'false');assert.equal(app.state.seen.length,expected.length);
-   // Reopening restores the exact batch and card faces, including short final batches.
-   app=await launch(storage);n=app.nodes;assert.equal(n['study-cards'].children.length,expected.length);assert.equal(n['study-cards'].children[0].attributes['aria-pressed'],'false');if(expected.length>1)assert.equal(n['study-cards'].children[1].attributes['aria-pressed'],'true');
-   // Even an unexpected change event cannot change an active game's level or batch.
-   n['study-level'].value=level==='easy'?'medium':'easy';n['study-level'].onchange();n['study-batch'].value='0';n['study-batch'].onchange();assert.equal(app.state.level,level);assert.equal(app.state.batchIndex,batch);
-   n['study-new'].onclick();assert.equal(app.state.active,false);assert.equal(n['study-setup'].hidden,false);assert.equal(n['study-game'].hidden,true);assert.equal(app.state.batchIndex,(batch+1)%Math.ceil(data.words.length/60));assert.deepEqual(app.state.seen,[]);
+ assert(html.includes('<a href="cartas.html" aria-current="page">Virar cartas</a>'));assert(fs.readFileSync(path.join(root,'index.html'),'utf8').includes('<a href="cartas.html">Virar cartas</a>'));
+ for(const [level,data] of Object.entries(decks))for(let batch=0;batch<Math.ceil(data.words.length/60);batch++){
+  const storage={},app=await launch(storage),n=app.nodes;n['study-level'].value=level;n['study-level'].onchange();n['study-batch'].value=String(batch);n['study-batch'].onchange();n['study-start'].onclick();
+  let first=true,guard=0;const expected=data.words.slice(batch*60,batch*60+60);
+  while(app.state.stage!=='done'){
+   assert(++guard<250);const s=app.state;assert.equal(s.level,level);assert.equal(s.batchIndex,batch);
+   if(s.stage==='learn'){
+    const group=expected.slice(s.group*10,s.group*10+10);assert.equal(n['study-cards'].children.length,group.length);
+    group.forEach((w,i)=>assert.equal(n['study-cards'].children[i].children[0].children[0].children[1].textContent,w.sourceTerm||w.nl));
+    const attemptsBefore=storage['woord-flits-daily-v1'];n['study-practice'].onclick();assert.equal(app.state.stage,'learn');learn(app);assert.equal(storage['woord-flits-daily-v1'],attemptsBefore);
+   }else if(s.stage==='test'){
+    const w=currentWord(app);assert.equal(n['study-question'].textContent,w.sourceTerm||w.nl);assert.equal(n['study-feedback'].textContent,'');
+    if(first){submit(app,'');assert.equal(app.state.attempts.length,0);n['study-skip'].onclick();assert.equal(app.state.answers.at(-1).ok,false);first=false;}else submit(app,w.en[0].toUpperCase()+'.');
+    const attempts=app.state.attempts.length;submit(app,'duplicate');assert.equal(app.state.attempts.length,attempts);assert.equal(n['study-answer'].disabled,true);assert.equal(n['study-question-next'].hidden,false);n['study-question-next'].onclick();
+   }else{assert.equal(s.stage,'result');const wrong=s.answers.filter(a=>!a.ok).map(a=>a.index);n['study-result-next'].onclick();if(wrong.length){assert.deepEqual([...app.state.queue].sort((a,b)=>a-b),wrong.sort((a,b)=>a-b));assert.equal(app.state.reviewing,true);}}
   }
+  assert.equal(n['study-done'].hidden,false);assert.equal(new Set(app.state.attempts.filter(a=>a.ok).map(a=>a.index)).size,expected.length);assert.equal(app.state.attempts.filter(a=>!a.ok).length,1);
+  assert.equal(Object.values(JSON.parse(storage['woord-flits-daily-v1'])).flat().length,expected.length+1);assert.equal(n['study-game'].hidden,false);assert.equal(n['study-setup'].hidden,true);
+  const resumed=await launch(storage);assert.equal(resumed.state.stage,'done');resumed.nodes['study-new'].onclick();assert.equal(resumed.state.active,false);assert.equal(resumed.state.batchIndex,(batch+1)%Math.ceil(data.words.length/60));
  }
- for(const [k,v] of Object.entries(old))assert.equal(storage[k],v);
- for(const saved of ['broken JSON',JSON.stringify({active:true,level:'__proto__',batchIndex:0,flipped:[],seen:[]}),JSON.stringify({active:true,level:'easy',batchIndex:99,flipped:[],seen:[]}),JSON.stringify({active:true,level:'difficult',batchIndex:6,flipped:[59],seen:[59]})]){const bad=await launch({[key]:saved});assert.equal(bad.nodes['study-setup'].hidden,false);assert.equal(bad.nodes['study-level'].value,'easy');}
- for(const options of [[true,false],[false,true]]){const failed=await launch({...old},...options);assert.equal(failed.nodes['study-error'].hidden,false);assert.equal(failed.nodes['study-loading'].hidden,true);failed.nodes['study-reload'].onclick();assert.equal(failed.reloads,1);for(const [k,v] of Object.entries(old))assert.equal(failed.storage[k],v);}
- console.log('PASS: all 21 batches match source/PDF order; 60-card cap and partial batches; flip both ways; fixed batch after completion; new-game selection; reload/resume; invalid saved state and loading failures; existing history untouched; top navigation.');
+ console.log('PASS: all 21 source/PDF batches; groups of 10; answers hidden until submission; English aliases/case/punctuation; no blank or duplicate submissions; wrong-only retries; partial groups; completion never advances to another batch.');
+
+ const legacy={active:true,level:'medium',batchIndex:2,flipped:[0],seen:[0]},storage={[key]:JSON.stringify(legacy),'woord-flits-history-v1':JSON.stringify({entries:{'en:huis':{word:{nl:'huis',en:['house']},wrong:5,correct:2}},importedLastRound:true}),'woord-flits-daily-v1':JSON.stringify({'2026-10-21':[]})};
+ let app=await launch(storage),n=app.nodes;assert.equal(app.nodes['study-count'].textContent,'0 de 60 respondidas corretamente');assert.equal(n['study-cards'].children[0].attributes['aria-pressed'],'true');
+ n['study-cards'].children[1].onclick();app=await launch(storage);assert.equal(app.nodes['study-cards'].children[1].attributes['aria-pressed'],'true');learn(app);submit(app,'bad answer');
+ const attempts=JSON.stringify(JSON.parse(storage['woord-flits-daily-v1']));app=await launch(storage);assert.equal(app.state.pending,true);assert.equal(app.nodes['study-answer'].disabled,true);assert.equal(JSON.stringify(JSON.parse(storage['woord-flits-daily-v1'])),attempts);app.nodes['study-question-next'].onclick();const resumedPrompt=app.nodes['study-question'].textContent;app=await launch(storage);assert.equal(app.nodes['study-question'].textContent,resumedPrompt);assert.equal(app.nodes['study-feedback'].textContent,'');assert.equal(JSON.parse(storage['woord-flits-history-v1']).entries['en:huis'].wrong,5);
+ console.log('PASS: old flip-game migration without awarding answers; learning/test/feedback resume; existing errors preserved; reloading never repeats attempt logging.');
+
+ const shared={},trainer=mainApp(shared),game=await launch(shared);game.nodes['study-start'].onclick();learn(game);const missed=currentWord(game);submit(game,'bad answer');const historyBefore=JSON.parse(shared['woord-flits-history-v1']),wordKey='en:'+missed.nl.toLowerCase();assert.equal(historyBefore.entries[wordKey].wrong,1);
+ trainer.nodes['dc-errors-only'].checked=true;trainer.nodes['dc-errors-only'].events.change();assert.equal(trainer.nodes['dc-word-total'].textContent,1);trainer.nodes['dc-start'].onclick();assert.equal(trainer.nodes['dc-word'].textContent,missed.nl);trainer.nodes['dc-answer'].value=missed.en[0];trainer.nodes['dc-form'].onsubmit({preventDefault(){}});const combined=JSON.parse(shared['woord-flits-history-v1']).entries[wordKey];assert.equal(combined.wrong,1);assert.equal(combined.correct,1);assert.equal(Object.values(JSON.parse(shared['woord-flits-daily-v1'])).flat().length,2);trainer.nodes['dc-export'].onclick();const backup=JSON.parse(await trainer.exported.text());assert.equal(backup.history.entries[wordKey].wrong,1);assert.equal(Object.values(backup.dailyProgress).flat().length,2);
+ const restoredStore={},restoredTrainer=mainApp(restoredStore),serialized=JSON.stringify(backup);restoredTrainer.nodes['dc-import'].files=[{size:serialized.length,text:async()=>serialized}];await restoredTrainer.nodes['dc-import'].onchange();const once=restoredStore['woord-flits-history-v1'];assert.equal(JSON.parse(once).entries[wordKey].wrong,1);assert.equal(JSON.parse(once).entries[wordKey].correct,1);await restoredTrainer.nodes['dc-import'].onchange();assert.equal(restoredStore['woord-flits-history-v1'],once);
+ console.log('PASS: quiz mistakes appear in trainer review and JSON export/import; already-open trainer preserves quiz counts and daily records; repeated backup import is idempotent.');
+
+ for(const bad of ['broken JSON',JSON.stringify({active:true,level:'__proto__',batchIndex:0,flipped:[],seen:[]}),JSON.stringify({...legacy,batchIndex:99}),JSON.stringify({...legacy,level:'difficult',batchIndex:6,flipped:[59],seen:[59]})]){const a=await launch({[key]:bad});assert.equal(a.nodes['study-setup'].hidden,false);assert.equal(a.nodes['study-level'].value,'easy');}
+ for(const options of [[true,false],[false,true]]){const a=await launch({},...options);assert.equal(a.nodes['study-error'].hidden,false);a.nodes['study-reload'].onclick();assert.equal(a.reloads,1);}
+ const corrupt={'woord-flits-history-v1':'corrupt history'};const a=await launch(corrupt);a.nodes['study-start'].onclick();learn(a);submit(a,'wrong');assert.equal(corrupt['woord-flits-history-v1'],'corrupt history');assert(a.nodes['study-storage-status'].textContent.includes('Não foi possível'));assert.equal(a.state.attempts.length,1);
+ const blocked=await launch({},false,false,true);blocked.nodes['study-start'].onclick();assert.equal(blocked.nodes['study-learn'].hidden,false);assert(blocked.nodes['study-storage-status'].textContent.includes('não conseguiu salvar'));
+ console.log('PASS: invalid saved state, bad vocabulary, network errors, corrupt history and blocked storage handled without destroying existing data.');
 })().catch(error=>{console.error(error);process.exitCode=1});
