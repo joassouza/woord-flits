@@ -59,3 +59,23 @@ for(const w of aliases)for(const alias of w.nlAliases){
 }
 assert(collections.find(d=>d.level==='difficult').words.some(w=>w.nl==='kleren'&&w.pt.includes('roupas')));
 console.log('OK: all 1,112 source cards match collection JSON; no training duplicates; four directions; Dutch alternatives accepted; saved selection, error history and study dates preserved.');
+
+// Batch choices restrict the pool before shuffling and survive reload/JSON backup.
+for(const collection of collections)for(let batch=0;batch<Math.ceil(collection.words.length/60);batch++){
+ for(const key of Object.keys(storage))delete storage[key];
+ storage['woord-flits-days-v1']=JSON.stringify({days:source,selectedDays:[collection.id]});
+ let game=launch(),gn=game.nodes;
+ const group=gn['dc-days'].children.find(row=>row.children[1]?.attributes?.['aria-label']==='Lote de '+collection.level);
+ assert(group,'Batch selector for '+collection.level);
+ const choice=group.children[1];choice.value=String(batch);choice.events.change();
+ const expected=new Set(collection.words.slice(batch*60,batch*60+60).map(w=>w.nl.toLowerCase()));assert.equal(gn['dc-word-total'].textContent,expected.size);
+ game=launch();gn=game.nodes;gn['dc-size'].value=1000;gn['dc-start'].onclick();assert.deepEqual(new Set(game.state.batch.map(w=>w.nl.toLowerCase())),expected);assert.equal(game.state.queue.length,0);
+ gn['dc-new'].onclick();gn['dc-export'].onclick();
+}
+console.log('OK: all 21 source batches can be selected in training; pool limited before shuffle; saved batch survives reload.');
+
+(async()=>{
+ const saved=JSON.parse(await exportedBlob.text());assert.equal(saved.collectionBatches['course-difficult'],6);
+ for(const key of Object.keys(storage))delete storage[key];const restored=launch(),json=JSON.stringify(saved);restored.nodes['dc-import'].files=[{size:json.length,text:async()=>json}];await restored.nodes['dc-import'].onchange();assert.equal(restored.nodes['dc-word-total'].textContent,4);restored.nodes['dc-size'].value=60;restored.nodes['dc-start'].onclick();assert.deepEqual(new Set(restored.state.batch.map(w=>w.nl)),new Set(['aantrekkelijk','opvoeding','tegenstander','verantwoordelijkheid']));
+ console.log('OK: batch selection also survives JSON export/import, including the final short batch.');
+})().catch(error=>{console.error(error);process.exitCode=1});
