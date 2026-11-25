@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "source": "Exemplos curtos adaptados dos exercícios enviados pelo usuário.",
+  "examples": [
+    {
+      "nl": "Er zit een kat bij mijn huis.",
+      "pt": "Há um gato sentado perto da minha casa.",
+      "cards": [
+        "easy:1",
+        "easy:14",
+        "easy:27",
+        "easy:55",
+        "easy:71",
+        "easy:303",
+        "medium:7",
+        "medium:12"
+      ]
+    },
+    {
+      "nl": "Ik heb les op maandag en woensdag.",
+      "pt": "Tenho aula na segunda e na quarta.",
+      "cards": [
+        "easy:2"
+      ]
+    },
+    {
+      "nl": "Ik heb een nieuw huis.",
+      "pt": "Tenho uma casa nova.",
+      "cards": [
+        "easy:3",
+        "easy:66"
+      ]
+    },
+    {
+      "nl": "Wat is het probleem?",
+      "pt": "Qual é o problema?",
+      "cards": [
+        "easy:4",
+        "easy:20",
+        "easy:105"
+      ]
+    },
+    {
+      "nl": "Ik werk in een fabriek.",
+      "pt": "Trabalho em uma fábrica.",
+      "cards": [
+        "easy:5",
+        "easy:439"
+      ]
+    },
+    {
+      "nl": "Er is iets te eten.",
+      "pt": "Há algo para comer.",
+      "cards": [
+        "easy:6",
+        "medium:127"
+      ]
+    },
+    {
+      "nl": "Wilt u de kaartjes hebben?",
+      "pt": "Você quer ficar com os ingressos?",
+      "cards": [
+        "easy:8"
+      ]
+    },
+    {
+      "nl": "Ik wil twee examens Engels doen.",
+      "pt": "Quero fazer dois exames de inglês.",
+      "cards": [
+        "easy:58",
+        "easy:268"
+      ]
+    },
+    {
+      "nl": "Hij kookt graag.",
+      "pt": "Ele gosta de cozinhar.",
+      "cards": [
+        "easy:9",
+        "medium:58"
+      ]
+    },
+    {
+      "nl": "Ik kan vandaag niet werken.",
+      "pt": "Não posso trabalhar hoje.",
+      "cards": [
+        "easy:10",
+        "easy:93",
+        "difficult:158"
+      ]
+    },
+    {
+      "nl": "Ik moet iets op de computer doen.",
+      "pt": "Preciso fazer algo no computador.",
+      "cards": [
+        "easy:11",
+        "easy:26",
+        "easy:402"
+      ]
+    },
+    {
+      "nl": "De reden is dat ik ziek ben.",
+      "pt": "O motivo é que estou doente.",
+      "cards": [
+        "easy:12",
+        "easy:137",
+        "easy:481",
+        "difficult:67"
+      ]
+    },
+    {
+      "nl": "Ik koop een cadeau voor mijn docent.",
+      "pt": "Compro um presente para meu professor.",
+      "cards": [
+        "easy:13"
+      ]
+    },
+    {
+      "nl": "Kunt u mij helpen?",
+      "pt": "Você pode me ajudar?",
+      "cards": [
+        "easy:17"
+      ]
+    },
+    {
+      "nl": "Mag ik haar fiets lenen?",
+      "pt": "Posso pegar a bicicleta dela emprestada?",
+      "cards": [
+        "easy:18"
+      ]
+    },
+    {
+      "nl": "Wilt u gas of elektriciteit?",
+      "pt": "Você quer gás ou eletricidade?",
+      "cards": [
+        "easy:19"
+      ]
+    },
+    {
+      "nl": "Ik ga naar de dokter.",
+      "pt": "Vou ao médico.",
+      "cards": [
+        "easy:21",
+        "easy:180",
+        "medium:10"
+      ]
+    },
+    {
+      "nl": "Ik schrijf een brief aan hem.",
+      "pt": "Escrevo uma carta para ele.",
+      "cards": [
+        "easy:22"
+      ]
+    },
+    {
+      "nl": "Wanneer kunt u naar de les komen?",
+      "pt": "Quando você pode vir à aula?",
+      "cards": [
+        "easy:23"
+      ]
+    },
+    {
+      "nl": "Welke kleur heeft deze fiets?",
+      "pt": "Qual é a cor desta bicicleta?",
+      "cards": [
+        "easy:29",
+        "easy:173",
+        "medium:216"
+      ]
+    },
+    {
+      "nl": "Ik wil meer uren werken.",
+      "pt": "Quero trabalhar mais horas.",
+      "cards": [
+        "easy:31"
+      ]
+    },
+    {
+      "nl": "Dit is mijn tekst voor de wijkkrant.",
+      "pt": "Este é meu texto para o jornal do bairro.",
+      "cards": [
+        "easy:32",
+        "easy:273"
+      ]
+    },
+    {
+      "nl": "Ik wil een toets maken.",
+      "pt": "Quero fazer uma prova.",
+      "cards": [
+        "easy:33"
+      ]
+    },
+    {
+      "nl": "Ik moet de hele dag staan.",
+      "pt": "Preciso ficar em pé o dia inteiro.",
+      "cards": [
+        "easy:34",
+        "easy:185"
+      ]
+    },
+    {
+      "nl": "Hoe lang hebt u al pijn?",
+      "pt": "Há quanto tempo você está com dor?",
+      "cards": [
+        "easy:57"
+      ]
+    },
+    {
+      "nl": "De cursus is goed.",
+      "pt": "O curso é bom.",
+      "cards": [
+        "easy:35"
+      ]
+    },
+    {
+      "nl": "Wat wilt u tijdens het feest doen?",
+      "pt": "O que você quer fazer durante a festa?",
+      "cards": [
+        "easy:37"
+      ]
+    },
+    {
+      "nl": "Waar werkt u?",
+      "pt": "Onde você trabalha?",
+      "cards": [
+        "easy:39",
+        "medium:44"
+      ]
+    },
+    {
+      "nl": "Ik heb al twee dagen pijn.",
+      "pt": "Estou com dor há dois dias.",
+      "cards": [
+        "easy:42",
+        "easy:59"
+      ]
+    },
+    {
+      "nl": "Ik denk dat ik morgen beter ben.",
+      "pt": "Acho que amanhã estarei melhor.",
+      "cards": [
+        "easy:44"
+      ]
+    },
+    {
+      "nl": "Wat doet u daar?",
+      "pt": "O que você faz lá?",
+      "cards": [
+        "easy:43"
+      ]
+    },
+    {
+      "nl": "Wilt u geld geven voor het cadeau?",
+      "pt": "Você pode contribuir com dinheiro para o presente?",
+      "cards": [
+        "easy:46",
+        "medium:56"
+      ]
+    },
+    {
+      "nl": "Hoe laat bent u thuis?",
+      "pt": "A que horas você estará em casa?",
+      "cards": [
+        "easy:47",
+        "easy:67",
+        "medium:67"
+      ]
+    },
+    {
+      "nl": "Ik heb nu pijn in mijn rug.",
+      "pt": "Agora estou com dor nas costas.",
+      "cards": [
+        "easy:48",
+        "easy:174"
+      ]
+    },
+    {
+      "nl": "Ik kan mijn sleutels niet vinden.",
+      "pt": "Não consigo encontrar minhas chaves.",
+      "cards": [
+        "easy:49"
+      ]
+    },
+    {
+      "nl": "Kunt u koffie brengen?",
+      "pt": "Você pode trazer café?",
+      "cards": [
+        "easy:62",
+        "easy:221"
+      ]
+    },
+    {
+      "nl": "Wanneer wilt u beginnen met de lessen?",
+      "pt": "Quando você quer começar as aulas?",
+      "cards": [
+        "easy:63",
+        "easy:77"
+      ]
+    },
+    {
+      "nl": "Ik kan mijn zoon niet zelf ophalen.",
+      "pt": "Não posso buscar meu filho pessoalmente.",
+      "cards": [
+        "easy:64",
+        "easy:153"
+      ]
+    },
+    {
+      "nl": "Ja, ik heb al muziekles gehad.",
+      "pt": "Sim, já tive aula de música.",
+      "cards": [
+        "easy:76"
+      ]
+    },
+    {
+      "nl": "Ik heb spullen voor mijn werk.",
+      "pt": "Tenho coisas para o meu trabalho.",
+      "cards": [
+        "easy:79"
+      ]
+    },
+    {
+      "nl": "Ik bel u later.",
+      "pt": "Ligo para você mais tarde.",
+      "cards": [
+        "easy:82",
+        "difficult:184"
+      ]
+    },
+    {
+      "nl": "Ik schrijf minimaal drie zinnen.",
+      "pt": "Escrevo pelo menos três frases.",
+      "cards": [
+        "easy:85"
+      ]
+    },
+    {
+      "nl": "Ik moet soms weg van huis.",
+      "pt": "Às vezes preciso sair de casa.",
+      "cards": [
+        "easy:87",
+        "medium:37"
+      ]
+    },
+    {
+      "nl": "Mijn collega komt om 13.00 uur.",
+      "pt": "Meu colega chega às 13h.",
+      "cards": [
+        "easy:90",
+        "easy:334",
+        "medium:9"
+      ]
+    },
+    {
+      "nl": "Wat is uw naam?",
+      "pt": "Qual é o seu nome?",
+      "cards": [
+        "easy:91"
+      ]
+    },
+    {
+      "nl": "Welk instrument wilt u leren?",
+      "pt": "Qual instrumento você quer aprender?",
+      "cards": [
+        "easy:95",
+        "easy:103",
+        "easy:412",
+        "easy:448"
+      ]
+    },
+    {
+      "nl": "Ik wil een boek voor mijn docent kopen.",
+      "pt": "Quero comprar um livro para meu professor.",
+      "cards": [
+        "easy:96"
+      ]
+    },
+    {
+      "nl": "Nee, ik gebruik geen medicijnen.",
+      "pt": "Não, não uso medicamentos.",
+      "cards": [
+        "easy:99"
+      ]
+    },
+    {
+      "nl": "De school heeft een open dag.",
+      "pt": "A escola tem um dia de portas abertas.",
+      "cards": [
+        "easy:104",
+        "easy:129"
+      ]
+    },
+    {
+      "nl": "Dit is een goed moment.",
+      "pt": "Este é um bom momento.",
+      "cards": [
+        "easy:113"
+      ]
+    },
+    {
+      "nl": "Ik oefen samen met mijn vriend.",
+      "pt": "Pratico junto com meu amigo.",
+      "cards": [
+        "difficult:38"
+      ]
+    },
+    {
+      "nl": "Ik schrijf een e-mail aan mijn vriend.",
+      "pt": "Escrevo um e-mail para meu amigo.",
+      "cards": [
+        "easy:115"
+      ]
+    },
+    {
+      "nl": "Ik had vorige week mijn eerste les.",
+      "pt": "Tive minha primeira aula na semana passada.",
+      "cards": [
+        "easy:116",
+        "difficult:189"
+      ]
+    },
+    {
+      "nl": "Ik heb hulp nodig met mijn huiswerk.",
+      "pt": "Preciso de ajuda com minha lição de casa.",
+      "cards": [
+        "easy:118",
+        "easy:211",
+        "difficult:24"
+      ]
+    },
+    {
+      "nl": "Wat hebben jullie in de les gedaan?",
+      "pt": "O que vocês fizeram na aula?",
+      "cards": [
+        "easy:124"
+      ]
+    },
+    {
+      "nl": "We organiseren een feest op straat.",
+      "pt": "Organizamos uma festa na rua.",
+      "cards": [
+        "easy:147"
+      ]
+    },
+    {
+      "nl": "Die persoon kookt graag.",
+      "pt": "Essa pessoa gosta de cozinhar.",
+      "cards": [
+        "easy:148"
+      ]
+    },
+    {
+      "nl": "Ik wil naar muziek luisteren.",
+      "pt": "Quero ouvir música.",
+      "cards": [
+        "easy:150",
+        "easy:213"
+      ]
+    },
+    {
+      "nl": "Sommige gegevens moet u zelf bedenken.",
+      "pt": "Você precisa inventar alguns dados.",
+      "cards": [
+        "easy:161"
+      ]
+    },
+    {
+      "nl": "De huisarts werkt in een praktijk.",
+      "pt": "O clínico geral atende em um consultório.",
+      "cards": [
+        "easy:242"
+      ]
+    },
+    {
+      "nl": "Ik wil op het feest zingen.",
+      "pt": "Quero cantar na festa.",
+      "cards": [
+        "easy:246"
+      ]
+    },
+    {
+      "nl": "Ik wil beter Nederlands leren.",
+      "pt": "Quero aprender melhor o holandês.",
+      "cards": [
+        "easy:205"
+      ]
+    },
+    {
+      "nl": "Ik wil u beterschap wensen.",
+      "pt": "Quero desejar melhoras a você.",
+      "cards": [
+        "easy:251"
+      ]
+    },
+    {
+      "nl": "Ik vind de natuur mooi.",
+      "pt": "Acho a natureza bonita.",
+      "cards": [
+        "easy:256",
+        "medium:47",
+        "medium:250"
+      ]
+    },
+    {
+      "nl": "Ik ben ziek.",
+      "pt": "Estou doente.",
+      "cards": [
+        "easy:264"
+      ]
+    },
+    {
+      "nl": "Er is een baby geboren.",
+      "pt": "Nasceu um bebê.",
+      "cards": [
+        "easy:275",
+        "easy:285"
+      ]
+    },
+    {
+      "nl": "De arts moet dit formulier invullen.",
+      "pt": "O médico precisa preencher este formulário.",
+      "cards": [
+        "easy:290"
+      ]
+    },
+    {
+      "nl": "Deze opleiding is interessant.",
+      "pt": "Este curso é interessante.",
+      "cards": [
+        "easy:318",
+        "difficult:273"
+      ]
+    },
+    {
+      "nl": "Ik bel mijn baas.",
+      "pt": "Ligo para meu chefe.",
+      "cards": [
+        "easy:321"
+      ]
+    },
+    {
+      "nl": "Mijn wens is een nieuwe woning.",
+      "pt": "Meu desejo é uma casa nova.",
+      "cards": [
+        "easy:329",
+        "medium:170"
+      ]
+    },
+    {
+      "nl": "Wat voor energie wilt u?",
+      "pt": "Que tipo de energia você quer?",
+      "cards": [
+        "easy:347"
+      ]
+    },
+    {
+      "nl": "Ik wil klant worden.",
+      "pt": "Quero me tornar cliente.",
+      "cards": [
+        "easy:370",
+        "medium:209"
+      ]
+    },
+    {
+      "nl": "Wat is uw adres?",
+      "pt": "Qual é o seu endereço?",
+      "cards": [
+        "easy:391"
+      ]
+    },
+    {
+      "nl": "Ik wil een feest organiseren.",
+      "pt": "Quero organizar uma festa.",
+      "cards": [
+        "easy:419",
+        "medium:186"
+      ]
+    },
+    {
+      "nl": "Ik werk in een restaurant.",
+      "pt": "Trabalho em um restaurante.",
+      "cards": [
+        "easy:426"
+      ]
+    },
+    {
+      "nl": "Van wie is deze kat?",
+      "pt": "De quem é este gato?",
+      "cards": [
+        "medium:3"
+      ]
+    },
+    {
+      "nl": "Ik kan niet bij de volgende cursus zijn.",
+      "pt": "Não posso estar no próximo curso.",
+      "cards": [
+        "medium:4"
+      ]
+    },
+    {
+      "nl": "Ik ga met mijn collega naar de stad.",
+      "pt": "Vou à cidade com meu colega.",
+      "cards": [
+        "medium:5"
+      ]
+    },
+    {
+      "nl": "Ik werk als monteur.",
+      "pt": "Trabalho como mecânico.",
+      "cards": [
+        "medium:6"
+      ]
+    },
+    {
+      "nl": "Ik wil werken, maar mijn auto is kapot.",
+      "pt": "Quero trabalhar, mas meu carro está quebrado.",
+      "cards": [
+        "medium:8"
+      ]
+    },
+    {
+      "nl": "Mijn auto is kapot.",
+      "pt": "Meu carro está quebrado.",
+      "cards": [
+        "difficult:354"
+      ]
+    },
+    {
+      "nl": "Tot welke datum kan ik geld geven?",
+      "pt": "Até que data posso contribuir com dinheiro?",
+      "cards": [
+        "medium:14"
+      ]
+    },
+    {
+      "nl": "Ik wens ons een mooie toekomst.",
+      "pt": "Desejo um futuro bonito para nós.",
+      "cards": [
+        "medium:15",
+        "difficult:139"
+      ]
+    },
+    {
+      "nl": "Mijn buurman maakt veel lawaai.",
+      "pt": "Meu vizinho faz muito barulho.",
+      "cards": [
+        "medium:16"
+      ]
+    },
+    {
+      "nl": "Na de lunch ga ik naar de fysiotherapeut.",
+      "pt": "Depois do almoço, vou ao fisioterapeuta.",
+      "cards": [
+        "medium:19"
+      ]
+    },
+    {
+      "nl": "Ik heb geen tijd.",
+      "pt": "Não tenho tempo.",
+      "cards": [
+        "medium:20"
+      ]
+    },
+    {
+      "nl": "Ik heb een vraag over de cursus.",
+      "pt": "Tenho uma pergunta sobre o curso.",
+      "cards": [
+        "medium:33",
+        "difficult:3"
+      ]
+    },
+    {
+      "nl": "Ik schrijf een kort bericht.",
+      "pt": "Escrevo um recado curto.",
+      "cards": [
+        "medium:50"
+      ]
+    },
+    {
+      "nl": "Ik heb een afspraak in de stad.",
+      "pt": "Tenho um compromisso na cidade.",
+      "cards": [
+        "medium:52",
+        "difficult:288"
+      ]
+    },
+    {
+      "nl": "Ik schrijf een brief aan mijn buurman.",
+      "pt": "Escrevo uma carta para meu vizinho.",
+      "cards": [
+        "medium:73"
+      ]
+    },
+    {
+      "nl": "Ik doe een cursus via mijn werk.",
+      "pt": "Faço um curso por meio do meu trabalho.",
+      "cards": [
+        "medium:77"
+      ]
+    },
+    {
+      "nl": "Ik heb een gebroken been.",
+      "pt": "Estou com uma perna quebrada.",
+      "cards": [
+        "medium:79"
+      ]
+    },
+    {
+      "nl": "Ik vind dit dier leuk.",
+      "pt": "Gosto deste animal.",
+      "cards": [
+        "medium:83",
+        "medium:136"
+      ]
+    },
+    {
+      "nl": "Ik wil hulp met de taal.",
+      "pt": "Quero ajuda com o idioma.",
+      "cards": [
+        "medium:98"
+      ]
+    },
+    {
+      "nl": "Vroeger woonde ik in een dorp.",
+      "pt": "Antes, eu morava em uma vila.",
+      "cards": [
+        "medium:105",
+        "difficult:64"
+      ]
+    },
+    {
+      "nl": "Er is een park in mijn buurt.",
+      "pt": "Há um parque no meu bairro.",
+      "cards": [
+        "medium:124"
+      ]
+    },
+    {
+      "nl": "Ik zoek een nieuwe huisarts.",
+      "pt": "Estou procurando um novo clínico geral.",
+      "cards": [
+        "medium:138"
+      ]
+    },
+    {
+      "nl": "Er zit vlees in het eten.",
+      "pt": "A comida contém carne.",
+      "cards": [
+        "medium:150"
+      ]
+    },
+    {
+      "nl": "Ik heb last van het lawaai.",
+      "pt": "O barulho me incomoda.",
+      "cards": [
+        "medium:157"
+      ]
+    },
+    {
+      "nl": "Mijn broek is kapot.",
+      "pt": "Minha calça está rasgada.",
+      "cards": [
+        "medium:180"
+      ]
+    },
+    {
+      "nl": "Ik ben mijn sleutels kwijt.",
+      "pt": "Perdi minhas chaves.",
+      "cards": [
+        "medium:200",
+        "difficult:301"
+      ]
+    },
+    {
+      "nl": "Wat is uw klacht?",
+      "pt": "Qual é a sua queixa?",
+      "cards": [
+        "medium:232"
+      ]
+    },
+    {
+      "nl": "Bedankt voor de doos met keukenspullen.",
+      "pt": "Obrigado pela caixa com utensílios de cozinha.",
+      "cards": [
+        "medium:252"
+      ]
+    },
+    {
+      "nl": "Ik heb niet alles gedaan.",
+      "pt": "Não fiz tudo.",
+      "cards": [
+        "difficult:9"
+      ]
+    },
+    {
+      "nl": "Kan iemand anders vandaag werken?",
+      "pt": "Outra pessoa pode trabalhar hoje?",
+      "cards": [
+        "difficult:11",
+        "difficult:20"
+      ]
+    },
+    {
+      "nl": "Ik ken niemand.",
+      "pt": "Não conheço ninguém.",
+      "cards": [
+        "difficult:35"
+      ]
+    },
+    {
+      "nl": "De school viert verschillende feesten.",
+      "pt": "A escola comemora várias festas.",
+      "cards": [
+        "difficult:42"
+      ]
+    },
+    {
+      "nl": "Iedereen mag iets schrijven.",
+      "pt": "Todos podem escrever alguma coisa.",
+      "cards": [
+        "difficult:46"
+      ]
+    },
+    {
+      "nl": "U kunt bijvoorbeeld zingen of koken.",
+      "pt": "Você pode, por exemplo, cantar ou cozinhar.",
+      "cards": [
+        "difficult:50"
+      ]
+    },
+    {
+      "nl": "Het gebruik van deze app is makkelijk.",
+      "pt": "O uso deste aplicativo é fácil.",
+      "cards": [
+        "difficult:72"
+      ]
+    },
+    {
+      "nl": "Mijn ervaring met deze website is goed.",
+      "pt": "Minha experiência com este site é boa.",
+      "cards": [
+        "difficult:99"
+      ]
+    },
+    {
+      "nl": "Ik wil bij de volgende cursus zijn.",
+      "pt": "Quero participar do próximo curso.",
+      "cards": [
+        "difficult:102"
+      ]
+    },
+    {
+      "nl": "Ik zoek een oplossing voor mijn probleem.",
+      "pt": "Procuro uma solução para meu problema.",
+      "cards": [
+        "difficult:193"
+      ]
+    },
+    {
+      "nl": "Ik werk in de keuken van een restaurant.",
+      "pt": "Trabalho na cozinha de um restaurante.",
+      "cards": [
+        "difficult:198"
+      ]
+    },
+    {
+      "nl": "Ik moet mijn bureau opruimen.",
+      "pt": "Preciso arrumar minha mesa de trabalho.",
+      "cards": [
+        "difficult:206"
+      ]
+    },
+    {
+      "nl": "Mijn vriendin heeft een nieuwe woning.",
+      "pt": "Minha amiga tem uma casa nova.",
+      "cards": [
+        "difficult:234",
+        "difficult:307"
+      ]
+    },
+    {
+      "nl": "Ik werk in een kantoor.",
+      "pt": "Trabalho em um escritório.",
+      "cards": [
+        "difficult:246"
+      ]
+    },
+    {
+      "nl": "Ik had een ongeluk met de auto.",
+      "pt": "Sofri um acidente de carro.",
+      "cards": [
+        "difficult:300"
+      ]
+    },
+    {
+      "nl": "De kat heeft twee kenmerken: klein en wit.",
+      "pt": "O gato tem duas características: pequeno e branco.",
+      "cards": [
+        "difficult:311"
+      ]
+    },
+    {
+      "nl": "Ik voel me niet goed.",
+      "pt": "Não estou me sentindo bem.",
+      "cards": [
+        "easy:68"
+      ]
+    },
+    {
+      "nl": "Ik vertel over mijn vakantie.",
+      "pt": "Conto sobre minhas férias.",
+      "cards": [
+        "easy:83"
+      ]
+    },
+    {
+      "nl": "Ik gebruik deze dingen in de keuken.",
+      "pt": "Uso estas coisas na cozinha.",
+      "cards": [
+        "easy:98"
+      ]
+    },
+    {
+      "nl": "In mijn vrije tijd luister ik naar muziek.",
+      "pt": "No meu tempo livre, ouço música.",
+      "cards": [
+        "easy:125"
+      ]
+    },
+    {
+      "nl": "Wat vindt u van de prijzen?",
+      "pt": "O que você acha dos preços?",
+      "cards": [
+        "easy:240"
+      ]
+    },
+    {
+      "nl": "Ik kan vandaag geen schoenen repareren.",
+      "pt": "Não consigo consertar sapatos hoje.",
+      "cards": [
+        "easy:322"
+      ]
+    },
+    {
+      "nl": "Veel mensen komen naar het feest.",
+      "pt": "Muitas pessoas vêm à festa.",
+      "cards": [
+        "medium:17"
+      ]
+    },
+    {
+      "nl": "Ik zoek een oppas voor mijn kinderen.",
+      "pt": "Procuro alguém para cuidar dos meus filhos.",
+      "cards": [
+        "medium:21"
+      ]
+    },
+    {
+      "nl": "Mijn huis heeft drie kamers.",
+      "pt": "Minha casa tem três cômodos.",
+      "cards": [
+        "difficult:31"
+      ]
+    }
+  ]
+}
