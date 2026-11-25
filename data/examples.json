@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "source": "Exemplos curtos adaptados dos exercícios enviados pelo usuário.",
+  "source": "Exemplos baseados nos exercícios enviados e exemplos novos, identificados com n.",
   "examples": [
     {
       "nl": "Er zit een kat bij mijn huis.",
@@ -984,6 +984,7304 @@
       "cards": [
         "difficult:31"
       ]
+    },
+    {
+      "nl": "Ik lees een boek.",
+      "pt": "Eu leio um livro.",
+      "cards": [
+        "easy:7"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Waar is je jas?",
+      "pt": "Onde está seu casaco?",
+      "cards": [
+        "easy:15"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We zullen morgen samen koken.",
+      "pt": "Vamos cozinhar juntos amanhã.",
+      "cards": [
+        "easy:16"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Eerst eten we, dan gaan we.",
+      "pt": "Primeiro comemos, depois vamos.",
+      "cards": [
+        "easy:24"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Houd je pen zo vast.",
+      "pt": "Segure sua caneta assim.",
+      "cards": [
+        "easy:25"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij werkt in een winkel.",
+      "pt": "Ela trabalha em uma loja.",
+      "cards": [
+        "easy:28"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We gaan naar het park.",
+      "pt": "Nós vamos ao parque.",
+      "cards": [
+        "easy:30"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil een ander boek.",
+      "pt": "Quero outro livro.",
+      "cards": [
+        "easy:36"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kun je me helpen?",
+      "pt": "Você pode me ajudar?",
+      "cards": [
+        "easy:38"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit cadeau is voor mij.",
+      "pt": "Este presente é para mim.",
+      "cards": [
+        "easy:40"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik laat de kinderen spelen.",
+      "pt": "Deixo as crianças brincarem.",
+      "cards": [
+        "easy:41"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Toen woonde ik in Amsterdam.",
+      "pt": "Naquela época, eu morava em Amsterdã.",
+      "cards": [
+        "easy:45"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die man is mijn buurman.",
+      "pt": "Aquele homem é meu vizinho.",
+      "cards": [
+        "easy:50"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een jaar heeft twaalf maanden.",
+      "pt": "Um ano tem doze meses.",
+      "cards": [
+        "easy:51"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Je tas ligt hier.",
+      "pt": "Sua bolsa está aqui.",
+      "cards": [
+        "easy:52"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij eten samen brood.",
+      "pt": "Nós comemos pão juntos.",
+      "cards": [
+        "easy:53"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik houd de tas vast.",
+      "pt": "Eu seguro a bolsa.",
+      "cards": [
+        "easy:54"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Geef me je hand.",
+      "pt": "Me dê sua mão.",
+      "cards": [
+        "easy:56"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Eerst was ik mijn handen.",
+      "pt": "Primeiro lavo as mãos.",
+      "cards": [
+        "easy:60",
+        "easy:89"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet vandaag alleen.",
+      "pt": "Hoje eu como sozinho.",
+      "cards": [
+        "easy:61"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hoor een vogel.",
+      "pt": "Ouço um pássaro.",
+      "cards": [
+        "easy:65"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Is deze plaats vrij?",
+      "pt": "Este lugar está livre?",
+      "cards": [
+        "easy:69"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oma leeft nog.",
+      "pt": "Minha avó ainda está viva.",
+      "cards": [
+        "easy:70"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De bal valt op de grond.",
+      "pt": "A bola cai no chão.",
+      "cards": [
+        "easy:72"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn moeder maakt soep.",
+      "pt": "Minha mãe faz sopa.",
+      "cards": [
+        "easy:73"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Spreek je Nederlands?",
+      "pt": "Você fala holandês?",
+      "cards": [
+        "easy:74"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat betekent dit woord?",
+      "pt": "O que significa esta palavra?",
+      "cards": [
+        "easy:75"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn vader rijdt naar huis.",
+      "pt": "Meu pai dirige para casa.",
+      "cards": [
+        "easy:78"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elk kind krijgt een appel.",
+      "pt": "Cada criança ganha uma maçã.",
+      "cards": [
+        "easy:80"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het station is ver weg.",
+      "pt": "A estação fica longe.",
+      "cards": [
+        "easy:81"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Jij bent vandaag vroeg.",
+      "pt": "Você está adiantado hoje.",
+      "cards": [
+        "easy:84"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze fiets is erg oud.",
+      "pt": "Esta bicicleta é muito velha.",
+      "cards": [
+        "easy:86",
+        "easy:140"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We reizen rond de wereld.",
+      "pt": "Viajamos pelo mundo.",
+      "cards": [
+        "easy:88"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Welke soort thee wil je?",
+      "pt": "Que tipo de chá você quer?",
+      "cards": [
+        "easy:92"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn tas is vol.",
+      "pt": "Minha bolsa está cheia.",
+      "cards": [
+        "easy:94"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe de deur dicht.",
+      "pt": "Feche a porta.",
+      "cards": [
+        "easy:97"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik drink een glas water.",
+      "pt": "Bebo um copo de água.",
+      "cards": [
+        "easy:100"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een feit.",
+      "pt": "Isso é um fato.",
+      "cards": [
+        "easy:101"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wachten op de bus.",
+      "pt": "Esperamos o ônibus.",
+      "cards": [
+        "easy:102"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zijn vijf mensen in onze groep.",
+      "pt": "Há cinco pessoas no nosso grupo.",
+      "cards": [
+        "easy:106"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn hond is nog jong.",
+      "pt": "Meu cachorro ainda é jovem.",
+      "cards": [
+        "easy:107"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De muur is wit.",
+      "pt": "A parede é branca.",
+      "cards": [
+        "easy:108"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik praat langzaam zodat je me begrijpt.",
+      "pt": "Falo devagar para que você me entenda.",
+      "cards": [
+        "easy:109"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen lachen om de grap.",
+      "pt": "As crianças riem da piada.",
+      "cards": [
+        "easy:110"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kat ligt op bed.",
+      "pt": "O gato está deitado na cama.",
+      "cards": [
+        "easy:111"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De winkel is iets verder.",
+      "pt": "A loja fica um pouco mais adiante.",
+      "cards": [
+        "easy:112"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij staat bij de deur.",
+      "pt": "Ele está de pé junto à porta.",
+      "cards": [
+        "easy:114"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is de laatste appel.",
+      "pt": "Esta é a última maçã.",
+      "cards": [
+        "easy:117"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe het licht aan.",
+      "pt": "Acenda a luz.",
+      "cards": [
+        "easy:119"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit water is heel diep.",
+      "pt": "Esta água é muito funda.",
+      "cards": [
+        "easy:120"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is een koude nacht.",
+      "pt": "É uma noite fria.",
+      "cards": [
+        "easy:121"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We lopen langs de rivier.",
+      "pt": "Caminhamos ao longo do rio.",
+      "cards": [
+        "easy:122"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Beide kinderen spelen buiten.",
+      "pt": "As duas crianças brincam lá fora.",
+      "cards": [
+        "easy:123"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb een goed gevoel.",
+      "pt": "Tenho uma boa sensação.",
+      "cards": [
+        "easy:126"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil een half brood.",
+      "pt": "Quero meio pão.",
+      "cards": [
+        "easy:127"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het boek ligt op tafel.",
+      "pt": "O livro está em cima da mesa.",
+      "cards": [
+        "easy:128"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb vier appels.",
+      "pt": "Tenho quatro maçãs.",
+      "cards": [
+        "easy:130"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De plant is dood.",
+      "pt": "A planta está morta.",
+      "cards": [
+        "easy:131",
+        "easy:473"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn broer is heel sociaal.",
+      "pt": "Meu irmão é muito sociável.",
+      "cards": [
+        "easy:132"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit brood is hard.",
+      "pt": "Este pão está duro.",
+      "cards": [
+        "easy:133"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij drinkt een glas wijn.",
+      "pt": "Ela bebe uma taça de vinho.",
+      "cards": [
+        "easy:134"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Volgende maand ga ik op vakantie.",
+      "pt": "No mês que vem, vou sair de férias.",
+      "cards": [
+        "easy:135"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe je mond open.",
+      "pt": "Abra a boca.",
+      "cards": [
+        "easy:136"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn linkervoet doet pijn.",
+      "pt": "Meu pé esquerdo está doendo.",
+      "cards": [
+        "easy:138"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb een goed idee.",
+      "pt": "Tenho uma boa ideia.",
+      "cards": [
+        "easy:139"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Welke rol speel je in de film?",
+      "pt": "Qual papel você faz no filme?",
+      "cards": [
+        "easy:141"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wacht op jou.",
+      "pt": "Estou esperando você.",
+      "cards": [
+        "easy:142"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik weet het antwoord.",
+      "pt": "Sei a resposta.",
+      "cards": [
+        "easy:143"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De baby slaapt in bed.",
+      "pt": "O bebê dorme na cama.",
+      "cards": [
+        "easy:144"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is je plan voor morgen?",
+      "pt": "Qual é seu plano para amanhã?",
+      "cards": [
+        "easy:145"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet meestal thuis.",
+      "pt": "Geralmente como em casa.",
+      "cards": [
+        "easy:146"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De tas hangt over mijn schouder.",
+      "pt": "A bolsa está pendurada no meu ombro.",
+      "cards": [
+        "easy:149"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het weer heeft invloed op mijn werk.",
+      "pt": "O tempo tem influência no meu trabalho.",
+      "cards": [
+        "easy:151"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn hart klopt snel.",
+      "pt": "Meu coração bate rápido.",
+      "cards": [
+        "easy:152"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben bezig met koken.",
+      "pt": "Estou ocupado cozinhando.",
+      "cards": [
+        "easy:154"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn arm doet pijn.",
+      "pt": "Meu braço está doendo.",
+      "cards": [
+        "easy:155"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het boek kost tien euro.",
+      "pt": "O livro custa dez euros.",
+      "cards": [
+        "easy:156"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn schoen zit los.",
+      "pt": "Meu sapato está frouxo.",
+      "cards": [
+        "easy:157"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We hebben vijf stoelen.",
+      "pt": "Temos cinco cadeiras.",
+      "cards": [
+        "easy:158"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wacht nog een minuut.",
+      "pt": "Espere mais um minuto.",
+      "cards": [
+        "easy:159"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij praat met liefde over haar kinderen.",
+      "pt": "Ela fala dos filhos com amor.",
+      "cards": [
+        "easy:160"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ga direct naar huis.",
+      "pt": "Vou direto para casa.",
+      "cards": [
+        "easy:162"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij heeft een relatie met Jan.",
+      "pt": "Ela tem um relacionamento com Jan.",
+      "cards": [
+        "easy:163"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het systeem werkt weer.",
+      "pt": "O sistema está funcionando de novo.",
+      "cards": [
+        "easy:164"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Leren lezen is een langzaam proces.",
+      "pt": "Aprender a ler é um processo lento.",
+      "cards": [
+        "easy:165"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Meen je dat echt?",
+      "pt": "Você está falando sério mesmo?",
+      "cards": [
+        "easy:166"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij woont op de derde verdieping.",
+      "pt": "Ele mora no terceiro andar.",
+      "cards": [
+        "easy:167"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We drinken thee.",
+      "pt": "Nós bebemos chá.",
+      "cards": [
+        "easy:168"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb contact met mijn broer.",
+      "pt": "Tenho contato com meu irmão.",
+      "cards": [
+        "easy:169"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze knop heeft een andere functie.",
+      "pt": "Este botão tem outra função.",
+      "cards": [
+        "easy:170"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De soep is nog warm.",
+      "pt": "A sopa ainda está quente.",
+      "cards": [
+        "easy:171"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wijs met mijn vinger.",
+      "pt": "Aponto com o dedo.",
+      "cards": [
+        "easy:172"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het glas staat op tafel.",
+      "pt": "O copo está em cima da mesa.",
+      "cards": [
+        "easy:175"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees een artikel over sport.",
+      "pt": "Leio um artigo sobre esportes.",
+      "cards": [
+        "easy:176"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is het eind van de straat.",
+      "pt": "Este é o fim da rua.",
+      "cards": [
+        "easy:177"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een persoonlijke vraag.",
+      "pt": "Essa é uma pergunta pessoal.",
+      "cards": [
+        "easy:178"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn nieuwe jas is rood.",
+      "pt": "Meu casaco novo é vermelho.",
+      "cards": [
+        "easy:179"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We zwemmen in de zee.",
+      "pt": "Nadamos no mar.",
+      "cards": [
+        "easy:181"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De boom groeit snel.",
+      "pt": "A árvore cresce rápido.",
+      "cards": [
+        "easy:182"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn handen zijn koud.",
+      "pt": "Minhas mãos estão frias.",
+      "cards": [
+        "easy:183"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij leidt ons naar de kamer.",
+      "pt": "Ela nos conduz até o quarto.",
+      "cards": [
+        "easy:184"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn familie woont in Brazilië.",
+      "pt": "Minha família mora no Brasil.",
+      "cards": [
+        "easy:186"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat was een moeilijke periode.",
+      "pt": "Foi um período difícil.",
+      "cards": [
+        "easy:187"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik woon hier sinds januari.",
+      "pt": "Moro aqui desde janeiro.",
+      "cards": [
+        "easy:188"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het resultaat is goed.",
+      "pt": "O resultado é bom.",
+      "cards": [
+        "easy:189"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Is dat normaal voor een baby?",
+      "pt": "Isso é normal para um bebê?",
+      "cards": [
+        "easy:190"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze tafel is rond.",
+      "pt": "Esta mesa é redonda.",
+      "cards": [
+        "easy:191"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze organisatie helpt arme mensen.",
+      "pt": "Esta organização ajuda pessoas pobres.",
+      "cards": [
+        "easy:192"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vandaag is een speciale dag.",
+      "pt": "Hoje é um dia especial.",
+      "cards": [
+        "easy:193"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De patiënt ligt in bed.",
+      "pt": "O paciente está deitado na cama.",
+      "cards": [
+        "easy:194"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn broer speelt voetbal.",
+      "pt": "Meu irmão joga futebol.",
+      "cards": [
+        "easy:195"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij leveren de tafel morgen.",
+      "pt": "Entregaremos a mesa amanhã.",
+      "cards": [
+        "easy:196"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hoop op goed weer.",
+      "pt": "Espero que faça bom tempo.",
+      "cards": [
+        "easy:197"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het totaal is twintig euro.",
+      "pt": "O total é vinte euros.",
+      "cards": [
+        "easy:198"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zitten zes eieren in de doos.",
+      "pt": "Há seis ovos na caixa.",
+      "cards": [
+        "easy:199"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De lucht is blauw.",
+      "pt": "O céu é azul.",
+      "cards": [
+        "easy:200"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe een stap naar voren.",
+      "pt": "Dê um passo para a frente.",
+      "cards": [
+        "easy:201"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn hond heeft een rustig karakter.",
+      "pt": "Meu cachorro tem um temperamento tranquilo.",
+      "cards": [
+        "easy:202"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De leraar legt de theorie uit.",
+      "pt": "O professor explica a teoria.",
+      "cards": [
+        "easy:203"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit bloed op mijn hand.",
+      "pt": "Há sangue na minha mão.",
+      "cards": [
+        "easy:204"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn dochter gaat naar school.",
+      "pt": "Minha filha vai à escola.",
+      "cards": [
+        "easy:206"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We stappen samen in de trein.",
+      "pt": "Entramos juntos no trem.",
+      "cards": [
+        "easy:207"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb een mooie droom.",
+      "pt": "Tenho um sonho bonito.",
+      "cards": [
+        "easy:208"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De tafel is twee meter lang.",
+      "pt": "A mesa tem dois metros de comprimento.",
+      "cards": [
+        "easy:209"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt een steen op de weg.",
+      "pt": "Há uma pedra na rua.",
+      "cards": [
+        "easy:210"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet de rest morgen.",
+      "pt": "Como o resto amanhã.",
+      "cards": [
+        "easy:212"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We eten een warme maaltijd.",
+      "pt": "Comemos uma refeição quente.",
+      "cards": [
+        "easy:214"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik open het raam.",
+      "pt": "Abro a janela.",
+      "cards": [
+        "easy:215"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik haal geld bij de bank.",
+      "pt": "Saco dinheiro no banco.",
+      "cards": [
+        "easy:216"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik schrijf mijn naam op papier.",
+      "pt": "Escrevo meu nome no papel.",
+      "cards": [
+        "easy:217"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er is nog hoop.",
+      "pt": "Ainda há esperança.",
+      "cards": [
+        "easy:218"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De minister praat op televisie.",
+      "pt": "O ministro fala na televisão.",
+      "cards": [
+        "easy:219"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De wind is koud.",
+      "pt": "O vento está frio.",
+      "cards": [
+        "easy:220"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De bus stopt hier.",
+      "pt": "O ônibus para aqui.",
+      "cards": [
+        "easy:222"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oor doet pijn.",
+      "pt": "Meu ouvido está doendo.",
+      "cards": [
+        "easy:223"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Waar vind ik meer informatie?",
+      "pt": "Onde encontro mais informações?",
+      "cards": [
+        "easy:224"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze methode helpt me leren.",
+      "pt": "Este método me ajuda a aprender.",
+      "cards": [
+        "easy:225"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit suiker op je lip.",
+      "pt": "Tem açúcar no seu lábio.",
+      "cards": [
+        "easy:226"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Verander de positie van de stoel.",
+      "pt": "Mude a posição da cadeira.",
+      "cards": [
+        "easy:227"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Alle kinderen krijgen een boek.",
+      "pt": "Todas as crianças ganham um livro.",
+      "cards": [
+        "easy:228"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die hond is enorm.",
+      "pt": "Aquele cachorro é enorme.",
+      "cards": [
+        "easy:229"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik maak een foto van de kat.",
+      "pt": "Tiro uma foto do gato.",
+      "cards": [
+        "easy:230"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We kijken samen een film.",
+      "pt": "Assistimos a um filme juntos.",
+      "cards": [
+        "easy:231"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zwemmen is een leuke activiteit.",
+      "pt": "Nadar é uma atividade divertida.",
+      "cards": [
+        "easy:232"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wonen in een modern huis.",
+      "pt": "Moramos em uma casa moderna.",
+      "cards": [
+        "easy:233"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb vandaag veel geluk.",
+      "pt": "Hoje tenho muita sorte.",
+      "cards": [
+        "easy:234"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Brood is de basis van deze maaltijd.",
+      "pt": "O pão é a base desta refeição.",
+      "cards": [
+        "easy:235"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn zuster woont in Utrecht.",
+      "pt": "Minha irmã mora em Utrecht.",
+      "cards": [
+        "easy:236"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ben je al wakker?",
+      "pt": "Você já está acordado?",
+      "cards": [
+        "easy:237"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn tante komt op bezoek.",
+      "pt": "Minha tia vem nos visitar.",
+      "cards": [
+        "easy:238"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Blijf uit de buurt van het vuur.",
+      "pt": "Fique longe do fogo.",
+      "cards": [
+        "easy:239"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zijn reactie maakt me blij.",
+      "pt": "A reação dele me deixa feliz.",
+      "cards": [
+        "easy:241"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn neus is koud.",
+      "pt": "Meu nariz está frio.",
+      "cards": [
+        "easy:243"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op dit terrein bouwen we een huis.",
+      "pt": "Vamos construir uma casa neste terreno.",
+      "cards": [
+        "easy:244"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De koning woont in een groot huis.",
+      "pt": "O rei mora em uma casa grande.",
+      "cards": [
+        "easy:245"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De vogel vliegt over het huis.",
+      "pt": "O pássaro voa sobre a casa.",
+      "cards": [
+        "easy:247"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Muziek hoort bij onze cultuur.",
+      "pt": "A música faz parte da nossa cultura.",
+      "cards": [
+        "easy:248"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik mis mijn familie.",
+      "pt": "Sinto falta da minha família.",
+      "cards": [
+        "easy:249"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De politie zoekt de man.",
+      "pt": "A polícia procura o homem.",
+      "cards": [
+        "easy:250"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Geld is een belangrijke factor.",
+      "pt": "O dinheiro é um fator importante.",
+      "cards": [
+        "easy:252"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is het begin van de film.",
+      "pt": "Este é o começo do filme.",
+      "cards": [
+        "easy:253"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Veel succes met je nieuwe baan!",
+      "pt": "Boa sorte no seu novo emprego!",
+      "cards": [
+        "easy:254"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hoeveel kost dit brood?",
+      "pt": "Quanto custa este pão?",
+      "cards": [
+        "easy:255"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We slapen in een hotel.",
+      "pt": "Dormimos em um hotel.",
+      "cards": [
+        "easy:257"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn studie kost veel tijd.",
+      "pt": "Meus estudos tomam muito tempo.",
+      "cards": [
+        "easy:258"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De buurvrouw is altijd vriendelijk.",
+      "pt": "A vizinha é sempre simpática.",
+      "cards": [
+        "easy:259"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Geld is één aspect van het probleem.",
+      "pt": "O dinheiro é um aspecto do problema.",
+      "cards": [
+        "easy:260"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het kind tekent een ronde figuur.",
+      "pt": "A criança desenha uma figura redonda.",
+      "cards": [
+        "easy:261"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ontbreekt een bladzijde in dit boek.",
+      "pt": "Falta uma página neste livro.",
+      "cards": [
+        "easy:262"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Morgen is een nationale feestdag.",
+      "pt": "Amanhã é um feriado nacional.",
+      "cards": [
+        "easy:263"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat betekent deze term?",
+      "pt": "O que significa este termo?",
+      "cards": [
+        "easy:265"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik geef mijn zus een cadeau.",
+      "pt": "Dou um presente para minha irmã.",
+      "cards": [
+        "easy:266"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen rennen naar school.",
+      "pt": "As crianças correm para a escola.",
+      "cards": [
+        "easy:267"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit medicijn heeft geen effect.",
+      "pt": "Este remédio não faz efeito.",
+      "cards": [
+        "easy:269"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De plant heeft water nodig.",
+      "pt": "A planta precisa de água.",
+      "cards": [
+        "easy:270"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit product is voor je haar.",
+      "pt": "Este produto é para o seu cabelo.",
+      "cards": [
+        "easy:271"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb veel slaap nodig.",
+      "pt": "Preciso dormir bastante.",
+      "cards": [
+        "easy:272"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn knie doet pijn.",
+      "pt": "Meu joelho está doendo.",
+      "cards": [
+        "easy:274"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn telefoon ligt op tafel.",
+      "pt": "Meu telefone está em cima da mesa.",
+      "cards": [
+        "easy:276"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen krijgt een individueel gesprek.",
+      "pt": "Cada pessoa terá uma conversa individual.",
+      "cards": [
+        "easy:277"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit boek heeft een duidelijke structuur.",
+      "pt": "Este livro tem uma estrutura clara.",
+      "cards": [
+        "easy:278"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet de helft van de appel.",
+      "pt": "Como metade da maçã.",
+      "cards": [
+        "easy:279"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De trein komt om drie uur.",
+      "pt": "O trem chega às três horas.",
+      "cards": [
+        "easy:280"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze tas is heel praktisch.",
+      "pt": "Esta bolsa é muito prática.",
+      "cards": [
+        "easy:281"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In de zomer zwemmen we vaak.",
+      "pt": "No verão, nadamos com frequência.",
+      "cards": [
+        "easy:282"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ons team wint de wedstrijd.",
+      "pt": "Nosso time vence a partida.",
+      "cards": [
+        "easy:283"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is je conclusie?",
+      "pt": "Qual é a sua conclusão?",
+      "cards": [
+        "easy:284"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij werkt bij een internationaal bedrijf.",
+      "pt": "Ela trabalha em uma empresa internacional.",
+      "cards": [
+        "easy:286"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wonen op een klein eiland.",
+      "pt": "Moramos em uma ilha pequena.",
+      "cards": [
+        "easy:287"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De meester leest een verhaal voor.",
+      "pt": "O professor lê uma história em voz alta.",
+      "cards": [
+        "easy:288"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze schoenen zijn van goede kwaliteit.",
+      "pt": "Estes sapatos são de boa qualidade.",
+      "cards": [
+        "easy:289"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elk individu heeft een eigen mening.",
+      "pt": "Cada indivíduo tem sua própria opinião.",
+      "cards": [
+        "easy:291"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze reis vervult mijn grootste wens.",
+      "pt": "Esta viagem realiza meu maior desejo.",
+      "cards": [
+        "easy:292"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We plaatsen de tafel bij het raam.",
+      "pt": "Colocamos a mesa perto da janela.",
+      "cards": [
+        "easy:293"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We bespreken het plan morgen.",
+      "pt": "Vamos conversar sobre o plano amanhã.",
+      "cards": [
+        "easy:294"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We hebben een discussie over geld.",
+      "pt": "Estamos tendo uma discussão sobre dinheiro.",
+      "cards": [
+        "easy:295"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij rookt een sigaret.",
+      "pt": "Ele fuma um cigarro.",
+      "cards": [
+        "easy:296"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We eten vandaag vis.",
+      "pt": "Hoje comemos peixe.",
+      "cards": [
+        "easy:297"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is absoluut waar.",
+      "pt": "Isso é absolutamente verdade.",
+      "cards": [
+        "easy:298"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We bezoeken een historisch gebouw.",
+      "pt": "Visitamos um prédio histórico.",
+      "cards": [
+        "easy:299"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is je nummer?",
+      "pt": "Qual é seu número?",
+      "cards": [
+        "easy:300"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zit in de schaduw.",
+      "pt": "Estou sentado na sombra.",
+      "cards": [
+        "easy:301"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wie heeft hier de leiding?",
+      "pt": "Quem está no comando aqui?",
+      "cards": [
+        "easy:302"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij studeert aan de universiteit.",
+      "pt": "Ela estuda na universidade.",
+      "cards": [
+        "easy:304"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie mezelf in de spiegel.",
+      "pt": "Eu me vejo no espelho.",
+      "cards": [
+        "easy:305"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We beginnen aan een nieuwe fase.",
+      "pt": "Começamos uma nova fase.",
+      "cards": [
+        "easy:306"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er is een technisch probleem.",
+      "pt": "Há um problema técnico.",
+      "cards": [
+        "easy:307"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zijn antwoord is positief.",
+      "pt": "A resposta dele é positiva.",
+      "cards": [
+        "easy:308"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit programma komt op televisie.",
+      "pt": "Este programa passa na televisão.",
+      "cards": [
+        "easy:309"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij is de leider van onze groep.",
+      "pt": "Ela é a líder do nosso grupo.",
+      "cards": [
+        "easy:310"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De man draagt een wapen.",
+      "pt": "O homem carrega uma arma.",
+      "cards": [
+        "easy:311"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees graag Nederlandse literatuur.",
+      "pt": "Gosto de ler literatura holandesa.",
+      "cards": [
+        "easy:312"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik koop een vers brood.",
+      "pt": "Compro um pão fresco.",
+      "cards": [
+        "easy:313"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij heeft medische hulp nodig.",
+      "pt": "Ele precisa de ajuda médica.",
+      "cards": [
+        "easy:314"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De officier werkt in het leger.",
+      "pt": "O oficial trabalha no exército.",
+      "cards": [
+        "easy:315"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze rivier is heel breed.",
+      "pt": "Este rio é muito largo.",
+      "cards": [
+        "easy:316"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We dansen op het feest.",
+      "pt": "Dançamos na festa.",
+      "cards": [
+        "easy:317"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik koop kaas op de markt.",
+      "pt": "Compro queijo na feira.",
+      "cards": [
+        "easy:319"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een officieel document.",
+      "pt": "Este é um documento oficial.",
+      "cards": [
+        "easy:320"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De boot ligt in het water.",
+      "pt": "O barco está na água.",
+      "cards": [
+        "easy:323"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt water op de vloer.",
+      "pt": "Há água no chão.",
+      "cards": [
+        "easy:324"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik droom over de zee.",
+      "pt": "Sonho com o mar.",
+      "cards": [
+        "easy:325"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In de winter is het koud.",
+      "pt": "No inverno faz frio.",
+      "cards": [
+        "easy:326"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De maan schijnt door het raam.",
+      "pt": "A lua brilha pela janela.",
+      "cards": [
+        "easy:327"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik loop elke dag drie kilometer.",
+      "pt": "Caminho três quilômetros todos os dias.",
+      "cards": [
+        "easy:328"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit huis kost een miljoen euro.",
+      "pt": "Esta casa custa um milhão de euros.",
+      "cards": [
+        "easy:330"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wacht één seconde, alsjeblieft.",
+      "pt": "Espere um segundo, por favor.",
+      "cards": [
+        "easy:331"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij is rijk en heeft drie huizen.",
+      "pt": "Ele é rico e tem três casas.",
+      "cards": [
+        "easy:332"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn vader drinkt een biertje.",
+      "pt": "Meu pai toma uma cervejinha.",
+      "cards": [
+        "easy:333"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is tijd voor actie.",
+      "pt": "É hora de agir.",
+      "cards": [
+        "easy:335"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Veel plezier op het feest!",
+      "pt": "Divirta-se na festa!",
+      "cards": [
+        "easy:336"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij studeert psychologie.",
+      "pt": "Ela estuda psicologia.",
+      "cards": [
+        "easy:337"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze techniek helpt bij het zwemmen.",
+      "pt": "Esta técnica ajuda na natação.",
+      "cards": [
+        "easy:338"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De jongens vechten om de bal.",
+      "pt": "Os meninos brigam pela bola.",
+      "cards": [
+        "easy:339"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het gras is nog nat.",
+      "pt": "A grama ainda está molhada.",
+      "cards": [
+        "easy:340"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit pad gaat naar het strand.",
+      "pt": "Esta trilha leva à praia.",
+      "cards": [
+        "easy:341"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het bedrijf heeft financiële problemen.",
+      "pt": "A empresa tem problemas financeiros.",
+      "cards": [
+        "easy:342"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Muziek beïnvloedt mijn gevoel.",
+      "pt": "A música influencia meus sentimentos.",
+      "cards": [
+        "easy:343"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oma is nog heel actief.",
+      "pt": "Minha avó ainda é muito ativa.",
+      "cards": [
+        "easy:344"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie een ster.",
+      "pt": "Vejo uma estrela.",
+      "cards": [
+        "easy:345"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze machine maakt veel lawaai.",
+      "pt": "Esta máquina faz muito barulho.",
+      "cards": [
+        "easy:346"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij draagt een gouden ring.",
+      "pt": "Ela usa um anel de ouro.",
+      "cards": [
+        "easy:348"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn nek doet pijn.",
+      "pt": "Meu pescoço está doendo.",
+      "cards": [
+        "easy:349"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We rusten even op een bankje.",
+      "pt": "Descansamos um pouco em um banco.",
+      "cards": [
+        "easy:350"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wie is de auteur van dit boek?",
+      "pt": "Quem é o autor deste livro?",
+      "cards": [
+        "easy:351"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik krijg tien procent korting.",
+      "pt": "Recebo dez por cento de desconto.",
+      "cards": [
+        "easy:352"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We bezoeken vandaag een museum.",
+      "pt": "Hoje visitamos um museu.",
+      "cards": [
+        "easy:353"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We realiseren samen dit plan.",
+      "pt": "Realizamos este plano juntos.",
+      "cards": [
+        "easy:354"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dansen is een culturele activiteit.",
+      "pt": "Dançar é uma atividade cultural.",
+      "cards": [
+        "easy:355"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik neem de bus naar school.",
+      "pt": "Pego o ônibus para ir à escola.",
+      "cards": [
+        "easy:356"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De directeur praat met de medewerkers.",
+      "pt": "O diretor conversa com os funcionários.",
+      "cards": [
+        "easy:357"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Welk materiaal gebruik je?",
+      "pt": "Que material você usa?",
+      "cards": [
+        "easy:358"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze fabriek produceert kaas.",
+      "pt": "Esta fábrica produz queijo.",
+      "cards": [
+        "easy:359"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De koe staat in het veld.",
+      "pt": "A vaca está no campo.",
+      "cards": [
+        "easy:360"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze gast blijft hier slapen.",
+      "pt": "Nosso convidado vai dormir aqui.",
+      "cards": [
+        "easy:361"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik betaal het dubbele.",
+      "pt": "Pago o dobro.",
+      "cards": [
+        "easy:362"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit zand in mijn schoenen.",
+      "pt": "Tem areia nos meus sapatos.",
+      "cards": [
+        "easy:363"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wonen in het centrum.",
+      "pt": "Moramos no centro.",
+      "cards": [
+        "easy:364"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De productie van brood begint vroeg.",
+      "pt": "A produção de pão começa cedo.",
+      "cards": [
+        "easy:365"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De zon gaat onder in het westen.",
+      "pt": "O sol se põe no oeste.",
+      "cards": [
+        "easy:366"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zoek een specifiek boek.",
+      "pt": "Estou procurando um livro específico.",
+      "cards": [
+        "easy:367"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kamer blijft lekker koel.",
+      "pt": "O quarto fica bem fresquinho.",
+      "cards": [
+        "easy:368"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik was mijn handen.",
+      "pt": "Lavo as mãos.",
+      "cards": [
+        "easy:369"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik brand mijn tong aan de soep.",
+      "pt": "Queimo a língua com a sopa.",
+      "cards": [
+        "easy:371"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een goed argument.",
+      "pt": "Esse é um bom argumento.",
+      "cards": [
+        "easy:372"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zijn antwoord is negatief.",
+      "pt": "A resposta dele é negativa.",
+      "cards": [
+        "easy:373"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet brood met kaas.",
+      "pt": "Como pão com queijo.",
+      "cards": [
+        "easy:374"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is de titel van dit boek?",
+      "pt": "Qual é o título deste livro?",
+      "cards": [
+        "easy:375"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij heeft een duidelijke visie op onderwijs.",
+      "pt": "Ela tem uma visão clara sobre educação.",
+      "cards": [
+        "easy:376"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn zus heeft een sterke persoonlijkheid.",
+      "pt": "Minha irmã tem uma personalidade forte.",
+      "cards": [
+        "easy:377"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wonen aan de kust.",
+      "pt": "Moramos no litoral.",
+      "cards": [
+        "easy:378"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik dank je voor je hulp.",
+      "pt": "Agradeço pela sua ajuda.",
+      "cards": [
+        "easy:379"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik luister naar de radio.",
+      "pt": "Ouço rádio.",
+      "cards": [
+        "easy:380"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze broek is te wijd.",
+      "pt": "Esta calça é larga demais.",
+      "cards": [
+        "easy:381"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zie je jezelf in de spiegel?",
+      "pt": "Você se vê no espelho?",
+      "cards": [
+        "easy:382"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze boeken interesseren mij.",
+      "pt": "Estes livros me interessam.",
+      "cards": [
+        "easy:383"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik bak de vis in olie.",
+      "pt": "Frito o peixe no óleo.",
+      "cards": [
+        "easy:384"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wil je een kop thee?",
+      "pt": "Você quer uma xícara de chá?",
+      "cards": [
+        "easy:385"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een groot risico.",
+      "pt": "Isso é um grande risco.",
+      "cards": [
+        "easy:386"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De president spreekt op televisie.",
+      "pt": "O presidente fala na televisão.",
+      "cards": [
+        "easy:387"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn fiets is groen.",
+      "pt": "Minha bicicleta é verde.",
+      "cards": [
+        "easy:388"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb honger.",
+      "pt": "Estou com fome.",
+      "cards": [
+        "easy:389"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We eten een traditioneel gerecht.",
+      "pt": "Comemos um prato tradicional.",
+      "cards": [
+        "easy:390"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen doen een experiment met water.",
+      "pt": "As crianças fazem um experimento com água.",
+      "cards": [
+        "easy:392"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Water is fundamenteel voor het leven.",
+      "pt": "A água é fundamental para a vida.",
+      "cards": [
+        "easy:393"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mag ik je advies vragen?",
+      "pt": "Posso pedir um conselho a você?",
+      "cards": [
+        "easy:394"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kat klimt in de boom.",
+      "pt": "O gato sobe na árvore.",
+      "cards": [
+        "easy:395"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een typisch Nederlands gerecht.",
+      "pt": "Este é um prato tipicamente holandês.",
+      "cards": [
+        "easy:396"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hou van jouw stijl.",
+      "pt": "Gosto do seu estilo.",
+      "cards": [
+        "easy:397"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We staan op de top.",
+      "pt": "Estamos no topo.",
+      "cards": [
+        "easy:398"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit feest is een oude traditie.",
+      "pt": "Esta festa é uma tradição antiga.",
+      "cards": [
+        "easy:399"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Pas op, de thee is heet.",
+      "pt": "Cuidado, o chá está quente.",
+      "cards": [
+        "easy:400"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij heeft psychologische hulp nodig.",
+      "pt": "Ela precisa de ajuda psicológica.",
+      "cards": [
+        "easy:401"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elke generatie heeft andere dromen.",
+      "pt": "Cada geração tem sonhos diferentes.",
+      "cards": [
+        "easy:403"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt zand op de bodem.",
+      "pt": "Há areia no fundo.",
+      "cards": [
+        "easy:404"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze student woont bij zijn ouders.",
+      "pt": "Este estudante mora com os pais.",
+      "cards": [
+        "easy:405"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit huis is relatief goedkoop.",
+      "pt": "Esta casa é relativamente barata.",
+      "cards": [
+        "easy:406"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In welke categorie hoort dit boek?",
+      "pt": "Em qual categoria este livro se encaixa?",
+      "cards": [
+        "easy:407"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Blijf kalm en adem rustig.",
+      "pt": "Fique calmo e respire tranquilamente.",
+      "cards": [
+        "easy:408"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De film eindigt om tien uur.",
+      "pt": "O filme termina às dez horas.",
+      "cards": [
+        "easy:409"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De goederen zitten in grote dozen.",
+      "pt": "As mercadorias estão em caixas grandes.",
+      "cards": [
+        "easy:410"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kun je de vraag anders formuleren?",
+      "pt": "Você pode formular a pergunta de outro jeito?",
+      "cards": [
+        "easy:411"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zitten twintig kinderen in mijn klas.",
+      "pt": "Há vinte crianças na minha turma.",
+      "cards": [
+        "easy:413",
+        "easy:472"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Brood met kaas is een lekkere combinatie.",
+      "pt": "Pão com queijo é uma combinação gostosa.",
+      "cards": [
+        "easy:414"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij publiceert een nieuw boek.",
+      "pt": "Ela publica um livro novo.",
+      "cards": [
+        "easy:415"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het landschap is hier heel mooi.",
+      "pt": "A paisagem aqui é muito bonita.",
+      "cards": [
+        "easy:416"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik geniet van de warmte.",
+      "pt": "Aproveito o calor.",
+      "cards": [
+        "easy:417"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen kijken televisie.",
+      "pt": "As crianças assistem à televisão.",
+      "cards": [
+        "easy:418"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik teken een patroon van kleine cirkels.",
+      "pt": "Desenho um padrão de pequenos círculos.",
+      "cards": [
+        "easy:420"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De agent helpt het kind.",
+      "pt": "O policial ajuda a criança.",
+      "cards": [
+        "easy:421"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Angst is een sterke emotie.",
+      "pt": "O medo é uma emoção forte.",
+      "cards": [
+        "easy:422"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het hart is een belangrijk orgaan.",
+      "pt": "O coração é um órgão importante.",
+      "cards": [
+        "easy:423"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In welke provincie woon je?",
+      "pt": "Em qual província você mora?",
+      "cards": [
+        "easy:424"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie elk klein detail.",
+      "pt": "Vejo cada pequeno detalhe.",
+      "cards": [
+        "easy:425"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een wild dier.",
+      "pt": "Este é um animal selvagem.",
+      "cards": [
+        "easy:427"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die wond is erg pijnlijk.",
+      "pt": "Aquela ferida é muito dolorosa.",
+      "cards": [
+        "easy:428"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wacht op het station.",
+      "pt": "Espero na estação.",
+      "cards": [
+        "easy:429"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn moeder houdt van klassieke muziek.",
+      "pt": "Minha mãe gosta de música clássica.",
+      "cards": [
+        "easy:430"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij werkt in de medische sector.",
+      "pt": "Ela trabalha no setor médico.",
+      "cards": [
+        "easy:431"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De weg lijkt eindeloos.",
+      "pt": "A estrada parece não ter fim.",
+      "cards": [
+        "easy:432"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij wordt emotioneel bij deze film.",
+      "pt": "Ele fica emocionado com este filme.",
+      "cards": [
+        "easy:433"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik studeer Nederlands.",
+      "pt": "Estudo holandês.",
+      "cards": [
+        "easy:434",
+        "easy:475"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een hart is een symbool van liefde.",
+      "pt": "Um coração é um símbolo de amor.",
+      "cards": [
+        "easy:435"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De luitenant praat met de soldaten.",
+      "pt": "O tenente conversa com os soldados.",
+      "cards": [
+        "easy:436"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We passeren een kleine kerk.",
+      "pt": "Passamos por uma igreja pequena.",
+      "cards": [
+        "easy:437"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is je motief?",
+      "pt": "Qual é o seu motivo?",
+      "cards": [
+        "easy:438"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn naam staat op de lijst.",
+      "pt": "Meu nome está na lista.",
+      "cards": [
+        "easy:440"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij kijkt heel serieus.",
+      "pt": "Ele está com uma expressão muito séria.",
+      "cards": [
+        "easy:441"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een logische vraag.",
+      "pt": "Essa é uma pergunta lógica.",
+      "cards": [
+        "easy:442"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mama maakt het eten klaar.",
+      "pt": "Mamãe prepara a comida.",
+      "cards": [
+        "easy:443"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De muis vlucht voor de kat.",
+      "pt": "O rato foge do gato.",
+      "cards": [
+        "easy:444"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We rijden naar het noorden.",
+      "pt": "Dirigimos rumo ao norte.",
+      "cards": [
+        "easy:445"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De hond bijt in de bal.",
+      "pt": "O cachorro morde a bola.",
+      "cards": [
+        "easy:446"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De vorming van ijs kost tijd.",
+      "pt": "A formação do gelo leva tempo.",
+      "cards": [
+        "easy:447"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We drinken koffie in het café.",
+      "pt": "Tomamos café na cafeteria.",
+      "cards": [
+        "easy:449"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Raak dit object niet aan.",
+      "pt": "Não toque neste objeto.",
+      "cards": [
+        "easy:450"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij woont in Holland.",
+      "pt": "Ela mora na Holanda.",
+      "cards": [
+        "easy:451"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen slapen in het kamp.",
+      "pt": "As crianças dormem no acampamento.",
+      "cards": [
+        "easy:452"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit boek is heel dun.",
+      "pt": "Este livro é muito fino.",
+      "cards": [
+        "easy:453"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze dag is ideaal.",
+      "pt": "Este dia é ideal.",
+      "cards": [
+        "easy:454"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In juni gaan we op vakantie.",
+      "pt": "Em junho, vamos sair de férias.",
+      "cards": [
+        "easy:455"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik accepteer je hulp.",
+      "pt": "Aceito sua ajuda.",
+      "cards": [
+        "easy:456"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wie neemt het initiatief?",
+      "pt": "Quem toma a iniciativa?",
+      "cards": [
+        "easy:457"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze koffie smaakt bitter.",
+      "pt": "Este café está com gosto amargo.",
+      "cards": [
+        "easy:458"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We verspreiden de folders in de buurt.",
+      "pt": "Distribuímos os folhetos pelo bairro.",
+      "cards": [
+        "easy:459"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn ouders verbieden mij te roken.",
+      "pt": "Meus pais me proíbem de fumar.",
+      "cards": [
+        "easy:460"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elke keuze heeft een consequentie.",
+      "pt": "Cada escolha tem uma consequência.",
+      "cards": [
+        "easy:461"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In oktober vallen de bladeren.",
+      "pt": "Em outubro, as folhas caem.",
+      "cards": [
+        "easy:462"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij luisteren graag naar westerse muziek.",
+      "pt": "Gostamos de ouvir música ocidental.",
+      "cards": [
+        "easy:463"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die jongeman helpt mijn oma.",
+      "pt": "Aquele rapaz ajuda minha avó.",
+      "cards": [
+        "easy:464"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij draagt een zwarte hoed.",
+      "pt": "Ele usa um chapéu preto.",
+      "cards": [
+        "easy:465"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De radio zendt elk uur nieuws uit.",
+      "pt": "A rádio transmite notícias a cada hora.",
+      "cards": [
+        "easy:466"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op zondag slapen we lang.",
+      "pt": "Aos domingos, dormimos até tarde.",
+      "cards": [
+        "easy:467"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een theoretische vraag.",
+      "pt": "Essa é uma pergunta teórica.",
+      "cards": [
+        "easy:468"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik praat met een psycholoog.",
+      "pt": "Converso com um psicólogo.",
+      "cards": [
+        "easy:469"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De president praat met de pers.",
+      "pt": "O presidente conversa com a imprensa.",
+      "cards": [
+        "easy:470"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We zitten op het terras.",
+      "pt": "Estamos sentados no terraço.",
+      "cards": [
+        "easy:471"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het bedrijf zit in een crisis.",
+      "pt": "A empresa está em crise.",
+      "cards": [
+        "easy:474"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De suiker zit in een pot.",
+      "pt": "O açúcar está em um pote.",
+      "cards": [
+        "easy:476"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De operatie duurt twee uur.",
+      "pt": "A cirurgia dura duas horas.",
+      "cards": [
+        "easy:477"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn partner kookt vandaag.",
+      "pt": "Meu parceiro cozinha hoje.",
+      "cards": [
+        "easy:478"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wil je suiker in je thee?",
+      "pt": "Você quer açúcar no chá?",
+      "cards": [
+        "easy:479"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe niet zo gemeen tegen je zus.",
+      "pt": "Não seja tão maldoso com sua irmã.",
+      "cards": [
+        "easy:480"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn vader luistert naar een oude plaat.",
+      "pt": "Meu pai ouve um disco antigo.",
+      "cards": [
+        "easy:482"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn nek is stijf.",
+      "pt": "Meu pescoço está duro.",
+      "cards": [
+        "easy:483"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De economie groeit dit jaar.",
+      "pt": "A economia cresce este ano.",
+      "cards": [
+        "easy:484"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn schoenen zijn bruin.",
+      "pt": "Meus sapatos são marrons.",
+      "cards": [
+        "easy:485"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen spelen in de sneeuw.",
+      "pt": "As crianças brincam na neve.",
+      "cards": [
+        "easy:486"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er hangt een kruis aan de muur.",
+      "pt": "Há uma cruz pendurada na parede.",
+      "cards": [
+        "easy:487"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze deur gaat automatisch open.",
+      "pt": "Esta porta abre automaticamente.",
+      "cards": [
+        "easy:488"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We werken samen aan een project.",
+      "pt": "Trabalhamos juntos em um projeto.",
+      "cards": [
+        "easy:489"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We slapen in een kleine hut.",
+      "pt": "Dormimos em uma cabana pequena.",
+      "cards": [
+        "easy:490"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet elke dag fruit.",
+      "pt": "Como frutas todos os dias.",
+      "cards": [
+        "easy:491"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Goede communicatie maakt ons werk makkelijker.",
+      "pt": "Uma boa comunicação facilita nosso trabalho.",
+      "cards": [
+        "easy:492"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat was een domme fout.",
+      "pt": "Foi um erro bobo.",
+      "cards": [
+        "easy:493"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De boom staat naast ons huis.",
+      "pt": "A árvore fica ao lado da nossa casa.",
+      "cards": [
+        "medium:1",
+        "medium:104"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De stoel staat bij de tafel.",
+      "pt": "A cadeira fica perto da mesa.",
+      "cards": [
+        "medium:2",
+        "medium:101"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn broer komt ook mee.",
+      "pt": "Meu irmão também vem junto.",
+      "cards": [
+        "medium:11"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn zus slaapt nog.",
+      "pt": "Minha irmã ainda está dormindo.",
+      "cards": [
+        "medium:13"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het regent, maar we gaan toch.",
+      "pt": "Está chovendo, mas vamos mesmo assim.",
+      "cards": [
+        "medium:18"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die vrouw is mijn moeder.",
+      "pt": "Aquela mulher é minha mãe.",
+      "cards": [
+        "medium:22"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit zand in mijn oog.",
+      "pt": "Tem areia no meu olho.",
+      "cards": [
+        "medium:23"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het regent, dus ik blijf thuis.",
+      "pt": "Está chovendo, então fico em casa.",
+      "cards": [
+        "medium:24"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het water is heel koud.",
+      "pt": "A água está muito fria.",
+      "cards": [
+        "medium:25"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wacht even op mij.",
+      "pt": "Espere um momento por mim.",
+      "cards": [
+        "medium:26"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zelfs de baby lacht.",
+      "pt": "Até o bebê está rindo.",
+      "cards": [
+        "medium:27"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elk kind krijgt een appel.",
+      "pt": "Cada criança ganha uma maçã.",
+      "cards": [
+        "medium:28"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het station is ver weg.",
+      "pt": "A estação fica longe.",
+      "cards": [
+        "medium:29"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik draag een hoed op mijn hoofd.",
+      "pt": "Uso um chapéu na cabeça.",
+      "cards": [
+        "medium:30"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De dokter is zeer vriendelijk.",
+      "pt": "O médico é muito simpático.",
+      "cards": [
+        "medium:31"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik koop een paar appels.",
+      "pt": "Compro algumas maçãs.",
+      "cards": [
+        "medium:32"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij eten vaak samen.",
+      "pt": "Comemos juntos com frequência.",
+      "cards": [
+        "medium:34"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zwem twee keer per week.",
+      "pt": "Nado duas vezes por semana.",
+      "cards": [
+        "medium:35"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Eerst eten we, daarna spelen we.",
+      "pt": "Primeiro comemos, depois brincamos.",
+      "cards": [
+        "medium:36"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oom heeft een eigen zaak.",
+      "pt": "Meu tio tem um negócio próprio.",
+      "cards": [
+        "medium:38"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben net thuis.",
+      "pt": "Acabei de chegar em casa.",
+      "cards": [
+        "medium:39"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ga er morgen heen.",
+      "pt": "Vou para lá amanhã.",
+      "cards": [
+        "medium:40"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De berg is heel hoog.",
+      "pt": "A montanha é muito alta.",
+      "cards": [
+        "medium:41"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Je antwoord is juist.",
+      "pt": "Sua resposta está correta.",
+      "cards": [
+        "medium:42"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn broer is erg sterk.",
+      "pt": "Meu irmão é muito forte.",
+      "cards": [
+        "medium:43"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees het eerste deel.",
+      "pt": "Leio a primeira parte.",
+      "cards": [
+        "medium:45"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die trein rijdt heel snel.",
+      "pt": "Aquele trem anda muito rápido.",
+      "cards": [
+        "medium:46"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een feit.",
+      "pt": "Isso é um fato.",
+      "cards": [
+        "medium:48"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Schrijf een korte zin.",
+      "pt": "Escreva uma frase curta.",
+      "cards": [
+        "medium:49"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Houd de tas goed vast.",
+      "pt": "Segure a bolsa com firmeza.",
+      "cards": [
+        "medium:51"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik sta elke dag vroeg op.",
+      "pt": "Levanto cedo todos os dias.",
+      "cards": [
+        "medium:53"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hoor de stem van mijn moeder.",
+      "pt": "Ouço a voz da minha mãe.",
+      "cards": [
+        "medium:54"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Loop aan deze kant van de weg.",
+      "pt": "Ande deste lado da rua.",
+      "cards": [
+        "medium:55"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wil je een stuk taart?",
+      "pt": "Você quer um pedaço de torta?",
+      "cards": [
+        "medium:57"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat doe je nou?",
+      "pt": "O que você está fazendo agora?",
+      "cards": [
+        "medium:59"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De winkel opent pas om tien uur.",
+      "pt": "A loja só abre às dez horas.",
+      "cards": [
+        "medium:60"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze straat is lang en recht.",
+      "pt": "Esta rua é longa e reta.",
+      "cards": [
+        "medium:61"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze tas is erg zwaar.",
+      "pt": "Esta bolsa está muito pesada.",
+      "cards": [
+        "medium:62"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben lid van een sportclub.",
+      "pt": "Sou membro de um clube esportivo.",
+      "cards": [
+        "medium:63"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een eeuw duurt honderd jaar.",
+      "pt": "Um século dura cem anos.",
+      "cards": [
+        "medium:64"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe je mond open.",
+      "pt": "Abra a boca.",
+      "cards": [
+        "medium:65"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik probeer het opnieuw.",
+      "pt": "Tento de novo.",
+      "cards": [
+        "medium:66"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb geen kracht meer.",
+      "pt": "Não tenho mais força.",
+      "cards": [
+        "medium:68"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ben je ooit in Nederland geweest?",
+      "pt": "Você já esteve na Holanda alguma vez?",
+      "cards": [
+        "medium:69"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kerk staat naast het plein.",
+      "pt": "A igreja fica ao lado da praça.",
+      "cards": [
+        "medium:70"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik koop een blik soep.",
+      "pt": "Compro uma lata de sopa.",
+      "cards": [
+        "medium:71"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen krijgt een tweede kans.",
+      "pt": "Todo mundo recebe uma segunda chance.",
+      "cards": [
+        "medium:72"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op het plein staat een beeld.",
+      "pt": "Há uma estátua na praça.",
+      "cards": [
+        "medium:74"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit kussen is lekker zacht.",
+      "pt": "Esta almofada é bem macia.",
+      "cards": [
+        "medium:75"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De koning heeft veel macht.",
+      "pt": "O rei tem muito poder.",
+      "cards": [
+        "medium:76"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Je jas hangt in de gang.",
+      "pt": "Seu casaco está pendurado no corredor.",
+      "cards": [
+        "medium:78"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik slaap slecht door het lawaai.",
+      "pt": "Durmo mal por causa do barulho.",
+      "cards": [
+        "medium:80"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze wet is nieuw.",
+      "pt": "Esta lei é nova.",
+      "cards": [
+        "medium:81"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben bang voor honden.",
+      "pt": "Tenho medo de cachorros.",
+      "cards": [
+        "medium:82"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ga naar buiten voor frisse lucht.",
+      "pt": "Vou sair para tomar um ar fresco.",
+      "cards": [
+        "medium:84"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn rug doet pijn.",
+      "pt": "Minhas costas estão doendo.",
+      "cards": [
+        "medium:85"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het kind huilt van angst.",
+      "pt": "A criança chora de medo.",
+      "cards": [
+        "medium:86"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De tafel is te laag.",
+      "pt": "A mesa é baixa demais.",
+      "cards": [
+        "medium:87"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe het raam open.",
+      "pt": "Abra a janela.",
+      "cards": [
+        "medium:88"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De hond speelt met een bal.",
+      "pt": "O cachorro brinca com uma bola.",
+      "cards": [
+        "medium:89"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is stil in de klas.",
+      "pt": "Está silencioso na sala de aula.",
+      "cards": [
+        "medium:90"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn doel is Nederlands leren.",
+      "pt": "Meu objetivo é aprender holandês.",
+      "cards": [
+        "medium:91"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn dienst begint om acht uur.",
+      "pt": "Meu turno começa às oito horas.",
+      "cards": [
+        "medium:92"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn nieuwe jas is zwart.",
+      "pt": "Meu casaco novo é preto.",
+      "cards": [
+        "medium:93"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Meen je dat echt?",
+      "pt": "Você está mesmo falando sério?",
+      "cards": [
+        "medium:94"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit boek is erg dik.",
+      "pt": "Este livro é muito grosso.",
+      "cards": [
+        "medium:95"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het paard eet gras.",
+      "pt": "O cavalo come grama.",
+      "cards": [
+        "medium:96"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hoor een vreemd geluid.",
+      "pt": "Ouço um barulho estranho.",
+      "cards": [
+        "medium:97"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het volk kiest een nieuwe leider.",
+      "pt": "O povo escolhe um novo líder.",
+      "cards": [
+        "medium:99"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit aarde aan mijn schoenen.",
+      "pt": "Tem terra nos meus sapatos.",
+      "cards": [
+        "medium:100"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De klok hangt aan de muur.",
+      "pt": "O relógio está pendurado na parede.",
+      "cards": [
+        "medium:102"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn vader geeft me goede raad.",
+      "pt": "Meu pai me dá bons conselhos.",
+      "cards": [
+        "medium:103"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze straat is heel breed.",
+      "pt": "Esta rua é muito larga.",
+      "cards": [
+        "medium:106"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn glas is leeg.",
+      "pt": "Meu copo está vazio.",
+      "cards": [
+        "medium:107"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oma is lief.",
+      "pt": "Minha avó é carinhosa.",
+      "cards": [
+        "medium:108"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het eten is klaar.",
+      "pt": "A comida está pronta.",
+      "cards": [
+        "medium:109"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oma heeft veel zorg nodig.",
+      "pt": "Minha avó precisa de muitos cuidados.",
+      "cards": [
+        "medium:110"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Tot gauw, we zien elkaar morgen!",
+      "pt": "Até logo, a gente se vê amanhã!",
+      "cards": [
+        "medium:111"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik loop de trap op.",
+      "pt": "Subo a escada.",
+      "cards": [
+        "medium:112"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een gek idee.",
+      "pt": "Essa é uma ideia maluca.",
+      "cards": [
+        "medium:113"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er valt een blad van de boom.",
+      "pt": "Uma folha cai da árvore.",
+      "cards": [
+        "medium:114"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wil je een spel spelen?",
+      "pt": "Você quer jogar um jogo?",
+      "cards": [
+        "medium:115"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn sleutels zitten in mijn zak.",
+      "pt": "Minhas chaves estão no meu bolso.",
+      "cards": [
+        "medium:116"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij legt zijn hand op zijn borst.",
+      "pt": "Ele põe a mão no peito.",
+      "cards": [
+        "medium:117"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er is nog hoop.",
+      "pt": "Ainda há esperança.",
+      "cards": [
+        "medium:118"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er staat een fles water op tafel.",
+      "pt": "Tem uma garrafa de água na mesa.",
+      "cards": [
+        "medium:119"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We rijden over de grens.",
+      "pt": "Atravessamos a fronteira de carro.",
+      "cards": [
+        "medium:120"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De winkel is om de hoek.",
+      "pt": "A loja fica na esquina.",
+      "cards": [
+        "medium:121"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oom is de broer van papa.",
+      "pt": "Meu tio é o irmão do papai.",
+      "cards": [
+        "medium:122"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het land is hier vlak.",
+      "pt": "O terreno aqui é plano.",
+      "cards": [
+        "medium:123"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ons nieuwe huis is ruim.",
+      "pt": "Nossa casa nova é espaçosa.",
+      "cards": [
+        "medium:125"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben blij met je cadeau.",
+      "pt": "Estou feliz com seu presente.",
+      "cards": [
+        "medium:126"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt stof op de kast.",
+      "pt": "Tem poeira em cima do armário.",
+      "cards": [
+        "medium:128"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit een gat in mijn sok.",
+      "pt": "Tem um buraco na minha meia.",
+      "cards": [
+        "medium:129"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De boer zorgt voor zijn koeien.",
+      "pt": "O fazendeiro cuida das suas vacas.",
+      "cards": [
+        "medium:130"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze reis duurt drie dagen.",
+      "pt": "Nossa viagem dura três dias.",
+      "cards": [
+        "medium:131"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb het druk op mijn werk.",
+      "pt": "Estou muito ocupado no trabalho.",
+      "cards": [
+        "medium:132",
+        "medium:133"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kom vlug, de bus vertrekt!",
+      "pt": "Venha rápido, o ônibus está saindo!",
+      "cards": [
+        "medium:134"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is niet jouw schuld.",
+      "pt": "A culpa não é sua.",
+      "cards": [
+        "medium:135"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er staat een bloem in de vaas.",
+      "pt": "Tem uma flor no vaso.",
+      "cards": [
+        "medium:137"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is hier fijn.",
+      "pt": "Aqui é agradável.",
+      "cards": [
+        "medium:139"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ga bij de kerk naar links.",
+      "pt": "Vire à esquerda na igreja.",
+      "cards": [
+        "medium:140"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Is deze plek nog vrij?",
+      "pt": "Este lugar ainda está livre?",
+      "cards": [
+        "medium:141"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit niks in de doos.",
+      "pt": "Não tem nada na caixa.",
+      "cards": [
+        "medium:142"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn tand doet pijn.",
+      "pt": "Meu dente está doendo.",
+      "cards": [
+        "medium:143"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zet je glas niet op de rand.",
+      "pt": "Não coloque seu copo na borda.",
+      "cards": [
+        "medium:144"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wandelen door het bos.",
+      "pt": "Caminhamos pela floresta.",
+      "cards": [
+        "medium:145"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Na het werk heb ik rust nodig.",
+      "pt": "Depois do trabalho, preciso de descanso.",
+      "cards": [
+        "medium:146"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen zitten in een kring.",
+      "pt": "As crianças estão sentadas em círculo.",
+      "cards": [
+        "medium:147"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De lucht is vandaag grijs.",
+      "pt": "O céu está cinza hoje.",
+      "cards": [
+        "medium:148"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb haast, mijn trein vertrekt!",
+      "pt": "Estou com pressa, meu trem está saindo!",
+      "cards": [
+        "medium:149"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een diploma is een eis.",
+      "pt": "Um diploma é um requisito.",
+      "cards": [
+        "medium:151"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik woon in deze streek.",
+      "pt": "Moro nesta região.",
+      "cards": [
+        "medium:152"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze soep heeft een lekkere smaak.",
+      "pt": "Esta sopa tem um sabor gostoso.",
+      "cards": [
+        "medium:153"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er loopt een traan over haar wang.",
+      "pt": "Uma lágrima escorre pela bochecha dela.",
+      "cards": [
+        "medium:154"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik sta in de rij.",
+      "pt": "Estou na fila.",
+      "cards": [
+        "medium:155"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De trein vertrekt van spoor twee.",
+      "pt": "O trem sai da plataforma dois.",
+      "cards": [
+        "medium:156"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit pad is erg smal.",
+      "pt": "Este caminho é muito estreito.",
+      "cards": [
+        "medium:158"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De sleutel zit in het slot.",
+      "pt": "A chave está na fechadura.",
+      "cards": [
+        "medium:159"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Na de ziekte voel ik me zwak.",
+      "pt": "Depois da doença, estou me sentindo fraco.",
+      "cards": [
+        "medium:160"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ruik de geur van verse koffie.",
+      "pt": "Sinto o cheiro de café fresco.",
+      "cards": [
+        "medium:161"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn buik doet pijn.",
+      "pt": "Minha barriga está doendo.",
+      "cards": [
+        "medium:162"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het regent vandaag flink.",
+      "pt": "Está chovendo bastante hoje.",
+      "cards": [
+        "medium:163"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Nu ben jij aan de beurt.",
+      "pt": "Agora é a sua vez.",
+      "cards": [
+        "medium:164"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Haar wangen zijn rood.",
+      "pt": "As bochechas dela estão vermelhas.",
+      "cards": [
+        "medium:165"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt een bal op de vloer.",
+      "pt": "Tem uma bola no chão.",
+      "cards": [
+        "medium:166"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie rook.",
+      "pt": "Vejo fumaça.",
+      "cards": [
+        "medium:167"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij geeft de bal een harde slag.",
+      "pt": "Ele dá uma batida forte na bola.",
+      "cards": [
+        "medium:168"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De maan schijnt door het raam.",
+      "pt": "A lua brilha pela janela.",
+      "cards": [
+        "medium:169"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De sfeer op het feest is goed.",
+      "pt": "O clima da festa está bom.",
+      "cards": [
+        "medium:171"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze bron geeft schoon water.",
+      "pt": "Esta fonte fornece água limpa.",
+      "cards": [
+        "medium:172"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oom is rijk.",
+      "pt": "Meu tio é rico.",
+      "cards": [
+        "medium:173"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn kleren zijn weer droog.",
+      "pt": "Minhas roupas estão secas de novo.",
+      "cards": [
+        "medium:174"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn bord is leeg.",
+      "pt": "Meu prato está vazio.",
+      "cards": [
+        "medium:175"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In mijn jeugd speelde ik veel buiten.",
+      "pt": "Na minha infância, eu brincava muito ao ar livre.",
+      "cards": [
+        "medium:176"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn handen zijn schoon.",
+      "pt": "Minhas mãos estão limpas.",
+      "cards": [
+        "medium:177"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn keel doet pijn.",
+      "pt": "Minha garganta está doendo.",
+      "cards": [
+        "medium:178"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij draagt een blauw pak.",
+      "pt": "Ele está usando um terno azul.",
+      "cards": [
+        "medium:179"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een grote golf maakt ons nat.",
+      "pt": "Uma onda grande nos molha.",
+      "cards": [
+        "medium:181"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Sport is goed voor je lichaam.",
+      "pt": "Esporte faz bem para o seu corpo.",
+      "cards": [
+        "medium:182"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Water helpt bij de groei van planten.",
+      "pt": "A água ajuda no crescimento das plantas.",
+      "cards": [
+        "medium:183"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn schoenen zijn nat.",
+      "pt": "Meus sapatos estão molhados.",
+      "cards": [
+        "medium:184"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze jas is te duur.",
+      "pt": "Este casaco é caro demais.",
+      "cards": [
+        "medium:185"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees een reeks korte verhalen.",
+      "pt": "Leio uma série de histórias curtas.",
+      "cards": [
+        "medium:187"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze broek zit te strak.",
+      "pt": "Esta calça está apertada demais.",
+      "cards": [
+        "medium:188"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt een kleed op de vloer.",
+      "pt": "Tem um tapete no chão.",
+      "cards": [
+        "medium:189"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze vlucht vertrekt om tien uur.",
+      "pt": "Nosso voo sai às dez horas.",
+      "cards": [
+        "medium:190"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er zit een vogel op het dak.",
+      "pt": "Tem um pássaro no telhado.",
+      "cards": [
+        "medium:191"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij draagt een ketting om haar hals.",
+      "pt": "Ela usa um colar no pescoço.",
+      "cards": [
+        "medium:192"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De banaan is geel.",
+      "pt": "A banana é amarela.",
+      "cards": [
+        "medium:193"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze leraar is erg streng.",
+      "pt": "Nosso professor é muito rigoroso.",
+      "cards": [
+        "medium:194"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De koeien staan in het veld.",
+      "pt": "As vacas estão no campo.",
+      "cards": [
+        "medium:195"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben moe na het werk.",
+      "pt": "Estou cansado depois do trabalho.",
+      "cards": [
+        "medium:196"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Haar geloof geeft haar kracht.",
+      "pt": "A fé dela lhe dá força.",
+      "cards": [
+        "medium:197"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De vogel zit op een tak.",
+      "pt": "O pássaro está num galho.",
+      "cards": [
+        "medium:198"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De soep is heet: pas op je tong!",
+      "pt": "A sopa está quente: cuidado com a língua!",
+      "cards": [
+        "medium:199"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet brood met kaas.",
+      "pt": "Como pão com queijo.",
+      "cards": [
+        "medium:201"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het feest is in een grote zaal.",
+      "pt": "A festa é num salão grande.",
+      "cards": [
+        "medium:202"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zijn greep is sterk.",
+      "pt": "A pegada dele é forte.",
+      "cards": [
+        "medium:203"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij wonen aan de kust.",
+      "pt": "Moramos no litoral.",
+      "cards": [
+        "medium:204"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ben je boos op mij?",
+      "pt": "Você está bravo comigo?",
+      "cards": [
+        "medium:205"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We lopen over de brug.",
+      "pt": "Atravessamos a ponte a pé.",
+      "cards": [
+        "medium:206"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Welk vak vind je leuk op school?",
+      "pt": "De qual matéria você gosta na escola?",
+      "cards": [
+        "medium:207"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen spelen op het strand.",
+      "pt": "As crianças brincam na praia.",
+      "cards": [
+        "medium:208"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er staat een fout in deze zin.",
+      "pt": "Há um erro nesta frase.",
+      "cards": [
+        "medium:210"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb geen moed.",
+      "pt": "Não tenho coragem.",
+      "cards": [
+        "medium:211"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat was een domme fout.",
+      "pt": "Esse foi um erro bobo.",
+      "cards": [
+        "medium:212"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Trek je jas aan, het is koud.",
+      "pt": "Vista seu casaco, está frio.",
+      "cards": [
+        "medium:213"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben trots op mijn dochter.",
+      "pt": "Tenho orgulho da minha filha.",
+      "cards": [
+        "medium:214"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze appel is lekker zoet.",
+      "pt": "Esta maçã é bem doce.",
+      "cards": [
+        "medium:215"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er hangt een donkere wolk boven ons.",
+      "pt": "Há uma nuvem escura acima de nós.",
+      "cards": [
+        "medium:217"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn kleren hangen in de kast.",
+      "pt": "Minhas roupas estão penduradas no armário.",
+      "cards": [
+        "medium:218"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij krijgt een klap in zijn gezicht.",
+      "pt": "Ele leva um tapa no rosto.",
+      "cards": [
+        "medium:219"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zonder stroom werkt de koelkast niet.",
+      "pt": "Sem eletricidade, a geladeira não funciona.",
+      "cards": [
+        "medium:220"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De winkel maakt dit jaar winst.",
+      "pt": "A loja tem lucro este ano.",
+      "cards": [
+        "medium:221"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij is knap en leert snel.",
+      "pt": "Ela é inteligente e aprende rápido.",
+      "cards": [
+        "medium:222"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Als straf mag hij niet buiten spelen.",
+      "pt": "De castigo, ele não pode brincar lá fora.",
+      "cards": [
+        "medium:223"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oma loopt langzaam.",
+      "pt": "Minha avó anda devagar.",
+      "cards": [
+        "medium:224"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De brug heeft een grote boog.",
+      "pt": "A ponte tem um arco grande.",
+      "cards": [
+        "medium:225"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Blijf nog een poos bij ons.",
+      "pt": "Fique mais um tempo com a gente.",
+      "cards": [
+        "medium:226"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik strek mijn armen boven mijn hoofd.",
+      "pt": "Estico meus braços acima da cabeça.",
+      "cards": [
+        "medium:227"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er is brand in het huis.",
+      "pt": "Há um incêndio na casa.",
+      "cards": [
+        "medium:228"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt een boom dwars over de weg.",
+      "pt": "Há uma árvore caída atravessando a estrada.",
+      "cards": [
+        "medium:229"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De appels zitten in een houten kist.",
+      "pt": "As maçãs estão num caixote de madeira.",
+      "cards": [
+        "medium:230"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er hangt een foto aan de wand.",
+      "pt": "Há uma foto pendurada na parede.",
+      "cards": [
+        "medium:231"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Houd je handen aan het stuur.",
+      "pt": "Mantenha as mãos no volante.",
+      "cards": [
+        "medium:233"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kern van de aarde is heet.",
+      "pt": "O núcleo da Terra é quente.",
+      "cards": [
+        "medium:234"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze tas is van leer.",
+      "pt": "Esta bolsa é de couro.",
+      "cards": [
+        "medium:235"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik drink het liefst thee.",
+      "pt": "O que mais gosto de beber é chá.",
+      "cards": [
+        "medium:236"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit papier is erg dun.",
+      "pt": "Este papel é muito fino.",
+      "cards": [
+        "medium:237"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij draagt een rode jurk.",
+      "pt": "Ela está usando um vestido vermelho.",
+      "cards": [
+        "medium:238"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is hier een troep.",
+      "pt": "Aqui é uma bagunça.",
+      "cards": [
+        "medium:239"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn opa draagt een hoed.",
+      "pt": "Meu avô usa um chapéu.",
+      "cards": [
+        "medium:240"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik stuur je morgen een brief.",
+      "pt": "Envio uma carta para você amanhã.",
+      "cards": [
+        "medium:241"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik voel tocht.",
+      "pt": "Sinto uma corrente de ar.",
+      "cards": [
+        "medium:242"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik snijd het brood met een mes.",
+      "pt": "Corto o pão com uma faca.",
+      "cards": [
+        "medium:243"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Welke maat schoenen heb je?",
+      "pt": "Que número de sapato você calça?",
+      "cards": [
+        "medium:244"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De hond heeft pijn aan zijn poot.",
+      "pt": "O cachorro está com dor na pata.",
+      "cards": [
+        "medium:245"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die vent is mijn buurman.",
+      "pt": "Aquele cara é meu vizinho.",
+      "cards": [
+        "medium:246"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn maag is leeg.",
+      "pt": "Meu estômago está vazio.",
+      "cards": [
+        "medium:247"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De politie vindt een lijk.",
+      "pt": "A polícia encontra um cadáver.",
+      "cards": [
+        "medium:248"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een grote eer.",
+      "pt": "Isso é uma grande honra.",
+      "cards": [
+        "medium:249"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er hangt een kruis in de kerk.",
+      "pt": "Há uma cruz pendurada na igreja.",
+      "cards": [
+        "medium:251"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De vrucht valt van de boom.",
+      "pt": "A fruta cai da árvore.",
+      "cards": [
+        "medium:253"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn broer heeft een klein huis.",
+      "pt": "Meu irmão tem uma casa pequena.",
+      "cards": [
+        "medium:254"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze oefening is makkelijk.",
+      "pt": "Este exercício é fácil.",
+      "cards": [
+        "medium:255"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil eigenlijk naar huis.",
+      "pt": "Na verdade, quero ir para casa.",
+      "cards": [
+        "difficult:1",
+        "difficult:34"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Misschien komt hij morgen.",
+      "pt": "Talvez ele venha amanhã.",
+      "cards": [
+        "difficult:2"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil een ander boek.",
+      "pt": "Quero outro livro.",
+      "cards": [
+        "difficult:4"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet fruit, zoals appels.",
+      "pt": "Como frutas, como maçãs.",
+      "cards": [
+        "difficult:5"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik drink koffie zonder melk.",
+      "pt": "Tomo café sem leite.",
+      "cards": [
+        "difficult:6"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij komt altijd op tijd.",
+      "pt": "Ela sempre chega na hora.",
+      "cards": [
+        "difficult:7"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is mijn eigen fiets.",
+      "pt": "Esta é minha própria bicicleta.",
+      "cards": [
+        "difficult:8"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kook terwijl jij leest.",
+      "pt": "Eu cozinho enquanto você lê.",
+      "cards": [
+        "difficult:10"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kom morgen terug.",
+      "pt": "Volto amanhã.",
+      "cards": [
+        "difficult:12"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Is dat vandaag mogelijk?",
+      "pt": "Isso é possível hoje?",
+      "cards": [
+        "difficult:13"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In dat geval blijf ik thuis.",
+      "pt": "Nesse caso, fico em casa.",
+      "cards": [
+        "difficult:14"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij wil echter thuis blijven.",
+      "pt": "Ele, porém, quer ficar em casa.",
+      "cards": [
+        "difficult:15"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Weet je dat zeker?",
+      "pt": "Você tem certeza disso?",
+      "cards": [
+        "difficult:16"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn enkel doet pijn.",
+      "pt": "Meu tornozelo está doendo.",
+      "cards": [
+        "difficult:17"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Natuurlijk mag je hier zitten.",
+      "pt": "Claro que você pode sentar aqui.",
+      "cards": [
+        "difficult:18"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Was je gezicht met water.",
+      "pt": "Lave seu rosto com água.",
+      "cards": [
+        "difficult:19"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil de wereld zien.",
+      "pt": "Quero conhecer o mundo.",
+      "cards": [
+        "difficult:21"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Is mijn vraag duidelijk?",
+      "pt": "Minha pergunta está clara?",
+      "cards": [
+        "difficult:22"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet vooral appels.",
+      "pt": "Como principalmente maçãs.",
+      "cards": [
+        "difficult:23"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is bijna acht uur.",
+      "pt": "São quase oito horas.",
+      "cards": [
+        "difficult:25"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij doet alsof hij slaapt.",
+      "pt": "Ele finge que está dormindo.",
+      "cards": [
+        "difficult:26"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn glas is helemaal leeg.",
+      "pt": "Meu copo está completamente vazio.",
+      "cards": [
+        "difficult:27"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kom binnen, het is koud.",
+      "pt": "Entre, está frio.",
+      "cards": [
+        "difficult:28"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het aantal kinderen groeit.",
+      "pt": "O número de crianças cresce.",
+      "cards": [
+        "difficult:29"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik doe het op mijn manier.",
+      "pt": "Eu faço do meu jeito.",
+      "cards": [
+        "difficult:30"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We zijn allemaal thuis.",
+      "pt": "Estamos todos em casa.",
+      "cards": [
+        "difficult:32"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij wast zichzelf.",
+      "pt": "Ele se lava.",
+      "cards": [
+        "difficult:33"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben moe, daarom slaap ik.",
+      "pt": "Estou cansado, por isso durmo.",
+      "cards": [
+        "difficult:36"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Doe maar gewoon.",
+      "pt": "Aja normalmente.",
+      "cards": [
+        "difficult:37"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We hebben genoeg eten.",
+      "pt": "Temos comida suficiente.",
+      "cards": [
+        "difficult:39"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Loop nog een stukje verder.",
+      "pt": "Ande mais um pouquinho.",
+      "cards": [
+        "difficult:40"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We eten en gaan daarna slapen.",
+      "pt": "Comemos e depois vamos dormir.",
+      "cards": [
+        "difficult:41"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Volgens mijn moeder gaat het regenen.",
+      "pt": "Segundo minha mãe, vai chover.",
+      "cards": [
+        "difficult:43"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze vraag is moeilijk.",
+      "pt": "Esta pergunta é difícil.",
+      "cards": [
+        "difficult:44"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb weinig tijd.",
+      "pt": "Tenho pouco tempo.",
+      "cards": [
+        "difficult:45"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij hebben dezelfde jas.",
+      "pt": "Temos o mesmo casaco.",
+      "cards": [
+        "difficult:47"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een mooie gedachte.",
+      "pt": "Esse é um belo pensamento.",
+      "cards": [
+        "difficult:48"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het huis is geheel leeg.",
+      "pt": "A casa está inteiramente vazia.",
+      "cards": [
+        "difficult:49"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is van groot belang.",
+      "pt": "Isso é de grande importância.",
+      "cards": [
+        "difficult:51"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Spelen helpt bij de ontwikkeling van kinderen.",
+      "pt": "Brincar ajuda no desenvolvimento das crianças.",
+      "cards": [
+        "difficult:52"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Waarom koop je zoveel brood?",
+      "pt": "Por que você compra tanto pão?",
+      "cards": [
+        "difficult:53"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb een goed gevoel.",
+      "pt": "Tenho uma sensação boa.",
+      "cards": [
+        "difficult:54"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen slapen boven.",
+      "pt": "As crianças dormem no andar de cima.",
+      "cards": [
+        "difficult:55"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Over het algemeen slaap ik goed.",
+      "pt": "Em geral, durmo bem.",
+      "cards": [
+        "difficult:56"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit gebied heeft veel bomen.",
+      "pt": "Esta região tem muitas árvores.",
+      "cards": [
+        "difficult:57"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vandaag is een bijzondere dag.",
+      "pt": "Hoje é um dia especial.",
+      "cards": [
+        "difficult:58"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen spelen buiten.",
+      "pt": "As crianças brincam ao ar livre.",
+      "cards": [
+        "difficult:59"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vertel mij een verhaal.",
+      "pt": "Conte uma história para mim.",
+      "cards": [
+        "difficult:60"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De straat is nat als gevolg van regen.",
+      "pt": "A rua está molhada em consequência da chuva.",
+      "cards": [
+        "difficult:61"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kun je een voorbeeld geven?",
+      "pt": "Você pode dar um exemplo?",
+      "cards": [
+        "difficult:62"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Probeer het opnieuw.",
+      "pt": "Tente de novo.",
+      "cards": [
+        "difficult:63"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is duur en bovendien klein.",
+      "pt": "É caro e, além disso, pequeno.",
+      "cards": [
+        "difficult:65"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er is nog een mogelijkheid.",
+      "pt": "Ainda existe uma possibilidade.",
+      "cards": [
+        "difficult:66"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kun je morgen eerder komen?",
+      "pt": "Você pode vir mais cedo amanhã?",
+      "cards": [
+        "difficult:68"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zoek een bepaald boek.",
+      "pt": "Estou procurando um livro específico.",
+      "cards": [
+        "difficult:69"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vanuit mijn raam zie ik bomen.",
+      "pt": "Da minha janela, vejo árvores.",
+      "cards": [
+        "difficult:70"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De school staat tegenover mijn huis.",
+      "pt": "A escola fica em frente à minha casa.",
+      "cards": [
+        "difficult:71"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kom meteen.",
+      "pt": "Vou aí na hora.",
+      "cards": [
+        "difficult:73"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De dokter doet een onderzoek.",
+      "pt": "O médico faz um exame.",
+      "cards": [
+        "difficult:74"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De baby maakt een kleine beweging.",
+      "pt": "O bebê faz um pequeno movimento.",
+      "cards": [
+        "difficult:75"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij komt waarschijnlijk morgen.",
+      "pt": "Ele provavelmente vem amanhã.",
+      "cards": [
+        "difficult:76"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We praten over belangrijke zaken.",
+      "pt": "Conversamos sobre assuntos importantes.",
+      "cards": [
+        "difficult:77"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit kind heeft aandacht nodig.",
+      "pt": "Esta criança precisa de atenção.",
+      "cards": [
+        "difficult:78"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij loopt heel langzaam.",
+      "pt": "Ele anda muito devagar.",
+      "cards": [
+        "difficult:79"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In welke richting ligt het station?",
+      "pt": "Em que direção fica a estação?",
+      "cards": [
+        "difficult:80"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze huizen verschillen van kleur.",
+      "pt": "Nossas casas são de cores diferentes.",
+      "cards": [
+        "difficult:81"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Door de oorlog zijn veel mensen bang.",
+      "pt": "Por causa da guerra, muitas pessoas estão com medo.",
+      "cards": [
+        "difficult:82"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik fiets meestal naar school.",
+      "pt": "Geralmente vou de bicicleta para a escola.",
+      "cards": [
+        "difficult:83"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kan je nauwelijks horen.",
+      "pt": "Mal consigo ouvir você.",
+      "cards": [
+        "difficult:84"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij eten elke dag hetzelfde.",
+      "pt": "Comemos a mesma coisa todos os dias.",
+      "cards": [
+        "difficult:85"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij is tenslotte pas vijf.",
+      "pt": "Afinal, ele tem só cinco anos.",
+      "cards": [
+        "difficult:86"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Fouten maken is menselijk.",
+      "pt": "Errar é humano.",
+      "cards": [
+        "difficult:87"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het weer heeft invloed op mijn werk.",
+      "pt": "O tempo influencia meu trabalho.",
+      "cards": [
+        "difficult:88"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben nu bezig.",
+      "pt": "Estou ocupado agora.",
+      "cards": [
+        "difficult:89"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De dokter doet verband om mijn hand.",
+      "pt": "O médico coloca uma atadura na minha mão.",
+      "cards": [
+        "difficult:90"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Plotseling begint het te regenen.",
+      "pt": "De repente, começa a chover.",
+      "cards": [
+        "difficult:91"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is inderdaad mijn fiets.",
+      "pt": "Essa é de fato minha bicicleta.",
+      "cards": [
+        "difficult:92"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen hoort bij de maatschappij.",
+      "pt": "Todo mundo faz parte da sociedade.",
+      "cards": [
+        "difficult:93",
+        "difficult:155"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze deur gaat gemakkelijk open.",
+      "pt": "Esta porta abre facilmente.",
+      "cards": [
+        "difficult:94"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is donker buiten.",
+      "pt": "Está escuro lá fora.",
+      "cards": [
+        "difficult:95"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is het verschil?",
+      "pt": "Qual é a diferença?",
+      "cards": [
+        "difficult:96"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben gelukkig met jou.",
+      "pt": "Sou feliz com você.",
+      "cards": [
+        "difficult:97"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is de betekenis van dit woord?",
+      "pt": "Qual é o significado desta palavra?",
+      "cards": [
+        "difficult:98"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Bedankt voor je begrip.",
+      "pt": "Obrigado pela compreensão.",
+      "cards": [
+        "difficult:100"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze mevrouw zoekt haar tas.",
+      "pt": "Esta senhora está procurando a bolsa dela.",
+      "cards": [
+        "difficult:101"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn naam staat er volledig op.",
+      "pt": "Meu nome está escrito lá por completo.",
+      "cards": [
+        "difficult:103"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze huizen zijn verschillend.",
+      "pt": "Nossas casas são diferentes.",
+      "cards": [
+        "difficult:104"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Goed onderwijs helpt kinderen leren.",
+      "pt": "Um bom ensino ajuda as crianças a aprender.",
+      "cards": [
+        "difficult:105"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb behoefte aan rust.",
+      "pt": "Estou precisando de descanso.",
+      "cards": [
+        "difficult:106"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is hier lekker rustig.",
+      "pt": "Aqui está bem tranquilo.",
+      "cards": [
+        "difficult:107"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben daar eenmaal geweest.",
+      "pt": "Estive lá uma vez.",
+      "cards": [
+        "difficult:108"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een eenvoudig recept.",
+      "pt": "Esta é uma receita simples.",
+      "cards": [
+        "difficult:109"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het kost ongeveer tien euro.",
+      "pt": "Custa cerca de dez euros.",
+      "cards": [
+        "difficult:110"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is de waarde van dit huis?",
+      "pt": "Qual é o valor desta casa?",
+      "cards": [
+        "difficult:111"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn tas ligt hier ergens.",
+      "pt": "Minha bolsa está em algum lugar aqui.",
+      "cards": [
+        "difficult:112"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij hebben een fijn gesprek.",
+      "pt": "Estamos tendo uma conversa agradável.",
+      "cards": [
+        "difficult:113"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij maakt een goede indruk.",
+      "pt": "Ele causa uma boa impressão.",
+      "cards": [
+        "difficult:114"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De plant heeft nieuwe aarde nodig.",
+      "pt": "A planta precisa de terra nova.",
+      "cards": [
+        "difficult:115"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kom onmiddellijk naar huis.",
+      "pt": "Venha para casa imediatamente.",
+      "cards": [
+        "difficult:116"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In werkelijkheid is het huis klein.",
+      "pt": "Na realidade, a casa é pequena.",
+      "cards": [
+        "difficult:117"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ken haar persoonlijk.",
+      "pt": "Eu a conheço pessoalmente.",
+      "cards": [
+        "difficult:118"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hier is ruimte voor twee stoelen.",
+      "pt": "Aqui há espaço para duas cadeiras.",
+      "cards": [
+        "difficult:119"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit werk kost veel moeite.",
+      "pt": "Este trabalho exige muito esforço.",
+      "cards": [
+        "difficult:120"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben klaar voor een verandering.",
+      "pt": "Estou pronto para uma mudança.",
+      "cards": [
+        "difficult:121"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hoor een vreemd geluid.",
+      "pt": "Ouço um barulho estranho.",
+      "cards": [
+        "difficult:122"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat gedrag vind ik niet aardig.",
+      "pt": "Não acho esse comportamento legal.",
+      "cards": [
+        "difficult:123"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kies bewust voor minder werk.",
+      "pt": "Escolho conscientemente trabalhar menos.",
+      "cards": [
+        "difficult:124"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik blijf thuis, ik ben namelijk ziek.",
+      "pt": "Fico em casa, pois estou doente.",
+      "cards": [
+        "difficult:125"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen moet zich aan deze regel houden.",
+      "pt": "Todos devem seguir esta regra.",
+      "cards": [
+        "difficult:126"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Was je handen voordat je eet.",
+      "pt": "Lave as mãos antes de comer.",
+      "cards": [
+        "difficult:127"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Je hebt gelijk.",
+      "pt": "Você tem razão.",
+      "cards": [
+        "difficult:128"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees over de geschiedenis van Nederland.",
+      "pt": "Leio sobre a história dos Países Baixos.",
+      "cards": [
+        "difficult:129"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wil je een kop koffie?",
+      "pt": "Você quer uma xícara de café?",
+      "cards": [
+        "difficult:130"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We hebben voldoende water.",
+      "pt": "Temos água suficiente.",
+      "cards": [
+        "difficult:131"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er liggen overal boeken.",
+      "pt": "Há livros por toda parte.",
+      "cards": [
+        "difficult:132"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het probleem is ernstig.",
+      "pt": "O problema é grave.",
+      "cards": [
+        "difficult:133"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is hier nogal koud.",
+      "pt": "Está bastante frio aqui.",
+      "cards": [
+        "difficult:134"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben overigens morgen vrij.",
+      "pt": "Aliás, amanhã estou de folga.",
+      "cards": [
+        "difficult:135"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Door deze omstandigheid kan ik niet komen.",
+      "pt": "Por causa desta circunstância, não posso ir.",
+      "cards": [
+        "difficult:136"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij drinkt koffie noch thee.",
+      "pt": "Ele não toma café nem chá.",
+      "cards": [
+        "difficult:137"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb trouwens ook een hond.",
+      "pt": "Aliás, eu também tenho um cachorro.",
+      "cards": [
+        "difficult:138"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Opeens gaat de deur open.",
+      "pt": "De repente, a porta se abre.",
+      "cards": [
+        "difficult:140"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De omgeving van ons huis is groen.",
+      "pt": "Os arredores da nossa casa são verdes.",
+      "cards": [
+        "difficult:141"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn opvatting is: kinderen moeten buiten spelen.",
+      "pt": "Minha opinião é: as crianças devem brincar ao ar livre.",
+      "cards": [
+        "difficult:142"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De overheid betaalt voor deze school.",
+      "pt": "O governo paga por esta escola.",
+      "cards": [
+        "difficult:143"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is de afstand naar school?",
+      "pt": "Qual é a distância até a escola?",
+      "cards": [
+        "difficult:144"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We eten en gaan vervolgens naar huis.",
+      "pt": "Comemos e, em seguida, vamos para casa.",
+      "cards": [
+        "difficult:145"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij leest graag over wetenschap.",
+      "pt": "Ela gosta de ler sobre ciência.",
+      "cards": [
+        "difficult:146"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We wandelen ondanks de regen.",
+      "pt": "Caminhamos apesar da chuva.",
+      "cards": [
+        "difficult:147"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Je bent eindelijk thuis!",
+      "pt": "Você finalmente chegou em casa!",
+      "cards": [
+        "difficult:148"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil vrijheid om zelf te kiezen.",
+      "pt": "Quero liberdade para escolher por mim mesmo.",
+      "cards": [
+        "difficult:149"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kijk omhoog naar de vogels.",
+      "pt": "Olhe para cima, para os pássaros.",
+      "cards": [
+        "difficult:150"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Door zijn ziekte kan hij niet werken.",
+      "pt": "Por causa da doença, ele não pode trabalhar.",
+      "cards": [
+        "difficult:151"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is de hoogte van deze tafel?",
+      "pt": "Qual é a altura desta mesa?",
+      "cards": [
+        "difficult:152"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het beleid is: niemand rookt binnen.",
+      "pt": "A política é: ninguém fuma aqui dentro.",
+      "cards": [
+        "difficult:153"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze schrijver maakt boeken voor kinderen.",
+      "pt": "Este escritor escreve livros para crianças.",
+      "cards": [
+        "difficult:154"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij werkt bij een klein bedrijf.",
+      "pt": "Ela trabalha em uma empresa pequena.",
+      "cards": [
+        "difficult:156"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wacht beneden op je.",
+      "pt": "Espero você lá embaixo.",
+      "cards": [
+        "difficult:157"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen heeft een plek in de samenleving.",
+      "pt": "Todos têm um lugar na sociedade.",
+      "cards": [
+        "difficult:159"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De verhouding tussen brood en kaas is goed.",
+      "pt": "A proporção entre pão e queijo está boa.",
+      "cards": [
+        "difficult:160"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zit rechtop voor een goede houding.",
+      "pt": "Sente-se ereto para manter uma boa postura.",
+      "cards": [
+        "difficult:161"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen zijn in gevaar.",
+      "pt": "As crianças estão em perigo.",
+      "cards": [
+        "difficult:162"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De regering wil meer huizen bouwen.",
+      "pt": "O governo quer construir mais casas.",
+      "cards": [
+        "difficult:163"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mag ik de rekening?",
+      "pt": "Pode trazer a conta?",
+      "cards": [
+        "difficult:164"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees een wetenschappelijk boek over water.",
+      "pt": "Leio um livro científico sobre a água.",
+      "cards": [
+        "difficult:165"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De soldaat gaat terug naar huis.",
+      "pt": "O soldado volta para casa.",
+      "cards": [
+        "difficult:166"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vertel mij de waarheid.",
+      "pt": "Conte a verdade para mim.",
+      "cards": [
+        "difficult:167"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Drink tenminste één glas water.",
+      "pt": "Beba pelo menos um copo de água.",
+      "cards": [
+        "difficult:168"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat een prachtige bloemen!",
+      "pt": "Que flores lindas!",
+      "cards": [
+        "difficult:169"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is jouw beroep?",
+      "pt": "Qual é a sua profissão?",
+      "cards": [
+        "difficult:170"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik doe nog een poging.",
+      "pt": "Faço mais uma tentativa.",
+      "cards": [
+        "difficult:171"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is de oorzaak van de brand?",
+      "pt": "Qual é a causa do incêndio?",
+      "cards": [
+        "difficult:172"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is jouw mening?",
+      "pt": "Qual é a sua opinião?",
+      "cards": [
+        "difficult:173"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij zijn allen welkom.",
+      "pt": "Somos todos bem-vindos.",
+      "cards": [
+        "difficult:174"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ons gezin telt vier mensen.",
+      "pt": "Nossa família tem quatro pessoas.",
+      "cards": [
+        "difficult:175"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wees voorzichtig met dat glas.",
+      "pt": "Tenha cuidado com esse copo.",
+      "cards": [
+        "difficult:176"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een moeilijke beslissing.",
+      "pt": "Essa é uma decisão difícil.",
+      "cards": [
+        "difficult:177"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Uiteindelijk kiest zij de rode jas.",
+      "pt": "Por fim, ela escolhe o casaco vermelho.",
+      "cards": [
+        "difficult:178"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kwam hier twee jaar geleden.",
+      "pt": "Cheguei aqui há dois anos.",
+      "cards": [
+        "difficult:179"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een goede gelegenheid.",
+      "pt": "Esta é uma boa oportunidade.",
+      "cards": [
+        "difficult:180"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Is een auto hier noodzakelijk?",
+      "pt": "Um carro é necessário aqui?",
+      "cards": [
+        "difficult:181"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Alle kinderen zijn aanwezig.",
+      "pt": "Todas as crianças estão presentes.",
+      "cards": [
+        "difficult:182"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is jouw leeftijd?",
+      "pt": "Qual é a sua idade?",
+      "cards": [
+        "difficult:183"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is onmogelijk zonder hulp.",
+      "pt": "Isso é impossível sem ajuda.",
+      "cards": [
+        "difficult:185"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik geniet van de stilte.",
+      "pt": "Aproveito o silêncio.",
+      "cards": [
+        "difficult:186"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De behandeling bij de dokter helpt.",
+      "pt": "O tratamento com o médico está ajudando.",
+      "cards": [
+        "difficult:187"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hun huwelijk duurt al tien jaar.",
+      "pt": "Eles já estão casados há dez anos.",
+      "cards": [
+        "difficult:188"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Heb je een verklaring voor dit probleem?",
+      "pt": "Você tem uma explicação para este problema?",
+      "cards": [
+        "difficult:190"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik denk vaak aan het verleden.",
+      "pt": "Penso muito no passado.",
+      "cards": [
+        "difficult:191"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vandaag krijg ik bezoek.",
+      "pt": "Hoje vou receber visita.",
+      "cards": [
+        "difficult:192"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben nat doordat het regent.",
+      "pt": "Estou molhado porque está chovendo.",
+      "cards": [
+        "difficult:194"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik verlang naar mijn familie.",
+      "pt": "Estou com saudade da minha família.",
+      "cards": [
+        "difficult:195"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze soep bevat geen zout.",
+      "pt": "Esta sopa não contém sal.",
+      "cards": [
+        "difficult:196"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We helpen elkaar bij elke moeilijkheid.",
+      "pt": "Ajudamos uns aos outros em cada dificuldade.",
+      "cards": [
+        "difficult:197"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze foto is een mooie herinnering.",
+      "pt": "Esta foto é uma bela lembrança.",
+      "cards": [
+        "difficult:199"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik loop dagelijks naar school.",
+      "pt": "Vou a pé para a escola todos os dias.",
+      "cards": [
+        "difficult:200"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn vader ligt in het ziekenhuis.",
+      "pt": "Meu pai está no hospital.",
+      "cards": [
+        "difficult:201"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Bel me zodra je thuis bent.",
+      "pt": "Me ligue assim que chegar em casa.",
+      "cards": [
+        "difficult:202"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is het onderwerp van dit boek?",
+      "pt": "Qual é o assunto deste livro?",
+      "cards": [
+        "difficult:203"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De winkel is vrijwel leeg.",
+      "pt": "A loja está quase vazia.",
+      "cards": [
+        "difficult:204"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij is blijkbaar al thuis.",
+      "pt": "Ao que parece, ele já está em casa.",
+      "cards": [
+        "difficult:205"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De leraar geeft ons een opdracht.",
+      "pt": "O professor nos dá uma tarefa.",
+      "cards": [
+        "difficult:207"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat hoge gebouw is een school.",
+      "pt": "Aquele prédio alto é uma escola.",
+      "cards": [
+        "difficult:208"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat betekent deze uitdrukking?",
+      "pt": "O que significa esta expressão?",
+      "cards": [
+        "difficult:209"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Blijf hier zolang het regent.",
+      "pt": "Fique aqui enquanto estiver chovendo.",
+      "cards": [
+        "difficult:210"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze soep is lekker.",
+      "pt": "Esta sopa está gostosa.",
+      "cards": [
+        "difficult:211"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het bestuur van de school komt samen.",
+      "pt": "A diretoria da escola se reúne.",
+      "cards": [
+        "difficult:212"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Je hebt de keuze: thee of koffie.",
+      "pt": "Você pode escolher: chá ou café.",
+      "cards": [
+        "difficult:213"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen komt, behalve mijn broer.",
+      "pt": "Todos vêm, exceto meu irmão.",
+      "cards": [
+        "difficult:214"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De leraar helpt mij met mijn uitspraak.",
+      "pt": "O professor me ajuda com minha pronúncia.",
+      "cards": [
+        "difficult:215"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kan mijn sleutels nergens vinden.",
+      "pt": "Não consigo encontrar minhas chaves em lugar nenhum.",
+      "cards": [
+        "difficult:216"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elke dag fruit eten is gezond.",
+      "pt": "Comer frutas todos os dias é saudável.",
+      "cards": [
+        "difficult:217"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat vind je van mijn voorstel?",
+      "pt": "O que você acha da minha proposta?",
+      "cards": [
+        "difficult:218"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kinderen zijn hier veilig.",
+      "pt": "As crianças estão seguras aqui.",
+      "cards": [
+        "difficult:219"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De prijzen stijgen elk jaar.",
+      "pt": "Os preços sobem a cada ano.",
+      "cards": [
+        "difficult:220"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij nemen samen een besluit.",
+      "pt": "Tomamos uma decisão juntos.",
+      "cards": [
+        "difficult:221"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op dit eiland wonen weinig mensen.",
+      "pt": "Poucas pessoas moram nesta ilha.",
+      "cards": [
+        "difficult:222"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In tegenstelling tot mij houdt hij van vis.",
+      "pt": "Ao contrário de mim, ele gosta de peixe.",
+      "cards": [
+        "difficult:223"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is jouw oordeel over dit boek?",
+      "pt": "Qual é sua opinião sobre este livro?",
+      "cards": [
+        "difficult:224"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb geen twijfel: dit is goed.",
+      "pt": "Não tenho dúvida: isto é bom.",
+      "cards": [
+        "difficult:225"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij heeft een mooie glimlach.",
+      "pt": "Ela tem um sorriso bonito.",
+      "cards": [
+        "difficult:226"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hier betalen we uitsluitend met een kaart.",
+      "pt": "Aqui pagamos somente com cartão.",
+      "cards": [
+        "difficult:227"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wellicht zien we elkaar morgen.",
+      "pt": "Talvez a gente se veja amanhã.",
+      "cards": [
+        "difficult:228"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Voor het examen voel ik veel spanning.",
+      "pt": "Antes da prova, sinto muita tensão.",
+      "cards": [
+        "difficult:229"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zware arbeid maakt mij moe.",
+      "pt": "Trabalho pesado me deixa cansado.",
+      "cards": [
+        "difficult:230"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit is een gevaarlijke weg.",
+      "pt": "Esta é uma estrada perigosa.",
+      "cards": [
+        "difficult:231"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De rechter luistert naar de man.",
+      "pt": "O juiz escuta o homem.",
+      "cards": [
+        "difficult:232"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn leraar helpt me met lezen.",
+      "pt": "Meu professor me ajuda a ler.",
+      "cards": [
+        "difficult:233"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik wil zekerheid over mijn werk.",
+      "pt": "Quero ter segurança em relação ao meu emprego.",
+      "cards": [
+        "difficult:235"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik eet gewoonlijk om zes uur.",
+      "pt": "Geralmente como às seis horas.",
+      "cards": [
+        "difficult:236"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze taart is heerlijk.",
+      "pt": "Este bolo está delicioso.",
+      "cards": [
+        "difficult:237"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik hou van de geur van brood.",
+      "pt": "Adoro o cheiro de pão.",
+      "cards": [
+        "difficult:238"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze tuin is openbaar.",
+      "pt": "Este jardim é público.",
+      "cards": [
+        "difficult:239"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een fiets heeft hier een groot voordeel.",
+      "pt": "Uma bicicleta tem uma grande vantagem aqui.",
+      "cards": [
+        "difficult:240"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mag ik een opmerking maken?",
+      "pt": "Posso fazer uma observação?",
+      "cards": [
+        "difficult:241"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij kookt, ik dek intussen de tafel.",
+      "pt": "Ele cozinha; enquanto isso, ponho a mesa.",
+      "cards": [
+        "difficult:242"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De leraar heeft gezag in de klas.",
+      "pt": "O professor tem autoridade na sala de aula.",
+      "cards": [
+        "difficult:243"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kun je de vraag herhalen?",
+      "pt": "Você pode repetir a pergunta?",
+      "cards": [
+        "difficult:244"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben tevreden met mijn werk.",
+      "pt": "Estou satisfeito com meu trabalho.",
+      "cards": [
+        "difficult:245"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Een gedeelte van het huis is oud.",
+      "pt": "Uma parte da casa é antiga.",
+      "cards": [
+        "difficult:247"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op welke afdeling werkt u?",
+      "pt": "Em qual departamento você trabalha?",
+      "cards": [
+        "difficult:248"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze maatregel helpt: iedereen wast zijn handen.",
+      "pt": "Esta medida ajuda: todos lavam as mãos.",
+      "cards": [
+        "difficult:249"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We kopen voedsel voor de hele week.",
+      "pt": "Compramos comida para a semana toda.",
+      "cards": [
+        "difficult:250"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb een boodschap voor jou.",
+      "pt": "Tenho um recado para você.",
+      "cards": [
+        "difficult:251"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij heeft krachtige armen.",
+      "pt": "Ele tem braços fortes.",
+      "cards": [
+        "difficult:252"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Van dit lied word ik vrolijk.",
+      "pt": "Esta música me deixa alegre.",
+      "cards": [
+        "difficult:253"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ons vertrek is morgen om acht uur.",
+      "pt": "Nossa partida é amanhã às oito horas.",
+      "cards": [
+        "difficult:254"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie haar toevallig in de winkel.",
+      "pt": "Eu a vejo por acaso na loja.",
+      "cards": [
+        "difficult:255"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het eten is uitstekend.",
+      "pt": "A comida está excelente.",
+      "cards": [
+        "difficult:256"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Heb je bewijs?",
+      "pt": "Você tem provas?",
+      "cards": [
+        "difficult:257"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn voorkeur gaat uit naar thee.",
+      "pt": "Minha preferência é por chá.",
+      "cards": [
+        "difficult:258"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op de achtergrond zie je ons huis.",
+      "pt": "Ao fundo, você vê nossa casa.",
+      "cards": [
+        "difficult:259"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Aardig zijn is een goede eigenschap.",
+      "pt": "Ser gentil é uma boa característica.",
+      "cards": [
+        "difficult:260"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit huis is mijn bezit.",
+      "pt": "Esta casa é minha propriedade.",
+      "cards": [
+        "difficult:261"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Handen wassen is een dagelijkse handeling.",
+      "pt": "Lavar as mãos é uma ação diária.",
+      "cards": [
+        "difficult:262"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De arbeider werkt in een fabriek.",
+      "pt": "O operário trabalha em uma fábrica.",
+      "cards": [
+        "difficult:263"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is prettig om hier te wonen.",
+      "pt": "É agradável morar aqui.",
+      "cards": [
+        "difficult:264"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kun je een geheim bewaren?",
+      "pt": "Você consegue guardar um segredo?",
+      "cards": [
+        "difficult:265"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij schrijft een gedicht voor haar moeder.",
+      "pt": "Ela escreve um poema para a mãe.",
+      "cards": [
+        "difficult:266"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij ziet mij als zijn vijand.",
+      "pt": "Ele me vê como seu inimigo.",
+      "cards": [
+        "difficult:267"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb hoge verwachtingen.",
+      "pt": "Tenho grandes expectativas.",
+      "cards": [
+        "difficult:268"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn kinderen zijn inmiddels groot.",
+      "pt": "A esta altura, meus filhos já cresceram.",
+      "cards": [
+        "difficult:269"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij is ongetwijfeld een goede leraar.",
+      "pt": "Ela é, sem dúvida, uma boa professora.",
+      "cards": [
+        "difficult:270"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De vergadering begint om tien uur.",
+      "pt": "A reunião começa às dez horas.",
+      "cards": [
+        "difficult:271"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij leest een buitenlands boek.",
+      "pt": "Ele lê um livro estrangeiro.",
+      "cards": [
+        "difficult:272"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat een verschrikkelijk weer!",
+      "pt": "Que tempo horrível!",
+      "cards": [
+        "difficult:274"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De ambtenaar helpt mij met dit papier.",
+      "pt": "O funcionário público me ajuda com este papel.",
+      "cards": [
+        "difficult:275"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een redelijke prijs.",
+      "pt": "Esse é um preço razoável.",
+      "cards": [
+        "difficult:276"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vroeg opstaan is een goede gewoonte.",
+      "pt": "Acordar cedo é um bom hábito.",
+      "cards": [
+        "difficult:277"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik heb een klein verzoek.",
+      "pt": "Tenho um pequeno pedido.",
+      "cards": [
+        "difficult:278"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Elke leerling krijgt een boek.",
+      "pt": "Cada aluno recebe um livro.",
+      "cards": [
+        "difficult:279"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We willen leven zonder geweld.",
+      "pt": "Queremos viver sem violência.",
+      "cards": [
+        "difficult:280"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Vandaag mag het, als uitzondering.",
+      "pt": "Hoje pode, como exceção.",
+      "cards": [
+        "difficult:281"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Welk voorwerp zit in deze tas?",
+      "pt": "Qual objeto está nesta bolsa?",
+      "cards": [
+        "difficult:282"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het weer is gunstig voor onze reis.",
+      "pt": "O tempo está favorável para a nossa viagem.",
+      "cards": [
+        "difficult:283"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De regeling is: iedereen betaalt vijf euro.",
+      "pt": "O acordo é: cada um paga cinco euros.",
+      "cards": [
+        "difficult:284"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn doelstelling is elke dag Nederlands spreken.",
+      "pt": "Minha meta é falar holandês todos os dias.",
+      "cards": [
+        "difficult:285"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zij voelt veel verdriet.",
+      "pt": "Ela sente muita tristeza.",
+      "cards": [
+        "difficult:286"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn school is dichtbij.",
+      "pt": "Minha escola fica perto.",
+      "cards": [
+        "difficult:287"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We zijn allebei moe.",
+      "pt": "Nós dois estamos cansados.",
+      "cards": [
+        "difficult:289"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We lopen de heuvel op.",
+      "pt": "Subimos o morro a pé.",
+      "cards": [
+        "difficult:290"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Zijn voorhoofd voelt warm.",
+      "pt": "A testa dele está quente.",
+      "cards": [
+        "difficult:291"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die soep smaakt vreselijk.",
+      "pt": "Essa sopa tem um gosto horrível.",
+      "cards": [
+        "difficult:292"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen wil in vrede leven.",
+      "pt": "Todos querem viver em paz.",
+      "cards": [
+        "difficult:293"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat is jouw godsdienst?",
+      "pt": "Qual é a sua religião?",
+      "cards": [
+        "difficult:294"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Door onze samenwerking gaat het werk sneller.",
+      "pt": "Com a nossa colaboração, o trabalho anda mais rápido.",
+      "cards": [
+        "difficult:295"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik kijk in de spiegel.",
+      "pt": "Olho no espelho.",
+      "cards": [
+        "difficult:296"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Gebruik je verstand als je de straat oversteekt.",
+      "pt": "Use o bom senso ao atravessar a rua.",
+      "cards": [
+        "difficult:297"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie geen onderscheid tussen deze kleuren.",
+      "pt": "Não vejo diferença entre estas cores.",
+      "cards": [
+        "difficult:298"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Bij de aanval raken mensen gewond.",
+      "pt": "Pessoas se ferem no ataque.",
+      "cards": [
+        "difficult:299"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn koffer staat bij de deur.",
+      "pt": "Minha mala está perto da porta.",
+      "cards": [
+        "difficult:302"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We nemen afscheid bij de trein.",
+      "pt": "Nós nos despedimos junto ao trem.",
+      "cards": [
+        "difficult:303"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik speel voetbal bij een vereniging.",
+      "pt": "Jogo futebol em um clube.",
+      "cards": [
+        "difficult:304"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat een geweldig idee!",
+      "pt": "Que ideia ótima!",
+      "cards": [
+        "difficult:305"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er ligt zand op de bodem.",
+      "pt": "Há areia no fundo.",
+      "cards": [
+        "difficult:306"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "We hebben een overeenkomst over de prijs.",
+      "pt": "Temos um acordo sobre o preço.",
+      "cards": [
+        "difficult:308"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De voorzitter begint de vergadering.",
+      "pt": "O presidente inicia a reunião.",
+      "cards": [
+        "difficult:309"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Fietsen is goed voor het milieu.",
+      "pt": "Andar de bicicleta faz bem ao meio ambiente.",
+      "cards": [
+        "difficult:310"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het landschap is groen en vlak.",
+      "pt": "A paisagem é verde e plana.",
+      "cards": [
+        "difficult:312"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn antwoord is definitief.",
+      "pt": "Minha resposta é definitiva.",
+      "cards": [
+        "difficult:313"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Lees de vraag nauwkeurig.",
+      "pt": "Leia a pergunta com cuidado.",
+      "cards": [
+        "difficult:314"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Iedereen geeft een kleine bijdrage.",
+      "pt": "Cada um dá uma pequena contribuição.",
+      "cards": [
+        "difficult:315"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Na overleg kiezen we samen een datum.",
+      "pt": "Depois de conversar, escolhemos uma data juntos.",
+      "cards": [
+        "difficult:316"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn man kookt vandaag.",
+      "pt": "Meu marido cozinha hoje.",
+      "cards": [
+        "difficult:317"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Tot mijn verbazing is hij al thuis.",
+      "pt": "Para minha surpresa, ele já está em casa.",
+      "cards": [
+        "difficult:318"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik doe de gordijnen dicht.",
+      "pt": "Fecho as cortinas.",
+      "cards": [
+        "difficult:319"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit brood is goedkoop.",
+      "pt": "Este pão é barato.",
+      "cards": [
+        "difficult:320"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Op de fiets houd ik mijn evenwicht.",
+      "pt": "Mantenho o equilíbrio na bicicleta.",
+      "cards": [
+        "difficult:321"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn kleren zijn nog vochtig.",
+      "pt": "Minhas roupas ainda estão úmidas.",
+      "cards": [
+        "difficult:322"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "In vergelijking met jou ben ik klein.",
+      "pt": "Em comparação com você, sou baixo.",
+      "cards": [
+        "difficult:323"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wandelen is goed voor je gezondheid.",
+      "pt": "Caminhar faz bem para sua saúde.",
+      "cards": [
+        "difficult:324"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kern van het probleem is geld.",
+      "pt": "O dinheiro é a essência do problema.",
+      "cards": [
+        "difficult:325"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Hij zit in de gevangenis.",
+      "pt": "Ele está na prisão.",
+      "cards": [
+        "difficult:326"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn slaapkamer is boven.",
+      "pt": "Meu quarto fica no andar de cima.",
+      "cards": [
+        "difficult:327"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik was mijn kleren.",
+      "pt": "Lavo minhas roupas.",
+      "cards": [
+        "difficult:328"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze vraag is makkelijk.",
+      "pt": "Esta pergunta é fácil.",
+      "cards": [
+        "difficult:329"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben verbaasd.",
+      "pt": "Estou surpreso.",
+      "cards": [
+        "difficult:330"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik slaap onder een warme deken.",
+      "pt": "Durmo debaixo de um cobertor quente.",
+      "cards": [
+        "difficult:331"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het kind springt van vreugde.",
+      "pt": "A criança pula de alegria.",
+      "cards": [
+        "difficult:332"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Met deze tas reis ik met gemak.",
+      "pt": "Com esta bolsa, viajo com facilidade.",
+      "cards": [
+        "difficult:333"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De kunstenaar maakt een mooi schilderij.",
+      "pt": "O artista faz uma bela pintura.",
+      "cards": [
+        "difficult:334"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De burgemeester bezoekt onze school.",
+      "pt": "O prefeito visita nossa escola.",
+      "cards": [
+        "difficult:335"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het verlies van mijn hond doet pijn.",
+      "pt": "A perda do meu cachorro dói.",
+      "cards": [
+        "difficult:336"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wij kiezen voor een burgerlijk huwelijk.",
+      "pt": "Escolhemos um casamento civil.",
+      "cards": [
+        "difficult:337"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik vind die schoenen lelijk.",
+      "pt": "Acho esses sapatos feios.",
+      "cards": [
+        "difficult:338"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het overige eten gaat in de koelkast.",
+      "pt": "O restante da comida vai para a geladeira.",
+      "cards": [
+        "difficult:339"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ben je bereid om te helpen?",
+      "pt": "Você está disposto a ajudar?",
+      "cards": [
+        "difficult:340"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De koningin woont in een groot huis.",
+      "pt": "A rainha mora em uma casa grande.",
+      "cards": [
+        "difficult:341"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wie is de eigenaar van deze fiets?",
+      "pt": "Quem é o dono desta bicicleta?",
+      "cards": [
+        "difficult:342"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Onze eerste ontmoeting was op school.",
+      "pt": "Nosso primeiro encontro foi na escola.",
+      "cards": [
+        "difficult:343"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik schrijf een verslag over onze reis.",
+      "pt": "Escrevo um relato sobre nossa viagem.",
+      "cards": [
+        "difficult:344"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn broer komt onverwacht op bezoek.",
+      "pt": "Meu irmão vem fazer uma visita de surpresa.",
+      "cards": [
+        "difficult:345"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het personeel van deze winkel is aardig.",
+      "pt": "Os funcionários desta loja são simpáticos.",
+      "cards": [
+        "difficult:346"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Het is gezellig bij jou thuis.",
+      "pt": "A sua casa é aconchegante.",
+      "cards": [
+        "difficult:347"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn oma heeft een goed geheugen.",
+      "pt": "Minha avó tem uma boa memória.",
+      "cards": [
+        "difficult:348"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik ben verdrietig.",
+      "pt": "Estou triste.",
+      "cards": [
+        "difficult:349"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "De trein rijdt met hoge snelheid.",
+      "pt": "O trem anda em alta velocidade.",
+      "cards": [
+        "difficult:350"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dat is een gemene opmerking.",
+      "pt": "Esse é um comentário maldoso.",
+      "cards": [
+        "difficult:351"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze tas is nuttig voor school.",
+      "pt": "Esta bolsa é útil para a escola.",
+      "cards": [
+        "difficult:352"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Er is schade aan ons huis.",
+      "pt": "Há danos na nossa casa.",
+      "cards": [
+        "difficult:353"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Deze jas geeft bescherming tegen de regen.",
+      "pt": "Este casaco oferece proteção contra a chuva.",
+      "cards": [
+        "difficult:355"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik zie de noodzaak van deze hulp.",
+      "pt": "Entendo a necessidade desta ajuda.",
+      "cards": [
+        "difficult:356"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Wat jammer dat je niet komt!",
+      "pt": "Que pena que você não vem!",
+      "cards": [
+        "difficult:357"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn toekomstige huis heeft een tuin.",
+      "pt": "Minha futura casa tem um jardim.",
+      "cards": [
+        "difficult:358"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik lees een tijdschrift in de trein.",
+      "pt": "Leio uma revista no trem.",
+      "cards": [
+        "difficult:359"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Ik woon op de tweede verdieping.",
+      "pt": "Moro no segundo andar.",
+      "cards": [
+        "difficult:360"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Die prijs is aantrekkelijk.",
+      "pt": "Esse preço é atraente.",
+      "cards": [
+        "difficult:361"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Kinderen hebben een goede opvoeding nodig.",
+      "pt": "As crianças precisam de uma boa criação.",
+      "cards": [
+        "difficult:362"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Mijn tegenstander speelt heel goed.",
+      "pt": "Meu adversário joga muito bem.",
+      "cards": [
+        "difficult:363"
+      ],
+      "origin": "new"
+    },
+    {
+      "nl": "Dit kind is mijn verantwoordelijkheid.",
+      "pt": "Esta criança é minha responsabilidade.",
+      "cards": [
+        "difficult:364"
+      ],
+      "origin": "new"
     }
   ]
 }
