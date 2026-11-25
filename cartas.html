@@ -62,7 +62,7 @@ if(inline){const text=document.createElement('span');text.lang='nl';text.textCon
 button.onclick=event=>{event.stopPropagation();if(exampleAnchor===button&&examplePinned)closeExample();else showExample(button,word,true);};button.onmouseenter=()=>showExample(button,word);button.onfocus=()=>showExample(button,word);button.onmouseleave=deferExampleClose;button.onblur=()=>{if(exampleAnchor===button)closeExample();};return button;
 }
 async function loadExamples(){try{
-const response=await fetch('data/examples.json');if(!response.ok)throw Error('examples');const data=await response.json();if(data?.version!==1||!Array.isArray(data.examples))throw Error('examples');const loaded=new Map();
+const response=await fetch('data/examples.json',{cache:'no-cache'});if(!response.ok)throw Error('examples');const data=await response.json();if(data?.version!==1||!Array.isArray(data.examples))throw Error('examples');const loaded=new Map();
 for(const example of data.examples){if(!example||typeof example.nl!=='string'||!example.nl.trim()||example.nl.length>140||typeof example.pt!=='string'||!example.pt.trim()||example.pt.length>180||!Array.isArray(example.cards)||!example.cards.length||!example.cards.every(id=>typeof id==='string'&&/^(easy|medium|difficult):[1-9]\d*$/.test(id)))throw Error('example');for(const id of example.cards){if(loaded.has(id))throw Error('duplicate example');loaded.set(id,example);}}
 examples=loaded;el('example-instruction').hidden=!examples.size;
 }catch{el('example-status').textContent='Os exemplos não carregaram. Você pode continuar jogando normalmente.';}}
